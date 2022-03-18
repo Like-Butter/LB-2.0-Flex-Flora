@@ -365,18 +365,20 @@
         "16475781122f2d3fbc-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_1200x800_ffffff_cccccc.png",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "bag",
-            "title": "Special deal",
-            "text": "<p>Promotion description details.<\/p>"
+            "icon_label": "",
+            "title": "Made for you",
+            "text": "<p>We're creating an adaptable workflow so we can design, quote, build and deliver a custom solution which works just for you.<\/p>"
           }
         },
         "16475781122f2d3fbc-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_1200x800_ffffff_cccccc.png",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
