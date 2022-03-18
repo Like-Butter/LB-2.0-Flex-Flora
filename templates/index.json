@@ -237,6 +237,26 @@
         "custom_css": ""
       }
     },
+    "164757632377d25a8d": {
+      "type": "index__featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "eating",
+        "products_per": 5,
+        "mobile_products_per_row": "2",
+        "products_limit": 10,
+        "align_height": false,
+        "collection_height": 200,
+        "collection_style": "grid",
+        "width": "wide",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "1580924053032": {
       "type": "index__icon-with-text-column",
       "blocks": {
@@ -296,26 +316,6 @@
         "css_class": "",
         "custom_css": ""
       }
-    },
-    "164757632377d25a8d": {
-      "type": "index__featured-collection",
-      "settings": {
-        "title": "",
-        "collection": "eating",
-        "products_per": 5,
-        "mobile_products_per_row": "2",
-        "products_limit": 10,
-        "align_height": false,
-        "collection_height": 200,
-        "collection_style": "grid",
-        "width": "wide",
-        "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
     }
   },
   "order": [
@@ -324,7 +324,7 @@
     "164757335123d96651",
     "1647574614e5ee5e72",
     "164757619256fdb253",
-    "1580924053032",
-    "164757632377d25a8d"
+    "164757632377d25a8d",
+    "1580924053032"
   ]
 }
