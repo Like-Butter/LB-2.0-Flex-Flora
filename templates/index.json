@@ -1,113 +1,5 @@
 {
   "sections": {
-    "1580924053032": {
-      "type": "index__icon-with-text-column",
-      "blocks": {
-        "1580924053032-0": {
-          "type": "logo_image",
-          "settings": {
-            "icon_label": "box",
-            "title": "Green shipping",
-            "text": "<p>Our eco-friendly packaging (made from compostable &amp; recycled materials) holds your plant and pot securely for a clean and tidy unboxing experience.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "1580924053032-1": {
-          "type": "logo_image",
-          "settings": {
-            "icon_label": "leaf-2",
-            "title": "Potted perfection",
-            "text": "<p>Your potted plant or terrarium will be shipped with all the accoutrements - specific care instructions are also included. All you&#x27;ll have to do is unpack and enjoy.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "1580924053032-2": {
-          "type": "logo_image",
-          "settings": {
-            "icon_label": "chat",
-            "title": "Houseplant help",
-            "text": "<p>We&#x27;re here to help. Get in touch with our plant specialists for any plant care questions you may have. We&#x27;ll help you become a happy plant parent in no time!<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1580924053032-0",
-        "1580924053032-1",
-        "1580924053032-2"
-      ],
-      "settings": {
-        "icons_per_row": 3,
-        "icon_size": "small",
-        "align_text": "center",
-        "button_style": "button--primary",
-        "icon_color": "#faa06f",
-        "text_color": "rgba(0,0,0,0)",
-        "background": "rgba(0,0,0,0)",
-        "gradient": "rgba(0,0,0,0)",
-        "gradient_rotation": 0,
-        "width": "standard",
-        "show_gutter": true,
-        "padding_top": 60,
-        "padding_bottom": 40,
-        "padding_left": 0,
-        "padding_right": 0,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "1647572506f29f51ac": {
-      "type": "index__image-with-text",
-      "blocks": {
-        "1647572506352af334-0": {
-          "type": "image",
-          "settings": {
-            "image_crop": "none",
-            "image_link": ""
-          }
-        },
-        "1647572506352af334-1": {
-          "type": "image",
-          "settings": {
-            "image_crop": "none",
-            "image_link": ""
-          }
-        },
-        "1647572506352af334-2": {
-          "type": "text",
-          "settings": {
-            "title": "Heading text here",
-            "heading_size": "regular",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-            "button_label": "View all",
-            "link": "",
-            "button_style": "button--primary",
-            "background": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "center"
-          }
-        }
-      },
-      "block_order": [
-        "1647572506352af334-0",
-        "1647572506352af334-1",
-        "1647572506352af334-2"
-      ],
-      "settings": {
-        "width": "standard",
-        "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "1647572555ba26c03e": {
       "type": "index__slideshow-classic",
       "blocks": {
@@ -189,11 +81,58 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "16475725841952a970": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "164757258486e10776-0": {
+          "type": "image",
+          "settings": {
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "164757258486e10776-1": {
+          "type": "image",
+          "settings": {
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "164757258486e10776-2": {
+          "type": "text",
+          "settings": {
+            "title": "Heading text here",
+            "heading_size": "regular",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_label": "View all",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "164757258486e10776-0",
+        "164757258486e10776-1",
+        "164757258486e10776-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
-    "1580924053032",
-    "1647572506f29f51ac",
-    "1647572555ba26c03e"
+    "1647572555ba26c03e",
+    "16475725841952a970"
   ]
 }
