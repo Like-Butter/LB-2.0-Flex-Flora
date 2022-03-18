@@ -423,16 +423,8 @@
           "footer__icon-bar-2": {
             "type": "text",
             "settings": {
-              "icon": "chat",
-              "text": "24\/7 support",
-              "link": ""
-            }
-          },
-          "footer__icon-bar-3": {
-            "type": "text",
-            "settings": {
-              "icon": "truck",
-              "text": "Free shipping",
+              "icon": "rocket",
+              "text": "Customisable<br>& playful",
               "link": ""
             }
           }
@@ -440,8 +432,7 @@
         "block_order": [
           "footer__icon-bar-0",
           "footer__icon-bar-1",
-          "footer__icon-bar-2",
-          "footer__icon-bar-3"
+          "footer__icon-bar-2"
         ],
         "settings": {
           "show_icon_bar": true,
@@ -452,7 +443,7 @@
           "link_color": "#ffffff",
           "link_hover_color": "#000000",
           "text_color": "#ffffff",
-          "width": "standard",
+          "width": "wide",
           "css_class": "",
           "custom_css": ""
         }
