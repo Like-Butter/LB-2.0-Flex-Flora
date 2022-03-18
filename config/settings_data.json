@@ -481,12 +481,21 @@
               "content": "<p>30 Chelmsford Street<br\/>Kensington Victoria 3031<br\/>On the land of the Wurundjeri people.<br\/>Monday to Thursday 8am - 4pm for contactless click and collect.<\/p>",
               "social_icons_footer": false
             }
+          },
+          "bc2d8513-1680-4450-91b3-2b545558168d": {
+            "type": "text",
+            "settings": {
+              "title": "Workshop",
+              "content": "<p>15 Fitzgerald's Close<br\/>Castlemaine Victoria 345<\/p><p>On the land of the Dja Dja Wurrung people.<\/p><p>Monday to Thursday 8am - 4pm for contactless click and collect.<\/p>",
+              "social_icons_footer": false
+            }
           }
         },
         "block_order": [
           "7db7181d-742e-4079-ab8c-e15bedbc4fda",
           "1580840578921",
-          "1581460333724"
+          "1581460333724",
+          "bc2d8513-1680-4450-91b3-2b545558168d"
         ],
         "settings": {
           "copyright_text": "<p>All rights reserved.<\/p>",
