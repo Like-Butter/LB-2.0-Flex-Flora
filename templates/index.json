@@ -477,30 +477,35 @@
         "1647578373ffa384cc-0": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/House_Workshop.png",
             "link": ""
           }
         },
         "1647578373ffa384cc-1": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Greenfleet.png",
             "link": ""
           }
         },
         "1647578373ffa384cc-2": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Opendesk.png",
             "link": ""
           }
         },
         "1647578373ffa384cc-3": {
           "type": "logo_image",
           "settings": {
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Baux.png",
+            "link": "https:\/\/baux.theandrewsgroup.com.au\/"
           }
         },
         "1647578373ffa384cc-4": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Jonik.png",
             "link": ""
           }
         }
@@ -514,7 +519,7 @@
       ],
       "settings": {
         "logos_per_row": 5,
-        "logo_size": "medium",
+        "logo_size": "large",
         "background": "rgba(0,0,0,0)",
         "gradient": "rgba(0,0,0,0)",
         "gradient_rotation": 0,
