@@ -271,8 +271,8 @@
         "padding_left": 0,
         "padding_right": 0,
         "animation": "none",
-        "css_class": "",
-        "custom_css": ".image-with-text-overlay {\nmax-height: 300px !important\n}"
+        "css_class": "lb-box",
+        "custom_css": ".lb-box div {\nmax-height: 300px !important\n}"
       }
     }
   },
