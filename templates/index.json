@@ -239,7 +239,7 @@
       "type": "index__image-with-text-overlay",
       "settings": {
         "link": "",
-        "image": "shopify:\/\/shop_images\/dummy_1800x900_ffffff_febcd8.png",
+        "image": "shopify:\/\/shop_images\/dummy_1800x500_ffffff_cccccc.png",
         "pretext": "<p>Preheading<\/p>",
         "title": "Image with Text Overlay",
         "subtitle": "<p>Additional info in the subheading<\/p>",
@@ -271,8 +271,8 @@
         "padding_left": 0,
         "padding_right": 0,
         "animation": "none",
-        "css_class": "lb-box",
-        "custom_css": ".lb-box div {\nmax-height: 300px !important\n}"
+        "css_class": "",
+        "custom_css": ""
       }
     }
   },
