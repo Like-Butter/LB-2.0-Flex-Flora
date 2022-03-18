@@ -60,13 +60,62 @@
         "custom_css": ""
       }
     },
-    "1647571670f19ae420": {
+    "1647572506f29f51ac": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "1647572506352af334-0": {
+          "type": "image",
+          "settings": {
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "1647572506352af334-1": {
+          "type": "image",
+          "settings": {
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "1647572506352af334-2": {
+          "type": "text",
+          "settings": {
+            "title": "Heading text here",
+            "heading_size": "regular",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_label": "View all",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1647572506352af334-0",
+        "1647572506352af334-1",
+        "1647572506352af334-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1647572555ba26c03e": {
       "type": "index__slideshow-classic",
       "blocks": {
-        "1647571670c6514c4f-0": {
+        "16475725555f43ad53-0": {
           "type": "image",
           "settings": {
             "link": "",
+            "image": "shopify:\/\/shop_images\/dummy_1600x1000_ffffff_fe7446.png",
             "pretext": "<p>Preheading<\/p>",
             "title": "Flex Shopify Theme",
             "subtitle": "",
@@ -92,10 +141,11 @@
             "subheading_color_mobile": "rgba(0,0,0,0)"
           }
         },
-        "1647571670c6514c4f-1": {
+        "16475725555f43ad53-1": {
           "type": "image",
           "settings": {
             "link": "",
+            "image": "shopify:\/\/shop_images\/dummy_1600x1000_ffffff_fe7446.png",
             "pretext": "<p>Preheading<\/p>",
             "title": "Classic slideshow",
             "subtitle": "<p>Additional info in the subheading<\/p>",
@@ -123,8 +173,8 @@
         }
       },
       "block_order": [
-        "1647571670c6514c4f-0",
-        "1647571670c6514c4f-1"
+        "16475725555f43ad53-0",
+        "16475725555f43ad53-1"
       ],
       "settings": {
         "image_transition": "fade",
@@ -143,6 +193,7 @@
   },
   "order": [
     "1580924053032",
-    "1647571670f19ae420"
+    "1647572506f29f51ac",
+    "1647572555ba26c03e"
   ]
 }
