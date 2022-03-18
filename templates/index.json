@@ -444,9 +444,9 @@
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "tag",
-            "title": "Special deal",
-            "text": "<p>Promotion description details.<\/p>"
+            "icon_label": "",
+            "title": "Minimising our impact",
+            "text": "<p>From our rooftop solar, to sourcing renewable materials, and waste reduction strategies – including experiments with onsite sawdust composting – we are always looking for ways to minimise our impact.<\/p>"
           }
         }
       },
