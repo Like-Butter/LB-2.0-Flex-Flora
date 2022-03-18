@@ -103,7 +103,7 @@
     "dropdown_background_opacity": 100,
     "dropdown_link_color": "#493b36",
     "dropdown_link_hover_color": "#fe7446",
-    "footer_background": "#fdf7f0",
+    "footer_background": "#493b36",
     "footer_border": "rgba(0,0,0,0)",
     "footer_link_color": "#493b36",
     "footer_link_hover_color": "#fe7446",
@@ -495,11 +495,11 @@
         ],
         "settings": {
           "copyright_text": "",
-          "display_designed_by": true,
-          "display_shopify": true,
-          "display_payment_methods": true,
-          "show_locale_selector": true,
-          "show_currency_selector": true,
+          "display_designed_by": false,
+          "display_shopify": false,
+          "display_payment_methods": false,
+          "show_locale_selector": false,
+          "show_currency_selector": false,
           "css_class": "",
           "custom_css": ""
         }
