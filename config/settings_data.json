@@ -184,7 +184,7 @@
     "product_form_style": "dropdown",
     "swatch_style": "square",
     "notify_me_form": true,
-    "notify_me_description": "<p>Notify me when this product is available:</p>",
+    "notify_me_description": "<p>Notify me when this product is available:<\/p>",
     "size_chart": "",
     "enable_quickshop": false,
     "quickshop_button_style": "button--secondary",
@@ -221,9 +221,9 @@
     "default_currency": "USD",
     "disqus_enabled": false,
     "disqus_shortname": "",
-    "favicon": "shopify://shop_images/flora__favicon.png",
-    "checkout_header_image": "shopify://shop_images/flora__page--about-video-01.jpg",
-    "checkout_logo_image": "shopify://shop_images/flora__logo-white.png",
+    "favicon": "shopify:\/\/shop_images\/flora__favicon.png",
+    "checkout_header_image": "shopify:\/\/shop_images\/flora__page--about-video-01.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/flora__logo-white.png",
     "checkout_logo_position": "right",
     "checkout_logo_size": "small",
     "checkout_body_background_image": "",
@@ -244,13 +244,13 @@
         "type": "announcement-bar",
         "settings": {
           "icon_label": "",
-          "text": "<p><strong>We&#x27;re now offering free local delivery and curbside pickup.</strong></p>",
+          "text": "<p><strong>We're now offering free local delivery and curbside pickup.<\/strong><\/p>",
           "alignment": "center",
           "size": "regular",
           "button_label": "",
           "link": "",
           "button_style": "button--primary",
-          "background": "#faa772",
+          "background": "#fe7446",
           "text_color": "#ffffff",
           "width": "standard",
           "homepage_only": false,
@@ -271,7 +271,8 @@
           },
           "header__top-bar-1": {
             "type": "social_media",
-            "settings": {}
+            "settings": {
+            }
           }
         },
         "block_order": [
@@ -298,7 +299,6 @@
       "header-classic": {
         "type": "header-classic",
         "settings": {
-          "logo": "shopify://shop_images/flora__logo-colour.png",
           "logo_width": 145,
           "main_linklist": "main-menu",
           "menu_alignment": "center",
@@ -330,7 +330,7 @@
               "richtext_top": "",
               "image_link_top": "",
               "image_caption_top": "",
-              "menu_1": "plants",
+              "menu_1": "",
               "menu_1_link": "",
               "menu_2": "",
               "menu_2_link": "",
@@ -338,9 +338,8 @@
               "menu_3_link": "",
               "menu_4": "",
               "menu_4_link": "",
-              "image_bottom": "shopify://shop_images/flora__megamenu_01.jpg",
-              "image_link_bottom": "shopify://blogs/the-plant-lover-companion/healing-herbs",
-              "richtext_bottom": "<p><strong>Grow your own greens</strong></p>"
+              "image_link_bottom": "shopify:\/\/blogs\/the-plant-lover-companion\/healing-herbs",
+              "richtext_bottom": "<p><strong>Grow your own greens<\/strong><\/p>"
             }
           },
           "1582669988143": {
@@ -349,7 +348,7 @@
               "richtext_top": "",
               "image_link_top": "",
               "image_caption_top": "",
-              "menu_1": "lifestyle",
+              "menu_1": "",
               "menu_1_link": "",
               "menu_2": "",
               "menu_2_link": "",
@@ -357,9 +356,8 @@
               "menu_3_link": "",
               "menu_4": "",
               "menu_4_link": "",
-              "image_bottom": "shopify://shop_images/flora__megamenu_02.jpg",
-              "image_link_bottom": "shopify://collections/mugs",
-              "richtext_bottom": "<p><strong>Show your plant pride</strong></p>"
+              "image_link_bottom": "shopify:\/\/collections\/mugs",
+              "richtext_bottom": "<p><strong>Show your plant pride<\/strong><\/p>"
             }
           },
           "1582670351939": {
@@ -368,7 +366,7 @@
               "richtext_top": "",
               "image_link_top": "",
               "image_caption_top": "",
-              "menu_1": "accessories",
+              "menu_1": "",
               "menu_1_link": "",
               "menu_2": "",
               "menu_2_link": "",
@@ -376,9 +374,8 @@
               "menu_3_link": "",
               "menu_4": "",
               "menu_4_link": "",
-              "image_bottom": "shopify://shop_images/flora__megamenu-03.jpg",
-              "image_link_bottom": "shopify://blogs/the-plant-lover-companion/a-beginners-guide-to-plant-propogration",
-              "richtext_bottom": "<p><strong>Pet-friendly options</strong></p>"
+              "image_link_bottom": "shopify:\/\/blogs\/the-plant-lover-companion\/a-beginners-guide-to-plant-propogration",
+              "richtext_bottom": "<p><strong>Pet-friendly options<\/strong><\/p>"
             }
           }
         },
@@ -426,7 +423,7 @@
             "type": "text",
             "settings": {
               "icon": "chat",
-              "text": "24/7 support",
+              "text": "24\/7 support",
               "link": ""
             }
           },
@@ -465,9 +462,8 @@
           "footer-classic-0": {
             "type": "logo",
             "settings": {
-              "logo": "shopify://shop_images/flora__footer-logo.png",
               "size": "medium",
-              "text": "<p>Connecting people to plants everyday.</p>",
+              "text": "<p>Connecting people to plants everyday.<\/p>",
               "social_icons_footer": true
             }
           },
@@ -491,7 +487,7 @@
             "type": "text",
             "settings": {
               "title": "Courtesy",
-              "content": "<p>This is a demo shop for the<strong> </strong><a href=\"https://outofthesandbox.com/products/flex-theme\" title=\"https://outofthesandbox.com/products/flex-theme\"><strong>Flex Shopify Theme</strong></a> by Out of the Sandbox. Plant product images are courtesy of <a href=\"https://lulu-angel.myshopify.com/\" title=\"https://lulu-angel.myshopify.com/\"><em>Lulu and Angel</em></a><em>.</em></p>",
+              "content": "<p>This is a demo shop for the<strong> <\/strong><a href=\"https:\/\/outofthesandbox.com\/products\/flex-theme\" title=\"https:\/\/outofthesandbox.com\/products\/flex-theme\"><strong>Flex Shopify Theme<\/strong><\/a> by Out of the Sandbox. Plant product images are courtesy of <a href=\"https:\/\/lulu-angel.myshopify.com\/\" title=\"https:\/\/lulu-angel.myshopify.com\/\"><em>Lulu and Angel<\/em><\/a><em>.<\/em><\/p>",
               "social_icons_footer": false
             }
           }
@@ -533,12 +529,13 @@
             "type": "text",
             "settings": {
               "title": "Title",
-              "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+              "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
             }
           },
           "footer-centered-3": {
             "type": "social",
-            "settings": {}
+            "settings": {
+            }
           }
         },
         "block_order": [
@@ -558,24 +555,10 @@
           "custom_css": ""
         }
       },
-      "404__banner": {
-        "type": "404__banner",
-        "settings": {
-          "show_banner": true,
-          "image": "shopify://shop_images/flora__page--search-01.jpg",
-          "image_darken": false,
-          "width": "standard",
-          "banner_height": "medium",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
       "404__main": {
         "type": "404__main",
         "settings": {
-          "not_found_text": "<p>We're sorry, but the page you requested could not be found.</p><p>Try searching or <a href='{{ routes.all_products_collection_url }}'>continue shopping</a>.</p>",
+          "not_found_text": "<p>We're sorry, but the page you requested could not be found.<\/p><p>Try searching or <a href='{{ routes.all_products_collection_url }}'>continue shopping<\/a>.<\/p>",
           "display_search_field": true,
           "width": "standard",
           "padding_top": 40,
@@ -593,7 +576,7 @@
               "richtext_top": "",
               "image_link_top": "",
               "image_caption_top": "",
-              "menu_1": "plant-care-101",
+              "menu_1": "",
               "menu_1_link": "",
               "menu_2": "",
               "menu_2_link": "",
@@ -601,9 +584,8 @@
               "menu_3_link": "",
               "menu_4": "",
               "menu_4_link": "",
-              "image_bottom": "shopify://shop_images/flora__megamenu_04.jpg",
-              "image_link_bottom": "shopify://blogs/the-plant-lover-companion/a-beginners-guide-to-plant-propogration",
-              "richtext_bottom": "<p>Propagation and potting tips</p>"
+              "image_link_bottom": "shopify:\/\/blogs\/the-plant-lover-companion\/a-beginners-guide-to-plant-propogration",
+              "richtext_bottom": "<p>Propagation and potting tips<\/p>"
             }
           },
           "1582673636915": {
@@ -612,7 +594,7 @@
               "richtext_top": "",
               "image_link_top": "",
               "image_caption_top": "",
-              "menu_1": "tips-tricks",
+              "menu_1": "",
               "menu_1_link": "",
               "menu_2": "",
               "menu_2_link": "",
@@ -620,9 +602,8 @@
               "menu_3_link": "",
               "menu_4": "",
               "menu_4_link": "",
-              "image_bottom": "shopify://shop_images/flora__megamenu-05.jpg",
-              "image_link_bottom": "shopify://blogs/the-plant-lover-companion/plants-for-every-room",
-              "richtext_bottom": "<p>Find your perfect plant</p>"
+              "image_link_bottom": "shopify:\/\/blogs\/the-plant-lover-companion\/plants-for-every-room",
+              "richtext_bottom": "<p>Find your perfect plant<\/p>"
             }
           },
           "1582673863827": {
@@ -631,7 +612,7 @@
               "richtext_top": "",
               "image_link_top": "",
               "image_caption_top": "",
-              "menu_1": "diy-design",
+              "menu_1": "",
               "menu_1_link": "",
               "menu_2": "",
               "menu_2_link": "",
@@ -639,9 +620,8 @@
               "menu_3_link": "",
               "menu_4": "",
               "menu_4_link": "",
-              "image_bottom": "shopify://shop_images/flora__megamenu_06.jpg",
-              "image_link_bottom": "shopify://blogs/the-plant-lover-companion/diy-terrarium",
-              "richtext_bottom": "<p>Building your own terrarium</p>"
+              "image_link_bottom": "shopify:\/\/blogs\/the-plant-lover-companion\/diy-terrarium",
+              "richtext_bottom": "<p>Building your own terrarium<\/p>"
             }
           }
         },
@@ -658,394 +638,10 @@
           "show_mega_bottom_bar": false,
           "mega_bottom_bar_icon": "info",
           "mega_bottom_bar_text": "",
-          "mega_bottom_bar_link": "shopify://pages/contact-us",
+          "mega_bottom_bar_link": "shopify:\/\/pages\/contact-us",
           "size": "regular",
           "bottom_banner_bg": "#eef8f4",
           "bottom_banner_text": "#000000",
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "page-details__main": {
-        "type": "page-details__main",
-        "blocks": {
-          "1582902567402": {
-            "type": "image_with_overlay",
-            "settings": {
-              "image": "shopify://shop_images/flora__page--about-iwto-01.png",
-              "pretext": "",
-              "title": "Bringing plants & people together",
-              "subtitle": "<p>Plants make people happy. It&#x27;s that simple.</p>",
-              "pretext_color": "#000000",
-              "heading_color": "#000000",
-              "subheading_color": "#000000",
-              "text_alignment": "center",
-              "text_horizontal_position": "center",
-              "text_vertical_position": "middle",
-              "background_color": "#ffffff",
-              "background_opacity": 77,
-              "border_color": "#ffffff",
-              "border_width": 9,
-              "text_width": 50,
-              "button_1": "Our approach",
-              "button_1_link": "shopify://blogs/the-plant-lover-companion",
-              "button_1_style": "button--secondary",
-              "button_2": "",
-              "button_2_style": "button--secondary",
-              "mobile_image_crop": "none",
-              "mobile_text_below_image": true,
-              "pretext_color_mobile": "rgba(0,0,0,0)",
-              "heading_color_mobile": "rgba(0,0,0,0)",
-              "subheading_color_mobile": "rgba(0,0,0,0)",
-              "width": "standard",
-              "padding_top": 31,
-              "padding_bottom": 0,
-              "padding_left": 0,
-              "padding_right": 0,
-              "animation": "none"
-            }
-          },
-          "1582825471587": {
-            "type": "rich_text",
-            "settings": {
-              "title": "We're purveyors of a green lifestyle",
-              "heading_font": "caslon_bold_n4",
-              "heading_color": "rgba(0,0,0,0)",
-              "heading_alignment": "center",
-              "heading_size": 50,
-              "text": "",
-              "text_font": "open_sans_n4",
-              "text_color": "rgba(0,0,0,0)",
-              "text_alignment": "left",
-              "text_size": 14,
-              "columns": 1,
-              "button_label": "",
-              "button_alignment": "center",
-              "button_style": "button--primary",
-              "background": "rgba(0,0,0,0)",
-              "gradient": "rgba(0,0,0,0)",
-              "gradient_rotation": 180,
-              "width": "wide",
-              "padding_top": 50,
-              "padding_bottom": 0,
-              "padding_left": 0,
-              "padding_right": 0,
-              "animation": "none"
-            }
-          },
-          "page-details__main-1": {
-            "type": "featured_collection",
-            "settings": {
-              "title": "",
-              "collection": "getting-started",
-              "products_per": 5,
-              "mobile_products_per_row": "2",
-              "products_limit": 5,
-              "align_height": false,
-              "collection_height": 200,
-              "collection_style": "grid",
-              "width": "standard",
-              "show_gutter": true,
-              "padding_top": 60,
-              "padding_bottom": 20,
-              "animation": "none"
-            }
-          },
-          "1582828857512": {
-            "type": "featured_video",
-            "settings": {
-              "aspect_ratio": "16:9",
-              "autoplay": false,
-              "autoloop": true,
-              "mute_video": false,
-              "controls": true,
-              "iframe_video": "https://www.youtube.com/watch?v=_hYeX0QJOXw&feature=emb_logo",
-              "html5_video": "",
-              "image": "shopify://shop_images/flora__page--about-video-01.jpg",
-              "pretext": "",
-              "title": "Gift Happy",
-              "subtitle": "",
-              "pretext_color": "#000000",
-              "heading_color": "#eb8844",
-              "subheading_color": "#000000",
-              "horizontal_text_position": "center",
-              "vertical_text_position": "center",
-              "text_align": "center",
-              "button_label": "Play video",
-              "button_style": "button--secondary",
-              "overlay_style": "text_only",
-              "video_overlay_color": "#ffffff",
-              "gradient": "rgba(0,0,0,0)",
-              "gradient_rotation": 180,
-              "background_opacity": 60,
-              "text_width": 90,
-              "mobile_text_below_video": false,
-              "pretext_color_mobile": "rgba(0,0,0,0)",
-              "heading_color_mobile": "rgba(0,0,0,0)",
-              "subheading_color_mobile": "rgba(0,0,0,0)",
-              "width": "half",
-              "padding_top": 20,
-              "padding_bottom": 40,
-              "padding_left": 80,
-              "padding_right": 10,
-              "animation": "none"
-            }
-          },
-          "1582828867177": {
-            "type": "featured_video",
-            "settings": {
-              "aspect_ratio": "16:9",
-              "autoplay": false,
-              "autoloop": true,
-              "mute_video": false,
-              "controls": true,
-              "iframe_video": "https://www.youtube.com/watch?v=Nd-3uvnGZtU",
-              "html5_video": "",
-              "image": "shopify://shop_images/flora__page--about-video-02.jpg",
-              "pretext": "",
-              "title": "Plant Parenting",
-              "subtitle": "",
-              "pretext_color": "#000000",
-              "heading_color": "#029a77",
-              "subheading_color": "#000000",
-              "horizontal_text_position": "center",
-              "vertical_text_position": "center",
-              "text_align": "center",
-              "button_label": "Play video",
-              "button_style": "button--primary",
-              "overlay_style": "text_only",
-              "video_overlay_color": "#ffffff",
-              "gradient": "rgba(0,0,0,0)",
-              "gradient_rotation": 180,
-              "background_opacity": 60,
-              "text_width": 90,
-              "mobile_text_below_video": false,
-              "pretext_color_mobile": "rgba(0,0,0,0)",
-              "heading_color_mobile": "rgba(0,0,0,0)",
-              "subheading_color_mobile": "rgba(0,0,0,0)",
-              "width": "half",
-              "padding_top": 20,
-              "padding_bottom": 40,
-              "padding_left": 10,
-              "padding_right": 80,
-              "animation": "none"
-            }
-          },
-          "1582828994588": {
-            "type": "rich_text",
-            "settings": {
-              "title": "Let's grow together",
-              "heading_font": "caslon_bold_n4",
-              "heading_color": "rgba(0,0,0,0)",
-              "heading_alignment": "center",
-              "heading_size": 50,
-              "text": "<p>We&#x27;re creating an environmentally-conscious community of plant lovers, ecology experts and horticultural specialist. Gathering to thrive and uplift each other while pursuing our plant passions.  Interested? Everyone&#x27;s welcome. </p>",
-              "text_font": "itc_charter_n4",
-              "text_color": "rgba(0,0,0,0)",
-              "text_alignment": "center",
-              "text_size": 21,
-              "columns": 1,
-              "button_label": "Get in touch",
-              "button_link": "shopify://pages/contact-us",
-              "button_alignment": "center",
-              "button_style": "button--link-style",
-              "background": "rgba(0,0,0,0)",
-              "gradient": "rgba(0,0,0,0)",
-              "gradient_rotation": 180,
-              "width": "wide",
-              "padding_top": 20,
-              "padding_bottom": 80,
-              "padding_left": 0,
-              "padding_right": 0,
-              "animation": "none"
-            }
-          }
-        },
-        "block_order": [
-          "1582902567402",
-          "1582825471587",
-          "page-details__main-1",
-          "1582828857512",
-          "1582828867177",
-          "1582828994588"
-        ],
-        "settings": {
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "page-faq__banner": {
-        "type": "page-faq__banner",
-        "settings": {
-          "show_banner": false,
-          "image": "",
-          "image_darken": false,
-          "subtitle": "Subheading",
-          "width": "wide",
-          "banner_height": "medium",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "page-faq__main": {
-        "type": "page-faq__main",
-        "settings": {
-          "width": "standard",
-          "padding_top": 40,
-          "padding_bottom": 40,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "page-faq__column1": {
-        "type": "page-faq__column1",
-        "blocks": {
-          "page-faq__column1-0": {
-            "type": "heading",
-            "settings": {
-              "title": "Plants"
-            }
-          },
-          "page-faq__column1-1": {
-            "type": "content",
-            "settings": {
-              "title": "How often do you get new plants in?",
-              "answer": "<p>We make regular plant orders once a week, with orders from specialty suppliers coming in twice a month. Feel free to <a href=\"/pages/contact-us\" title=\"Contact Us\">reach out to us</a> if you're looking for a specific plant variety.&nbsp;</p>"
-            }
-          },
-          "page-faq__column1-2": {
-            "type": "content",
-            "settings": {
-              "title": "My plant doesn't look the same as the photo – how come?",
-              "answer": "<p>It is the nature of handmade&nbsp;ceramics&nbsp;and living plants to have some variations in color,&nbsp;size and finish. Because each plant and pot is unique, you may notice subtle differences&nbsp;with your potted plant and the picture online.&nbsp;</p>"
-            }
-          },
-          "page-faq__column1-3": {
-            "type": "content",
-            "settings": {
-              "title": "My terrarium died, can you help?",
-              "answer": "<p>Don't worry, it happens to the bet of us! Contact us for a refresh or follow our DIY instructions <a href=\"/blogs/the-plant-lover-companion/diy-terrarium\" title=\"DIY terrariums\">here</a>.&nbsp;&nbsp;</p>"
-            }
-          },
-          "page-faq__column1-4": {
-            "type": "heading",
-            "settings": {
-              "title": "Orders & Delivery"
-            }
-          },
-          "page-faq__column1-5": {
-            "type": "content",
-            "settings": {
-              "title": "How can I check my order status?",
-              "answer": "<p>Once your order ships, you'll receive an email notification that contains a tracking number. You can track your order by looking up the tracking number&nbsp;on the delivery company's website.&nbsp;</p>"
-            }
-          },
-          "page-faq__column1-6": {
-            "type": "content",
-            "settings": {
-              "title": "What's your return policy?",
-              "answer": "<p>Due to the nature of the product, we handle plant return requests on a case-by-case basis.&nbsp;We accept returns for plant accessories &amp; lifestyle products.</p>"
-            }
-          },
-          "page-faq__column1-7": {
-            "type": "content",
-            "settings": {
-              "title": "Where do you ship?",
-              "answer": "<p>We currently ship to Canada and the United States.&nbsp;</p>"
-            }
-          }
-        },
-        "block_order": [
-          "page-faq__column1-0",
-          "page-faq__column1-1",
-          "page-faq__column1-2",
-          "page-faq__column1-3",
-          "page-faq__column1-4",
-          "page-faq__column1-5",
-          "page-faq__column1-6",
-          "page-faq__column1-7"
-        ],
-        "settings": {
-          "padding_top": 30,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "page-faq__column2": {
-        "type": "page-faq__column2",
-        "blocks": {
-          "page-faq__column2-0": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/flora__page--faq-01.png"
-            }
-          }
-        },
-        "block_order": [
-          "page-faq__column2-0"
-        ],
-        "settings": {
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "blog__banner": {
-        "type": "blog__banner",
-        "settings": {
-          "show_banner": true,
-          "image": "shopify://shop_images/flora__page--blog-01.jpg",
-          "image_darken": false,
-          "subtitle": "",
-          "width": "standard",
-          "banner_height": "medium",
-          "padding_top": 35,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "blog__sidebar": {
-        "type": "blog__sidebar",
-        "blocks": {
-          "blog__sidebar-0": {
-            "type": "featured_promo",
-            "settings": {
-              "promo_background": "#eeeeee",
-              "promo_text": "#000000",
-              "promo_image": "",
-              "richtext": "<p>Use this area for promotional information.</p>",
-              "promo_link": "",
-              "button_label": "Shop now",
-              "button_style": "button--primary"
-            }
-          },
-          "blog__sidebar-1": {
-            "type": "menu",
-            "settings": {
-              "menu": ""
-            }
-          },
-          "blog__sidebar-2": {
-            "type": "text",
-            "settings": {
-              "title": "Heading",
-              "text": "<p>Text area can be used for details about blog authors or general information.</p>"
-            }
-          }
-        },
-        "block_order": [
-          "blog__sidebar-0",
-          "blog__sidebar-1",
-          "blog__sidebar-2"
-        ],
-        "settings": {
-          "show_sidebar": false,
-          "sidebar_position": "right",
           "css_class": "",
           "custom_css": ""
         }
@@ -1074,151 +670,6 @@
           "custom_css": ""
         }
       },
-      "page-contact__banner": {
-        "type": "page-contact__banner",
-        "settings": {
-          "show_banner": false,
-          "image": "",
-          "image_darken": false,
-          "subtitle": "Subheading",
-          "width": "standard",
-          "banner_height": "medium",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "page-contact__main": {
-        "type": "page-contact__main",
-        "blocks": {
-          "1582831600836": {
-            "type": "paragraph",
-            "settings": {
-              "text": "<p>We'd love to hear from you! Fill out our contact form to get in touch with our team.&nbsp;</p>"
-            }
-          },
-          "1582831556477": {
-            "type": "dropdown",
-            "settings": {
-              "label": "What can we help with?",
-              "required": false,
-              "options_1": "Plant Selection",
-              "options_2": "Online Orders",
-              "options_3": "Plant Care Help",
-              "options_4": "Partnership Opportunities",
-              "options_5": "",
-              "options_6": "",
-              "options_7": "",
-              "options_8": "",
-              "options_9": "",
-              "options_10": ""
-            }
-          },
-          "page-contact__main-0": {
-            "type": "textfield",
-            "settings": {
-              "label": "Name",
-              "required": true
-            }
-          },
-          "page-contact__main-1": {
-            "type": "email",
-            "settings": {
-              "label": "Email"
-            }
-          },
-          "page-contact__main-2": {
-            "type": "textarea",
-            "settings": {
-              "label": "Message",
-              "required": true
-            }
-          },
-          "1582831579981": {
-            "type": "checkbox",
-            "settings": {
-              "label": "Subscribe to our newsletter to get the dirt on new products & more.",
-              "required": false,
-              "options_1": "Yes please!",
-              "options_2": "",
-              "options_3": "",
-              "options_4": "",
-              "options_5": "",
-              "options_6": "",
-              "options_7": "",
-              "options_8": "",
-              "options_9": "",
-              "options_10": ""
-            }
-          }
-        },
-        "block_order": [
-          "1582831600836",
-          "1582831556477",
-          "page-contact__main-0",
-          "page-contact__main-1",
-          "page-contact__main-2",
-          "1582831579981"
-        ],
-        "settings": {
-          "content_image": "shopify://shop_images/flora__page--contact-01.png",
-          "title": "Looking to get in touch?",
-          "content_text": "<p>Our team is here to help answer any questions you may have about our products, plant care &amp; more! We'll get back to you as soon as we can. Please keep in mind that we're in office hours from 9am - 5pm EST, Monday - Friday.</p>",
-          "social_enable": true,
-          "text_alignment": "left",
-          "background": "#fdf7f0",
-          "text_color": "#746661",
-          "form_position": "right",
-          "width": "standard",
-          "padding_top": 40,
-          "padding_bottom": 40,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "page-contact__sections": {
-        "type": "page-contact__sections",
-        "blocks": {
-          "page-contact__sections-1": {
-            "type": "map",
-            "settings": {
-              "map_address": "manhattan",
-              "map_height": 400,
-              "zoom_level": 15,
-              "map_image": "",
-              "api_key": "",
-              "show_pin": true,
-              "map_style": "default",
-              "width": "standard",
-              "padding_top": 0,
-              "padding_bottom": 50,
-              "padding_left": 0,
-              "padding_right": 0,
-              "animation": "none"
-            }
-          }
-        },
-        "block_order": [
-          "page-contact__sections-1"
-        ],
-        "settings": {}
-      },
-      "cart__banner": {
-        "type": "cart__banner",
-        "settings": {
-          "show_banner": false,
-          "image": "",
-          "image_darken": false,
-          "subtitle": "",
-          "width": "wide",
-          "banner_height": "small",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
       "cart__main": {
         "type": "cart__main",
         "settings": {
@@ -1230,68 +681,6 @@
           "padding_bottom": 40,
           "css_class": "",
           "custom_css": ""
-        }
-      },
-      "article__banner": {
-        "type": "article__banner",
-        "settings": {
-          "show_banner": false,
-          "image_darken": false,
-          "width": "wide",
-          "banner_height": "medium",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "article__sidebar": {
-        "type": "article__sidebar",
-        "blocks": {
-          "1582324445112": {
-            "type": "search",
-            "settings": {
-              "title": "",
-              "search_results": "search_everything"
-            }
-          },
-          "article__sidebar-0": {
-            "type": "featured_promo",
-            "settings": {
-              "promo_background": "rgba(0,0,0,0)",
-              "promo_text": "#000000",
-              "promo_image": "shopify://shop_images/flora__page-blog-02.jpg",
-              "richtext": "<p>Looking to start a plant family? Check out our book selection&nbsp;to&nbsp;discover everything you need to know!&nbsp;</p>",
-              "promo_link": "shopify://collections/books",
-              "button_label": "Shop now",
-              "button_style": "button--link-style"
-            }
-          },
-          "1582324431946": {
-            "type": "post_tags",
-            "settings": {
-              "title": "Topics",
-              "blog": "the-plant-lover-companion"
-            }
-          },
-          "article__sidebar-1": {
-            "type": "menu",
-            "settings": {
-              "menu": "footer"
-            }
-          }
-        },
-        "block_order": [
-          "1582324445112",
-          "article__sidebar-0",
-          "1582324431946",
-          "article__sidebar-1"
-        ],
-        "settings": {
-          "show_sidebar": true,
-          "sidebar_position": "right",
-          "css_class": "",
-          "custom_css": ".sidebar__promo-container {\npadding: 5px;\n}"
         }
       },
       "article__main": {
@@ -1311,61 +700,6 @@
           "custom_css": ""
         }
       },
-      "collection__banner": {
-        "type": "collection__banner",
-        "settings": {
-          "show_banner": false,
-          "image": "",
-          "image_darken": false,
-          "subtitle": "Subheading",
-          "width": "wide",
-          "banner_height": "medium",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "collection__sidebar": {
-        "type": "collection__sidebar",
-        "blocks": {
-          "collection__sidebar-0": {
-            "type": "featured_promo",
-            "settings": {
-              "promo_background": "#eeeeee",
-              "promo_text": "#000000",
-              "promo_image": "",
-              "richtext": "<p>Use this area for promotional information.</p>",
-              "promo_link": "",
-              "button_label": "Shop now",
-              "button_style": "button--primary"
-            }
-          },
-          "collection__sidebar-1": {
-            "type": "menu",
-            "settings": {
-              "menu": ""
-            }
-          },
-          "collection__sidebar-2": {
-            "type": "text",
-            "settings": {
-              "title": "Heading",
-              "text": "<p>Text area can be used for details about blog authors or general information.</p>"
-            }
-          }
-        },
-        "block_order": [
-          "collection__sidebar-0",
-          "collection__sidebar-1",
-          "collection__sidebar-2"
-        ],
-        "settings": {
-          "show_sidebar": false,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
       "collection__main": {
         "type": "collection__main",
         "settings": {
@@ -1376,7 +710,7 @@
           "image": "",
           "image_darken": true,
           "promo_title": "Special sale on now!",
-          "promo_text": "<p>Description of promotion with lots of details.</p>",
+          "promo_text": "<p>Description of promotion with lots of details.<\/p>",
           "banner_height": "medium",
           "align_height": false,
           "collection_height": 200,
@@ -1399,7 +733,7 @@
             "settings": {
               "promo_background": "#eeeeee",
               "promo_text": "#000000",
-              "richtext": "<p>Use this area for promotional information.</p>",
+              "richtext": "<p>Use this area for promotional information.<\/p>",
               "button_label": "Shop now",
               "button_style": "button--primary"
             }
@@ -1414,7 +748,7 @@
             "type": "text",
             "settings": {
               "title": "Heading",
-              "text": "<p>Text area can be used for details about blog authors or general information.</p>"
+              "text": "<p>Text area can be used for details about blog authors or general information.<\/p>"
             }
           }
         },
@@ -1501,7 +835,7 @@
             "type": "text",
             "settings": {
               "title": "Title",
-              "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+              "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
             }
           }
         },
@@ -1522,64 +856,10 @@
           "promo_text": "#000000",
           "promo_position": "row-reverse",
           "promo_image": "",
-          "richtext": "<p>Use this area for promotional information.</p>",
+          "richtext": "<p>Use this area for promotional information.<\/p>",
           "promo_link": "",
           "button_label": "Shop now",
           "button_style": "button--primary",
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "search__banner": {
-        "type": "search__banner",
-        "settings": {
-          "show_banner": true,
-          "image": "shopify://shop_images/flora__page--search-01.jpg",
-          "image_darken": false,
-          "width": "standard",
-          "banner_height": "medium",
-          "padding_top": 35,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "search__sidebar": {
-        "type": "search__sidebar",
-        "blocks": {
-          "search__sidebar-0": {
-            "type": "featured_promo",
-            "settings": {
-              "promo_background": "#eeeeee",
-              "promo_text": "#000000",
-              "promo_image": "",
-              "richtext": "<p>Use this area for promotional information.</p>",
-              "promo_link": "",
-              "button_label": "Shop now",
-              "button_style": "button--primary"
-            }
-          },
-          "search__sidebar-1": {
-            "type": "menu",
-            "settings": {
-              "menu": ""
-            }
-          },
-          "search__sidebar-2": {
-            "type": "text",
-            "settings": {
-              "title": "Heading",
-              "text": "<p>Text area can be used for details about blog authors or general information.</p>"
-            }
-          }
-        },
-        "block_order": [
-          "search__sidebar-0",
-          "search__sidebar-1",
-          "search__sidebar-2"
-        ],
-        "settings": {
-          "show_sidebar": false,
           "css_class": "",
           "custom_css": ""
         }
@@ -1588,7 +868,7 @@
         "type": "search__main",
         "settings": {
           "search_breadcrumb": true,
-          "text": "<p>Find what you seek.</p>",
+          "text": "<p>Find what you seek.<\/p>",
           "products_per_row": 3,
           "mobile_products_per_row": "2",
           "pagination_limit": 48,
@@ -1627,7 +907,7 @@
       "password__main": {
         "type": "password__main",
         "settings": {
-          "custom_logo": "shopify://shop_images/flora__logo-white.png",
+          "custom_logo": "shopify:\/\/shop_images\/flora__logo-white.png",
           "password-page-background": "",
           "pagework_page_bg_stretched": true,
           "copyright_text": "",
@@ -1656,14 +936,13 @@
           "border_color": "#f5e8d3",
           "border_width": 10,
           "newsletter_title": "Get the dirt.",
-          "newsletter_text": "<p>Sign up for our newsletter to get early access on new product releases and plant care advice from our team straight to your inbox!</p>",
+          "newsletter_text": "<p>Sign up for our newsletter to get early access on new product releases and plant care advice from our team straight to your inbox!<\/p>",
           "newsletter_section_text_align": "left",
           "text_color": "#000000",
           "background_color": "#ffffff",
           "show_signup_form": true,
           "display_first_name": true,
           "display_last_name": true,
-          "image": "shopify://shop_images/flora__popup.jpg",
           "image_cropping": "center",
           "image_position": "left",
           "overlay_color": "#fdf7f0",
@@ -1675,6 +954,9 @@
           "custom_css": ""
         }
       }
-    }
+    },
+    "content_for_index": [
+
+    ]
   }
 }
