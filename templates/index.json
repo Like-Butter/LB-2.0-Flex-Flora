@@ -197,7 +197,7 @@
         "heading_color_mobile": "rgba(0,0,0,0)",
         "subheading_color_mobile": "rgba(0,0,0,0)",
         "width": "wide",
-        "padding_top": 0,
+        "padding_top": 20,
         "padding_bottom": 0,
         "padding_left": 0,
         "padding_right": 0,
