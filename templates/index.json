@@ -88,7 +88,7 @@
         "16475733512df3892c-0": {
           "type": "collection",
           "settings": {
-            "feature_collection": "",
+            "feature_collection": "stacking",
             "title": "",
             "button_label": "View products"
           }
@@ -96,7 +96,7 @@
         "16475733512df3892c-1": {
           "type": "collection",
           "settings": {
-            "feature_collection": "",
+            "feature_collection": "eating",
             "title": "",
             "button_label": "View products"
           }
@@ -104,7 +104,7 @@
         "16475733512df3892c-2": {
           "type": "collection",
           "settings": {
-            "feature_collection": "",
+            "feature_collection": "sitting",
             "title": "",
             "button_label": "View products"
           }
