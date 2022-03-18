@@ -264,7 +264,7 @@
           "type": "logo_image",
           "settings": {
             "icon_label": "box",
-            "title": "Green shipping",
+            "title": "Low impact, long lasting furniture",
             "text": "<p>Our eco-friendly packaging (made from compostable & recycled materials) holds your plant and pot securely for a clean and tidy unboxing experience.<\/p>",
             "button_label": "",
             "link": ""
@@ -274,8 +274,8 @@
           "type": "logo_image",
           "settings": {
             "icon_label": "leaf-2",
-            "title": "Potted perfection",
-            "text": "<p>Your potted plant or terrarium will be shipped with all the accoutrements - specific care instructions are also included. All you&#x27;ll have to do is unpack and enjoy.<\/p>",
+            "title": "Made here, with stuff from here",
+            "text": "<p>Your potted plant or terrarium will be shipped with all the accoutrements - specific care instructions are also included. All you'll have to do is unpack and enjoy.<\/p>",
             "button_label": "",
             "link": ""
           }
