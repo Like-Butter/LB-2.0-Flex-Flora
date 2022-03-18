@@ -444,11 +444,11 @@
           "footer__icon-bar-3"
         ],
         "settings": {
-          "show_icon_bar": false,
+          "show_icon_bar": true,
           "alignment": "center",
           "icon_position": "row",
           "size": "medium",
-          "background": "#f5cabe",
+          "background": "#6b8575",
           "link_color": "#ffffff",
           "link_hover_color": "#000000",
           "text_color": "#ffffff",
