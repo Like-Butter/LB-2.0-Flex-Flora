@@ -173,7 +173,7 @@
         "mobile_image": "shopify:\/\/shop_images\/dummy_600x600_ffffff_febcd8.png",
         "pretext": "",
         "title": "Made with love",
-        "subtitle": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut adipiscing convallis purus quis pretium. Nulla rutrum elit ut nunc egestas convallis. Ut non ante sit amet velit egestas blandit. Pellentesque non ligula sed quam ornare fermentum gravida ut urna. Aenean cursus malesuada purus non molestie. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam vitae consectetur urna. Integer sed interdum ligula, eu tempus quam.<\/p><p><\/p>",
+        "subtitle": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut adipiscing convallis purus quis pretium. Nulla rutrum elit ut nunc egestas convallis. <\/p>",
         "pretext_color": "#000000",
         "heading_color": "#000000",
         "subheading_color": "#000000",
