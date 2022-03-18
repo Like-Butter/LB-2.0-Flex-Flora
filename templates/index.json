@@ -300,7 +300,7 @@
     "164757632377d25a8d": {
       "type": "index__featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "collection": "eating",
         "products_per": 5,
         "mobile_products_per_row": "1",
