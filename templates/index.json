@@ -470,6 +470,63 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "1647578373b6d31250": {
+      "type": "index__logo-list",
+      "blocks": {
+        "1647578373ffa384cc-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "1647578373ffa384cc-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "1647578373ffa384cc-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "1647578373ffa384cc-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "1647578373ffa384cc-4": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1647578373ffa384cc-0",
+        "1647578373ffa384cc-1",
+        "1647578373ffa384cc-2",
+        "1647578373ffa384cc-3",
+        "1647578373ffa384cc-4"
+      ],
+      "settings": {
+        "logos_per_row": 5,
+        "logo_size": "medium",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "fadeIn",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -483,6 +540,7 @@
     "16475780658843b5dd",
     "1647578113a9f3da3a",
     "16475781197ab866c2",
-    "164757799398833d07"
+    "164757799398833d07",
+    "1647578373b6d31250"
   ]
 }
