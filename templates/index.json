@@ -69,7 +69,7 @@
         "16475725555f43ad53-1"
       ],
       "settings": {
-        "image_transition": "slide",
+        "image_transition": "fade",
         "image_slideshow_speed": 8,
         "show_arrows": true,
         "show_nav_buttons": true,
@@ -81,9 +81,123 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "164757335123d96651": {
+      "type": "index__collection-list",
+      "blocks": {
+        "16475733512df3892c-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "16475733512df3892c-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "16475733512df3892c-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        }
+      },
+      "block_order": [
+        "16475733512df3892c-0",
+        "16475733512df3892c-1",
+        "16475733512df3892c-2"
+      ],
+      "settings": {
+        "collections_per_row": 3,
+        "align_height": false,
+        "collection_height": 400,
+        "enable_zoom": true,
+        "button_style": "button--secondary",
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 70,
+        "overlay_text": "#FFFFFF",
+        "collection_title_below_image": false,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1580924053032": {
+      "type": "index__icon-with-text-column",
+      "blocks": {
+        "1580924053032-0": {
+          "type": "logo_image",
+          "settings": {
+            "icon_label": "box",
+            "title": "Green shipping",
+            "text": "<p>Our eco-friendly packaging (made from compostable &amp; recycled materials) holds your plant and pot securely for a clean and tidy unboxing experience.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "1580924053032-1": {
+          "type": "logo_image",
+          "settings": {
+            "icon_label": "leaf-2",
+            "title": "Potted perfection",
+            "text": "<p>Your potted plant or terrarium will be shipped with all the accoutrements - specific care instructions are also included. All you&#x27;ll have to do is unpack and enjoy.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "1580924053032-2": {
+          "type": "logo_image",
+          "settings": {
+            "icon_label": "chat",
+            "title": "Houseplant help",
+            "text": "<p>We&#x27;re here to help. Get in touch with our plant specialists for any plant care questions you may have. We&#x27;ll help you become a happy plant parent in no time!<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1580924053032-0",
+        "1580924053032-1",
+        "1580924053032-2"
+      ],
+      "settings": {
+        "icons_per_row": 3,
+        "icon_size": "small",
+        "align_text": "center",
+        "button_style": "button--primary",
+        "icon_color": "#faa06f",
+        "text_color": "rgba(0,0,0,0)",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 40,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
-    "1647572555ba26c03e"
+    "1647572555ba26c03e",
+    "164757335123d96651",
+    "1580924053032"
   ]
 }
