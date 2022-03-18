@@ -408,7 +408,7 @@
             "type": "text",
             "settings": {
               "icon": "leaf",
-              "text": "Low impact, long lasting",
+              "text": "Low impact,<br>long lasting",
               "link": ""
             }
           },
@@ -446,7 +446,7 @@
         "settings": {
           "show_icon_bar": true,
           "alignment": "center",
-          "icon_position": "row",
+          "icon_position": "column",
           "size": "medium",
           "background": "#6b8575",
           "link_color": "#ffffff",
