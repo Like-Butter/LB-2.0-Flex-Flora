@@ -271,8 +271,8 @@
         "padding_left": 0,
         "padding_right": 0,
         "animation": "none",
-        "css_class": "",
-        "custom_css": ""
+        "css_class": "image-with-text-overlay",
+        "custom_css": "max-height: 300px;"
       }
     }
   },
