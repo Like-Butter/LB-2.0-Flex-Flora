@@ -155,7 +155,7 @@
     "banner_text_size": 18,
     "banner_text_letter_spacing": 0,
     "footer_heading_font_size": 16,
-    "footer_font_size": 16,
+    "footer_font_size": 13,
     "search_option": "product",
     "search_title": "Search",
     "search_placeholder": "What are you looking for?",
@@ -465,20 +465,11 @@
               "social_icons_footer": true
             }
           },
-          "1580840578921": {
-            "type": "newsletter",
-            "settings": {
-              "newsletter_title": "Newsletter",
-              "newsletter_richtext": "",
-              "display_first_name": false,
-              "display_last_name": false
-            }
-          },
           "1581460333724": {
             "type": "text",
             "settings": {
               "title": "Office",
-              "content": "<p>30 Chelmsford Street<br\/>Kensington Victoria 3031<br\/>On the land of the Wurundjeri people.<br\/>Monday to Thursday 8am - 4pm for contactless click and collect.<\/p>",
+              "content": "<p>30 Chelmsford Street<br\/>Kensington Victoria 3031<\/p><p>On the land of the Wurundjeri people.<\/p><p><\/p><p>Monday to Thursday 8am - 4pm for contactless click and collect.<\/p>",
               "social_icons_footer": false
             }
           },
@@ -489,13 +480,22 @@
               "content": "<p>15 Fitzgerald's Close<br\/>Castlemaine Victoria 345<\/p><p>On the land of the Dja Dja Wurrung people.<\/p><p>Monday to Thursday 8am - 4pm for contactless click and collect.<\/p>",
               "social_icons_footer": false
             }
+          },
+          "1580840578921": {
+            "type": "newsletter",
+            "settings": {
+              "newsletter_title": "Newsletter",
+              "newsletter_richtext": "",
+              "display_first_name": false,
+              "display_last_name": false
+            }
           }
         },
         "block_order": [
           "7db7181d-742e-4079-ab8c-e15bedbc4fda",
-          "1580840578921",
           "1581460333724",
-          "bc2d8513-1680-4450-91b3-2b545558168d"
+          "bc2d8513-1680-4450-91b3-2b545558168d",
+          "1580840578921"
         ],
         "settings": {
           "copyright_text": "<p>All rights reserved.<\/p>",
