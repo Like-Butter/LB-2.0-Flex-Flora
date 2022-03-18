@@ -416,6 +416,7 @@
         "164757811975dd97a5-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Jem_lifting_a_custom_set_of_lockers.jpg",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
@@ -428,6 +429,7 @@
         "164757811975dd97a5-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Arron_Light_jumping_to_reach_the_top_shelf.jpg",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
