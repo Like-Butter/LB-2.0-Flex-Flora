@@ -265,7 +265,7 @@
           "settings": {
             "icon_label": "box",
             "title": "Green shipping",
-            "text": "<p>Our eco-friendly packaging (made from compostable &amp; recycled materials) holds your plant and pot securely for a clean and tidy unboxing experience.<\/p>",
+            "text": "<p>Our eco-friendly packaging (made from compostable & recycled materials) holds your plant and pot securely for a clean and tidy unboxing experience.<\/p>",
             "button_label": "",
             "link": ""
           }
@@ -316,6 +316,29 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "16475772876d2f5fea": {
+      "type": "index__blog-posts",
+      "settings": {
+        "title": "Recent blog posts",
+        "blog_widget_select": "news",
+        "home_page_articles": 3,
+        "blog_show_tags": false,
+        "blog_author": true,
+        "read_time": true,
+        "blog_date": true,
+        "blog_comment_count": false,
+        "blog_show_excerpt": true,
+        "show-border": true,
+        "button_label": "Read more",
+        "button_type": "button--primary",
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -325,6 +348,7 @@
     "1647574614e5ee5e72",
     "164757619256fdb253",
     "164757632377d25a8d",
-    "1580924053032"
+    "1580924053032",
+    "16475772876d2f5fea"
   ]
 }
