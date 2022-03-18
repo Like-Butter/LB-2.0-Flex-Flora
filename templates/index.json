@@ -69,7 +69,7 @@
         "16475725555f43ad53-1"
       ],
       "settings": {
-        "image_transition": "fade",
+        "image_transition": "slide",
         "image_slideshow_speed": 8,
         "show_arrows": true,
         "show_nav_buttons": true,
