@@ -440,6 +440,7 @@
         "164757811975dd97a5-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Like_Butter_workshop_roof_solar_panels.jpg",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
