@@ -299,7 +299,8 @@
       "header-classic": {
         "type": "header-classic",
         "settings": {
-          "logo_width": 145,
+          "logo": "shopify:\/\/shop_images\/Like_Butter_logo.png",
+          "logo_width": 80,
           "main_linklist": "main-menu",
           "menu_alignment": "center",
           "dropdown_click": false,
