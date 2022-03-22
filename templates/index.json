@@ -89,7 +89,7 @@
         "heading_font": "sans-serif",
         "heading_color": "rgba(0,0,0,0)",
         "heading_alignment": "center",
-        "heading_size": 20,
+        "heading_size": 24,
         "text": "",
         "text_font": "open_sans_n4",
         "text_color": "rgba(0,0,0,0)",
@@ -213,7 +213,7 @@
         "heading_font": "sans-serif",
         "heading_color": "rgba(0,0,0,0)",
         "heading_alignment": "center",
-        "heading_size": 20,
+        "heading_size": 24,
         "text": "",
         "text_font": "sans-serif",
         "text_color": "rgba(0,0,0,0)",
@@ -257,70 +257,35 @@
         "custom_css": ""
       }
     },
-    "1580924053032": {
-      "type": "index__icon-with-text-column",
-      "blocks": {
-        "1580924053032-0": {
-          "type": "logo_image",
-          "settings": {
-            "icon_label": "box",
-            "title": "Low impact, long lasting furniture",
-            "text": "<p>Our eco-friendly packaging (made from compostable & recycled materials) holds your plant and pot securely for a clean and tidy unboxing experience.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "1580924053032-1": {
-          "type": "logo_image",
-          "settings": {
-            "icon_label": "leaf-2",
-            "title": "Made here, with stuff from here",
-            "text": "<p>Your potted plant or terrarium will be shipped with all the accoutrements - specific care instructions are also included. All you'll have to do is unpack and enjoy.<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "1580924053032-2": {
-          "type": "logo_image",
-          "settings": {
-            "icon_label": "chat",
-            "title": "Customise and play with us",
-            "text": "<p>We're here to help. Get in touch with our plant specialists for any plant care questions you may have. We'll help you become a happy plant parent in no time!<\/p>",
-            "button_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1580924053032-0",
-        "1580924053032-1",
-        "1580924053032-2"
-      ],
+    "1647989767a8dba5d9": {
+      "type": "index__rich-text",
       "settings": {
-        "icons_per_row": 3,
-        "icon_size": "large",
-        "align_text": "center",
-        "button_style": "button--primary",
-        "icon_color": "#faa06f",
+        "title": "Why Butter?",
+        "heading_font": "sans-serif",
+        "heading_color": "rgba(0,0,0,0)",
+        "heading_alignment": "center",
+        "heading_size": 33,
+        "text": "",
+        "text_font": "open_sans_n4",
         "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "left",
+        "text_size": 14,
+        "columns": 2,
+        "button_label": "",
+        "button_link": "",
+        "button_alignment": "center",
+        "button_style": "button--primary",
         "background": "#ffffff",
-        "gradient": "rgba(0,0,0,0)",
+        "gradient": "#ffffff",
         "gradient_rotation": 0,
-        "width": "standard",
-        "show_gutter": true,
-        "padding_top": 60,
-        "padding_bottom": 40,
+        "width": "wide",
+        "padding_top": 20,
+        "padding_bottom": 0,
         "padding_left": 0,
         "padding_right": 0,
-        "animation": "none",
+        "animation": "fadeIn",
         "css_class": "",
         "custom_css": ""
-      }
-    },
-    "16475780658843b5dd": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": ""
       }
     },
     "16475781197ab866c2": {
@@ -488,8 +453,7 @@
     "1647574614e5ee5e72",
     "164757619256fdb253",
     "164757632377d25a8d",
-    "1580924053032",
-    "16475780658843b5dd",
+    "1647989767a8dba5d9",
     "16475781197ab866c2",
     "164757799398833d07",
     "1647578373b6d31250"
