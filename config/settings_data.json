@@ -248,7 +248,7 @@
         "type": "announcement-bar",
         "settings": {
           "icon_label": "",
-          "text": "<p><strong>We're now offering free local delivery and curbside pickup.<\/strong><\/p>",
+          "text": "<p>Local pick-up from Kensington or Castlemaine, or free delivery on orders over $500.<\/p>",
           "alignment": "center",
           "size": "regular",
           "button_label": "",
