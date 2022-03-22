@@ -444,6 +444,37 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "16479899708293af33": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "BUTTER BLOG",
+        "heading_font": "sans-serif",
+        "heading_color": "#493b36",
+        "heading_alignment": "center",
+        "heading_size": 54,
+        "text": "",
+        "text_font": "open_sans_n4",
+        "text_color": "#6b8575",
+        "text_alignment": "left",
+        "text_size": 14,
+        "columns": 2,
+        "button_label": "",
+        "button_link": "",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "#ffffff",
+        "gradient": "#ffffff",
+        "gradient_rotation": 180,
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "fadeIn",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -456,6 +487,7 @@
     "1647989767a8dba5d9",
     "16475781197ab866c2",
     "164757799398833d07",
-    "1647578373b6d31250"
+    "1647578373b6d31250",
+    "16479899708293af33"
   ]
 }
