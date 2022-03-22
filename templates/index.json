@@ -352,11 +352,42 @@
         "custom_css": ""
       }
     },
+    "16479900820e7daed2": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "BUTTER BLOG",
+        "heading_font": "sans-serif",
+        "heading_color": "rgba(0,0,0,0)",
+        "heading_alignment": "center",
+        "heading_size": 24,
+        "text": "",
+        "text_font": "open_sans_n4",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "left",
+        "text_size": 14,
+        "columns": 2,
+        "button_label": "",
+        "button_link": "",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "#ffffff",
+        "gradient": "#ffffff",
+        "gradient_rotation": 180,
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "164757799398833d07": {
       "type": "index__blog-posts",
       "settings": {
         "title": "",
-        "blog_widget_select": "",
+        "blog_widget_select": "news",
         "home_page_articles": 3,
         "blog_show_tags": false,
         "blog_author": true,
@@ -370,7 +401,7 @@
         "width": "standard",
         "padding_top": 20,
         "padding_bottom": 0,
-        "animation": "none",
+        "animation": "fadeIn",
         "css_class": "",
         "custom_css": ""
       }
@@ -444,37 +475,6 @@
         "css_class": "",
         "custom_css": ""
       }
-    },
-    "16479899708293af33": {
-      "type": "index__rich-text",
-      "settings": {
-        "title": "BUTTER BLOG",
-        "heading_font": "sans-serif",
-        "heading_color": "#493b36",
-        "heading_alignment": "center",
-        "heading_size": 54,
-        "text": "",
-        "text_font": "open_sans_n4",
-        "text_color": "#6b8575",
-        "text_alignment": "left",
-        "text_size": 14,
-        "columns": 2,
-        "button_label": "",
-        "button_link": "",
-        "button_alignment": "center",
-        "button_style": "button--primary",
-        "background": "#ffffff",
-        "gradient": "#ffffff",
-        "gradient_rotation": 180,
-        "width": "wide",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_left": 0,
-        "padding_right": 0,
-        "animation": "fadeIn",
-        "css_class": "",
-        "custom_css": ""
-      }
     }
   },
   "order": [
@@ -486,8 +486,8 @@
     "164757632377d25a8d",
     "1647989767a8dba5d9",
     "16475781197ab866c2",
+    "16479900820e7daed2",
     "164757799398833d07",
-    "1647578373b6d31250",
-    "16479899708293af33"
+    "1647578373b6d31250"
   ]
 }
