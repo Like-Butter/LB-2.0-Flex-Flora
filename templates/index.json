@@ -103,12 +103,12 @@
         "background": "#ffffff",
         "gradient": "#ffffff",
         "gradient_rotation": 180,
-        "width": "wide",
+        "width": "standard",
         "padding_top": 20,
         "padding_bottom": 0,
         "padding_left": 0,
         "padding_right": 0,
-        "animation": "none",
+        "animation": "fadeIn",
         "css_class": "",
         "custom_css": ""
       }
@@ -232,7 +232,7 @@
         "padding_bottom": 0,
         "padding_left": 0,
         "padding_right": 0,
-        "animation": "none",
+        "animation": "fadeIn",
         "css_class": "",
         "custom_css": ""
       }
@@ -242,17 +242,17 @@
       "settings": {
         "title": "",
         "collection": "eating",
-        "products_per": 5,
+        "products_per": 4,
         "mobile_products_per_row": "2",
-        "products_limit": 10,
+        "products_limit": 8,
         "align_height": false,
         "collection_height": 200,
         "collection_style": "grid",
-        "width": "wide",
+        "width": "standard",
         "show_gutter": true,
         "padding_top": 20,
         "padding_bottom": 20,
-        "animation": "none",
+        "animation": "fadeIn",
         "css_class": "",
         "custom_css": ""
       }
@@ -298,12 +298,12 @@
       ],
       "settings": {
         "icons_per_row": 3,
-        "icon_size": "small",
+        "icon_size": "large",
         "align_text": "center",
         "button_style": "button--primary",
         "icon_color": "#faa06f",
         "text_color": "rgba(0,0,0,0)",
-        "background": "rgba(0,0,0,0)",
+        "background": "#ffffff",
         "gradient": "rgba(0,0,0,0)",
         "gradient_rotation": 0,
         "width": "standard",
@@ -321,67 +321,6 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": ""
-      }
-    },
-    "1647578113a9f3da3a": {
-      "type": "index__featured-promotions",
-      "blocks": {
-        "16475781122f2d3fbc-0": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "overlay_background": "rgba(0,0,0,0)",
-            "overlay_background_opacity": 0,
-            "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "",
-            "title": "Made to last",
-            "text": "<p>We're always trying to make better things that last longer. Every challenge is an opportunity to make a small improvement for better.<\/p>"
-          }
-        },
-        "16475781122f2d3fbc-1": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "overlay_background": "rgba(0,0,0,0)",
-            "overlay_background_opacity": 0,
-            "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "",
-            "title": "Made for you",
-            "text": "<p>We're creating an adaptable workflow so we can design, quote, build and deliver a custom solution which works just for you.<\/p>"
-          }
-        },
-        "16475781122f2d3fbc-2": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "overlay_background": "rgba(0,0,0,0)",
-            "overlay_background_opacity": 0,
-            "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "",
-            "title": "Made local",
-            "text": "<p>Our purpose built factory in Castlemaine Victoria, is powered by rooftop solar with the aim of carbon neutral manufacturing.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16475781122f2d3fbc-0",
-        "16475781122f2d3fbc-1",
-        "16475781122f2d3fbc-2"
-      ],
-      "settings": {
-        "border_radius": 0,
-        "crop_images": true,
-        "overlay_background": "#939393",
-        "overlay_background_opacity": 50,
-        "overlay_text": "#ffffff",
-        "show_border": false,
-        "width": "standard",
-        "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "fadeIn",
-        "css_class": "",
-        "custom_css": ""
       }
     },
     "16475781197ab866c2": {
@@ -409,7 +348,7 @@
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
             "icon_label": "",
-            "title": "Better solutions through play",
+            "title": "Customise and play with us",
             "text": "<p>We focus on continuous improvement through iteration and innovation – pushing the limits to make better things towards a better future.<\/p>"
           }
         },
@@ -422,7 +361,7 @@
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
             "icon_label": "",
-            "title": "Minimising our impact",
+            "title": "Low impact, long lasting furniture",
             "text": "<p>From our rooftop solar, to sourcing renewable materials, and waste reduction strategies – including experiments with onsite sawdust composting – we are always looking for ways to minimise our impact.<\/p>"
           }
         }
@@ -551,7 +490,6 @@
     "164757632377d25a8d",
     "1580924053032",
     "16475780658843b5dd",
-    "1647578113a9f3da3a",
     "16475781197ab866c2",
     "164757799398833d07",
     "1647578373b6d31250"
