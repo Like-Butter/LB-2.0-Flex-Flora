@@ -77,7 +77,7 @@
         "width": "wide",
         "padding_top": 0,
         "padding_bottom": 0,
-        "animation": "none",
+        "animation": "fadeIn",
         "css_class": "",
         "custom_css": ""
       }
@@ -153,7 +153,7 @@
         "enable_zoom": true,
         "button_style": "button--link-style",
         "overlay_background": "#939393",
-        "overlay_background_opacity": 20,
+        "overlay_background_opacity": 0,
         "overlay_text": "#ffffff",
         "collection_title_below_image": false,
         "width": "standard",
