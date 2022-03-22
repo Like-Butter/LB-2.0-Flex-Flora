@@ -168,7 +168,7 @@
     "1647574614e5ee5e72": {
       "type": "index__image-with-text-overlay",
       "settings": {
-        "link": "",
+        "link": "shopify:\/\/products\/the-shelves-3ur",
         "image": "shopify:\/\/shop_images\/dummy_1800x500_ffffff_cccccc.png",
         "mobile_image": "shopify:\/\/shop_images\/dummy_600x600_ffffff_febcd8.png",
         "pretext": "",
@@ -187,7 +187,7 @@
         "text_width": 40,
         "button_1": "See our shelves",
         "button_1_link": "shopify:\/\/products\/the-shelves-3ur",
-        "button_1_style": "button--secondary",
+        "button_1_style": "button--primary",
         "button_2": "",
         "button_2_link": "",
         "button_2_style": "button--secondary",
