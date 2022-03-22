@@ -260,11 +260,11 @@
     "1647989767a8dba5d9": {
       "type": "index__rich-text",
       "settings": {
-        "title": "Why Butter?",
+        "title": "WHY BUTTER?",
         "heading_font": "sans-serif",
         "heading_color": "rgba(0,0,0,0)",
         "heading_alignment": "center",
-        "heading_size": 33,
+        "heading_size": 24,
         "text": "",
         "text_font": "open_sans_n4",
         "text_color": "rgba(0,0,0,0)",
@@ -279,7 +279,7 @@
         "gradient": "#ffffff",
         "gradient_rotation": 0,
         "width": "wide",
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 0,
         "padding_left": 0,
         "padding_right": 0,
