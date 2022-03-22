@@ -7,9 +7,9 @@
           "type": "image",
           "settings": {
             "link": "shopify:\/\/products\/kittaparts",
-            "image": "shopify:\/\/shop_images\/dummy_1800x900_ffffff_febcd8.png",
-            "pretext": "<p>Award-winning<\/p>",
-            "title": "KittaParts",
+            "image": "shopify:\/\/shop_images\/dummy_1800x900_ffffff_cccccc.png",
+            "pretext": "<p>Award-winning, and truly modular.<\/p>",
+            "title": "The KittaParts shelving system",
             "subtitle": "",
             "pretext_color": "#000000",
             "heading_color": "#000000",
@@ -21,7 +21,7 @@
             "border_color": "#ffffff",
             "border_width": 0,
             "text_width": 40,
-            "button_1": "Button 1",
+            "button_1": "Browse the options",
             "button_1_link": "",
             "button_1_style": "button--primary",
             "button_2": "",
@@ -284,8 +284,8 @@
           "type": "logo_image",
           "settings": {
             "icon_label": "chat",
-            "title": "Houseplant help",
-            "text": "<p>We&#x27;re here to help. Get in touch with our plant specialists for any plant care questions you may have. We&#x27;ll help you become a happy plant parent in no time!<\/p>",
+            "title": "Customise and play with us",
+            "text": "<p>We're here to help. Get in touch with our plant specialists for any plant care questions you may have. We'll help you become a happy plant parent in no time!<\/p>",
             "button_label": "",
             "link": ""
           }
