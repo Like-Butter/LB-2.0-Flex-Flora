@@ -386,7 +386,7 @@
     "164757799398833d07": {
       "type": "index__blog-posts",
       "settings": {
-        "title": "Butter Blog",
+        "title": "",
         "blog_widget_select": "news",
         "home_page_articles": 4,
         "blog_show_tags": true,
