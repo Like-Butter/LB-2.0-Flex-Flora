@@ -205,7 +205,7 @@
     "video_looping": false,
     "cart_action": "mini_cart",
     "show_lock_icon": true,
-    "cart_icon": "box",
+    "cart_icon": "bag",
     "display_special_instructions": true,
     "display_tos_checkbox": false,
     "tos_page": "",
