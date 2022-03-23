@@ -339,7 +339,7 @@
           "3117f139-b8a9-4c63-80e9-c1717402eee4": {
             "type": "menu",
             "settings": {
-              "menu_1": "catalogue",
+              "menu_1": "catalogue-group",
               "menu_1_link": ""
             }
           }
