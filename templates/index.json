@@ -388,8 +388,8 @@
       "settings": {
         "title": "Butter Blog",
         "blog_widget_select": "news",
-        "home_page_articles": 3,
-        "blog_show_tags": false,
+        "home_page_articles": 4,
+        "blog_show_tags": true,
         "blog_author": true,
         "read_time": true,
         "blog_date": true,
