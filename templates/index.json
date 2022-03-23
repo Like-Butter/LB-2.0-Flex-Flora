@@ -73,7 +73,7 @@
         "image_slideshow_speed": 8,
         "show_arrows": true,
         "show_nav_buttons": true,
-        "mobile_text_below_image": true,
+        "mobile_text_below_image": false,
         "width": "wide",
         "padding_top": 0,
         "padding_bottom": 0,
