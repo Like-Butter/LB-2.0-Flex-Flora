@@ -39,7 +39,7 @@
             "link": "",
             "image": "shopify:\/\/shop_images\/dummy_1800x900_ddd_e5e5e5.png",
             "pretext": "<p>Are you a maker with a great idea?<\/p>",
-            "title": "CNC Routing Services",
+            "title": "Let us make something for you",
             "subtitle": "",
             "pretext_color": "#000000",
             "heading_color": "#000000",
@@ -169,7 +169,7 @@
       "type": "index__image-with-text-overlay",
       "settings": {
         "link": "shopify:\/\/products\/the-shelves-3ur",
-        "image": "shopify:\/\/shop_images\/dummy_1800x500_ffffff_cccccc.png",
+        "image": "shopify:\/\/shop_images\/dummy_1800x500_ddd_e5e5e5.png",
         "mobile_image": "shopify:\/\/shop_images\/dummy_600x600_ffffff_febcd8.png",
         "pretext": "<p>Let us design something for you.<\/p>",
         "title": "I am beyond excited ... your ability to interpret, innovate and improve is a blessing!",
