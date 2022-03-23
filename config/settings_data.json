@@ -346,61 +346,23 @@
               "image_link_bottom": "shopify:\/\/blogs\/the-plant-lover-companion\/healing-herbs",
               "richtext_bottom": "<p><strong>Grow your own greens<\/strong><\/p>"
             }
-          },
-          "1582669988143": {
-            "type": "mixed",
-            "settings": {
-              "richtext_top": "",
-              "image_link_top": "",
-              "image_caption_top": "",
-              "menu_1": "",
-              "menu_1_link": "",
-              "menu_2": "",
-              "menu_2_link": "",
-              "menu_3": "",
-              "menu_3_link": "",
-              "menu_4": "",
-              "menu_4_link": "",
-              "image_link_bottom": "shopify:\/\/collections\/mugs",
-              "richtext_bottom": "<p><strong>Show your plant pride<\/strong><\/p>"
-            }
-          },
-          "1582670351939": {
-            "type": "mixed",
-            "settings": {
-              "richtext_top": "",
-              "image_link_top": "",
-              "image_caption_top": "",
-              "menu_1": "",
-              "menu_1_link": "",
-              "menu_2": "",
-              "menu_2_link": "",
-              "menu_3": "",
-              "menu_3_link": "",
-              "menu_4": "",
-              "menu_4_link": "",
-              "image_link_bottom": "shopify:\/\/blogs\/the-plant-lover-companion\/a-beginners-guide-to-plant-propogration",
-              "richtext_bottom": "<p><strong>Pet-friendly options<\/strong><\/p>"
-            }
           }
         },
         "block_order": [
-          "1582668934149",
-          "1582669988143",
-          "1582670351939"
+          "1582668934149"
         ],
         "settings": {
           "parent_link": "shop",
           "enable_mega_menu_border": false,
-          "mega_menu_background_color": "#fdf7f0",
-          "mega_menu_text_color": "#493b36",
-          "show_mega_bottom_bar": false,
+          "mega_menu_background_color": "#fbf8f1",
+          "mega_menu_text_color": "#6b8575",
+          "show_mega_bottom_bar": true,
           "mega_bottom_bar_icon": "leaf-2",
-          "mega_bottom_bar_text": "Grow together - Refer a friend and receive $10 off when they make their first Flora purchase!",
+          "mega_bottom_bar_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           "mega_bottom_bar_link": "",
           "size": "regular",
-          "bottom_banner_bg": "#6c5d58",
-          "bottom_banner_text": "#ffffff",
+          "bottom_banner_bg": "#f5e8d3",
+          "bottom_banner_text": "#6b8575",
           "css_class": "",
           "custom_css": ""
         }
