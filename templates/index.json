@@ -7,7 +7,7 @@
           "type": "image",
           "settings": {
             "link": "shopify:\/\/products\/kittaparts",
-            "image": "shopify:\/\/shop_images\/dummy_1800x900_ffffff_cccccc.png",
+            "image": "shopify:\/\/shop_images\/dummy_1800x900_ddd_e5e5e5.png",
             "pretext": "<p>Award-winning, and truly modular.<\/p>",
             "title": "The KittaParts shelving system",
             "subtitle": "",
@@ -37,7 +37,7 @@
           "type": "image",
           "settings": {
             "link": "",
-            "image": "shopify:\/\/shop_images\/dummy_1800x900_ffffff_cccccc.png",
+            "image": "shopify:\/\/shop_images\/dummy_1800x900_ddd_e5e5e5.png",
             "pretext": "<p>Are you a maker with a great idea?<\/p>",
             "title": "CNC Routing Services",
             "subtitle": "",
