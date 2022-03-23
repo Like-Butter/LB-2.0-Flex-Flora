@@ -347,7 +347,7 @@
         "show_gutter": true,
         "padding_top": 20,
         "padding_bottom": 20,
-        "animation": "none",
+        "animation": "fadeIn",
         "css_class": "",
         "custom_css": ""
       }
