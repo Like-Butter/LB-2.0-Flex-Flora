@@ -349,17 +349,17 @@
           "3117f139-b8a9-4c63-80e9-c1717402eee4"
         ],
         "settings": {
-          "parent_link": "services",
+          "parent_link": "shop",
           "enable_mega_menu_border": false,
           "mega_menu_background_color": "#fbf8f1",
           "mega_menu_text_color": "#6b8575",
-          "show_mega_bottom_bar": true,
-          "mega_bottom_bar_icon": "leaf-2",
-          "mega_bottom_bar_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "show_mega_bottom_bar": false,
+          "mega_bottom_bar_icon": "",
+          "mega_bottom_bar_text": "",
           "mega_bottom_bar_link": "",
           "size": "regular",
-          "bottom_banner_bg": "#f5e8d3",
-          "bottom_banner_text": "#6b8575",
+          "bottom_banner_bg": "rgba(0,0,0,0)",
+          "bottom_banner_text": "rgba(0,0,0,0)",
           "css_class": "",
           "custom_css": ""
         }
