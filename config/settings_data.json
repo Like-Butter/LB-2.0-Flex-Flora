@@ -5,7 +5,7 @@
     "show_fixed_message": false,
     "header_layout": "classic",
     "footer_layout": "classic",
-    "image_loading_style": "blur-up",
+    "image_loading_style": "color",
     "logo_mobile": "",
     "mobile_logo_width": 115,
     "logo_mobile_position": "center",
