@@ -406,76 +406,6 @@
         "custom_css": ""
       }
     },
-    "1647578373b6d31250": {
-      "type": "index__logo-list",
-      "blocks": {
-        "1647578373ffa384cc-0": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/House_Workshop.png",
-            "link": "https:\/\/www.houseworkshop.com.au\/"
-          }
-        },
-        "1647578373ffa384cc-1": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Greenfleet.png",
-            "link": "https:\/\/www.greenfleet.com.au\/"
-          }
-        },
-        "1647578373ffa384cc-2": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Opendesk.png",
-            "link": "https:\/\/www.opendesk.cc\/"
-          }
-        },
-        "1647578373ffa384cc-3": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Baux.png",
-            "link": "https:\/\/baux.theandrewsgroup.com.au\/"
-          }
-        },
-        "1647578373ffa384cc-4": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Jonik.png",
-            "link": "http:\/\/jonik.com.au\/"
-          }
-        },
-        "b6393455-5738-4dbc-a2fa-80d1a6778a89": {
-          "type": "logo_image",
-          "disabled": true,
-          "settings": {
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1647578373ffa384cc-0",
-        "1647578373ffa384cc-1",
-        "1647578373ffa384cc-2",
-        "1647578373ffa384cc-3",
-        "1647578373ffa384cc-4",
-        "b6393455-5738-4dbc-a2fa-80d1a6778a89"
-      ],
-      "settings": {
-        "logos_per_row": 5,
-        "logo_size": "large",
-        "background": "rgba(0,0,0,0)",
-        "gradient": "rgba(0,0,0,0)",
-        "gradient_rotation": 0,
-        "width": "standard",
-        "padding_top": 20,
-        "padding_bottom": 0,
-        "padding_left": 0,
-        "padding_right": 0,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "164799427170e39003": {
       "type": "index__rich-text",
       "settings": {
@@ -498,7 +428,7 @@
         "gradient": "#ffffff",
         "gradient_rotation": 180,
         "width": "standard",
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 0,
         "padding_left": 0,
         "padding_right": 0,
@@ -519,7 +449,6 @@
     "16475781197ab866c2",
     "16479900820e7daed2",
     "164757799398833d07",
-    "1647578373b6d31250",
     "164799427170e39003"
   ]
 }
