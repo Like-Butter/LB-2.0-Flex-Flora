@@ -436,6 +436,68 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "1647995467fd75a3ae": {
+      "type": "index__logo-list",
+      "blocks": {
+        "1647995467d5964a2d-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/House_Workshop.png",
+            "link": ""
+          }
+        },
+        "1647995467d5964a2d-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Greenfleet.png",
+            "link": ""
+          }
+        },
+        "1647995467d5964a2d-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jonik.png",
+            "link": ""
+          }
+        },
+        "1647995467d5964a2d-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Opendesk.png",
+            "link": ""
+          }
+        },
+        "1647995467d5964a2d-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Baux.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1647995467d5964a2d-0",
+        "1647995467d5964a2d-1",
+        "1647995467d5964a2d-2",
+        "1647995467d5964a2d-3",
+        "1647995467d5964a2d-4"
+      ],
+      "settings": {
+        "logos_per_row": 5,
+        "logo_size": "medium",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -449,6 +511,7 @@
     "16475781197ab866c2",
     "16479900820e7daed2",
     "164757799398833d07",
-    "164799427170e39003"
+    "164799427170e39003",
+    "1647995467fd75a3ae"
   ]
 }
