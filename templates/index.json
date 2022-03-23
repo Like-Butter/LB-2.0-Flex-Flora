@@ -475,6 +475,37 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "164799427170e39003": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "SOME OF OUR PARTNERS",
+        "heading_font": "sans-serif",
+        "heading_color": "rgba(0,0,0,0)",
+        "heading_alignment": "center",
+        "heading_size": 24,
+        "text": "",
+        "text_font": "open_sans_n4",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "left",
+        "text_size": 14,
+        "columns": 2,
+        "button_label": "",
+        "button_link": "",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "#ffffff",
+        "gradient": "#ffffff",
+        "gradient_rotation": 180,
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "fadeIn",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -488,6 +519,7 @@
     "16475781197ab866c2",
     "16479900820e7daed2",
     "164757799398833d07",
-    "1647578373b6d31250"
+    "1647578373b6d31250",
+    "164799427170e39003"
   ]
 }
