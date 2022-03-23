@@ -323,7 +323,7 @@
           "width": "wide",
           "vertical_alignment": "center",
           "css_class": "",
-          "custom_css": ""
+          "custom_css": ".image-element__wrap img {\nmax-width: 45px;\n}"
         }
       },
       "mega-menu-1": {
