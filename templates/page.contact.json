@@ -12,6 +12,37 @@
         "custom_css": ""
       }
     },
+    "1648096846382f8da2": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "",
+        "heading_font": "open_sans_n4",
+        "heading_color": "rgba(0,0,0,0)",
+        "heading_alignment": "center",
+        "heading_size": 20,
+        "text": "<p><strong>Office<\/strong><\/p><p><a href=\"https:\/\/goo.gl\/maps\/jmA8zpquuCm9zZ1a6\">30 Chelmsford Street<\/a><br\/><a href=\"https:\/\/goo.gl\/maps\/jmA8zpquuCm9zZ1a6\">Kensington Victoria 3031<\/a><br\/><a href=\"https:\/\/goo.gl\/maps\/jmA8zpquuCm9zZ1a6\">Australia<\/a><\/p><p>Open Monday to Thursday 8am - 4pm for contactless click and collect.<\/p><p><strong>Workshop<\/strong><\/p><p><a href=\"https:\/\/goo.gl\/maps\/W3y5BMfYVhY34UdG9\">15 Fitzgeralds Close<\/a><br\/><a href=\"https:\/\/goo.gl\/maps\/W3y5BMfYVhY34UdG9\">Castlemaine Victoria 3450<\/a><br\/><a href=\"https:\/\/goo.gl\/maps\/W3y5BMfYVhY34UdG9\">Australia<\/a><\/p><p>Open Monday to Thursday 8am - 4pm for contactless click and collect.<\/p>",
+        "text_font": "basic_commercial_n4",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "left",
+        "text_size": 16,
+        "columns": 2,
+        "button_label": "",
+        "button_link": "",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "#ffffff",
+        "gradient": "#ffffff",
+        "gradient_rotation": 180,
+        "width": "wide",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "16480956555b5446a0": {
       "type": "index__featured-promotions",
       "blocks": {
@@ -28,19 +59,6 @@
             "text": "<p>Please get in touch.<\/p>"
           }
         },
-        "16480956554677e4a8-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Appointment.jpg",
-            "link": "",
-            "overlay_background": "rgba(0,0,0,0)",
-            "overlay_background_opacity": 70,
-            "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "chat",
-            "title": "Schedule an appointment",
-            "text": "<p>Book a phone or video chat.<\/p>"
-          }
-        },
         "f32d005a-c128-4128-a769-aa03a199656e": {
           "type": "image",
           "settings": {
@@ -53,20 +71,47 @@
             "title": "Request a quote",
             "text": "<p>Got an idea? Let us make it for you.<\/p>"
           }
+        },
+        "16480956554677e4a8-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Appointment.jpg",
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "chat",
+            "title": "Schedule an appointment",
+            "text": "<p>Book a 30 minute<br\/>phone or video chat.<\/p>"
+          }
+        },
+        "8be8b2de-9114-4d1c-b7e5-7ba346252cbb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_1200x1200_ffffff_cccccc_93a5dbf3-235d-48b7-b1e3-d42c92400e3d.png",
+            "link": "https:\/\/app.acuityscheduling.com\/schedule.php?owner=13567566",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "calendar",
+            "title": "Pick up your order",
+            "text": "<p>Book a time to collect your order.<\/p>"
+          }
         }
       },
       "block_order": [
         "16480956554677e4a8-1",
+        "f32d005a-c128-4128-a769-aa03a199656e",
         "16480956554677e4a8-2",
-        "f32d005a-c128-4128-a769-aa03a199656e"
+        "8be8b2de-9114-4d1c-b7e5-7ba346252cbb"
       ],
       "settings": {
         "border_radius": 0,
         "crop_images": true,
         "overlay_background": "#939393",
-        "overlay_background_opacity": 70,
+        "overlay_background_opacity": 30,
         "overlay_text": "#FFFFFF",
-        "show_border": true,
+        "show_border": false,
         "width": "standard",
         "show_gutter": true,
         "padding_top": 20,
@@ -79,6 +124,7 @@
   },
   "order": [
     "main",
+    "1648096846382f8da2",
     "16480956555b5446a0"
   ]
 }
