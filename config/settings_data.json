@@ -342,11 +342,43 @@
               "menu_1": "catalogue-group",
               "menu_1_link": ""
             }
+          },
+          "e7cb5af2-1dd6-4d37-91a8-101472ddae12": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "displaying",
+              "menu_1_link": ""
+            }
+          },
+          "a3139faf-9160-4228-87d6-da79df3b03f6": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "eating",
+              "menu_1_link": ""
+            }
+          },
+          "5764fd00-81d6-406a-b987-b89657f9406a": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "sitting",
+              "menu_1_link": ""
+            }
+          },
+          "cc8f6c6a-c07e-43d7-881b-29fc3fd08c5c": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "sleeping",
+              "menu_1_link": ""
+            }
           }
         },
         "block_order": [
           "36c6e3a7-07df-426c-ace1-e1ec52d38ee5",
-          "3117f139-b8a9-4c63-80e9-c1717402eee4"
+          "3117f139-b8a9-4c63-80e9-c1717402eee4",
+          "e7cb5af2-1dd6-4d37-91a8-101472ddae12",
+          "a3139faf-9160-4228-87d6-da79df3b03f6",
+          "5764fd00-81d6-406a-b987-b89657f9406a",
+          "cc8f6c6a-c07e-43d7-881b-29fc3fd08c5c"
         ],
         "settings": {
           "parent_link": "shop",
