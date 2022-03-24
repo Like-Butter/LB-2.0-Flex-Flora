@@ -15,19 +15,6 @@
     "16480956555b5446a0": {
       "type": "index__featured-promotions",
       "blocks": {
-        "16480956554677e4a8-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/dummy_1200x1200_ffffff_cccccc_93a5dbf3-235d-48b7-b1e3-d42c92400e3d.png",
-            "link": "shopify:\/\/pages\/warranty-information",
-            "overlay_background": "#ffffff",
-            "overlay_background_opacity": 0,
-            "overlay_text": "#39423d",
-            "icon_label": "calculator",
-            "title": "Request a quote",
-            "text": "<p>Got an idea? Let us make it for you.<\/p>"
-          }
-        },
         "16480956554677e4a8-1": {
           "type": "image",
           "settings": {
@@ -44,6 +31,7 @@
         "16480956554677e4a8-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_1200x1200_ffffff_cccccc_93a5dbf3-235d-48b7-b1e3-d42c92400e3d.png",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
@@ -52,12 +40,25 @@
             "title": "Schedule and appointment",
             "text": "<p>Book a phone or video chat.<\/p>"
           }
+        },
+        "f32d005a-c128-4128-a769-aa03a199656e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_1200x1200_ffffff_cccccc_93a5dbf3-235d-48b7-b1e3-d42c92400e3d.png",
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "truck",
+            "title": "Request a quote",
+            "text": "<p>Got an idea? Let us make it for you.<\/p>"
+          }
         }
       },
       "block_order": [
-        "16480956554677e4a8-0",
         "16480956554677e4a8-1",
-        "16480956554677e4a8-2"
+        "16480956554677e4a8-2",
+        "f32d005a-c128-4128-a769-aa03a199656e"
       ],
       "settings": {
         "border_radius": 0,
