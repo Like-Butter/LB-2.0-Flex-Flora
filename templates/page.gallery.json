@@ -30,7 +30,7 @@
         "1648098757003d653e-1"
       ],
       "settings": {
-        "background_color": "#EEEEEE",
+        "background_color": "#eeeeee",
         "text_color": "rgba(0,0,0,0)",
         "text_alignment": "center",
         "text_transition": "fadeIn",
@@ -148,14 +148,14 @@
         "gallery_type": "horizontal-masonry",
         "crop_images": false,
         "images_per_row": 4,
-        "enable_lightbox": false,
+        "enable_lightbox": true,
         "overlay_color": "#000000",
         "link_color": "#ffffff",
         "width": "standard",
         "show_gutter": true,
         "padding_top": 0,
         "padding_bottom": 20,
-        "animation": "none",
+        "animation": "fadeIn",
         "css_class": "",
         "custom_css": ""
       }
