@@ -348,13 +348,6 @@
               "richtext_bottom": ""
             }
           },
-          "5764fd00-81d6-406a-b987-b89657f9406a": {
-            "type": "menu",
-            "settings": {
-              "menu_1": "stacking",
-              "menu_1_link": ""
-            }
-          },
           "f454ce6d-47c2-4504-9f74-281c974e018f": {
             "type": "mixed",
             "settings": {
@@ -363,6 +356,25 @@
               "image_link_top": "",
               "image_caption_top": "",
               "menu_1": "working",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "3f913d6b-868a-4c3b-859a-270f61dd61fd": {
+            "type": "mixed",
+            "settings": {
+              "richtext_top": "Stacking & Storing",
+              "image_top": "shopify:\/\/shop_images\/dummy_600x300_ddd_becbc3.png",
+              "image_link_top": "",
+              "image_caption_top": "",
+              "menu_1": "stacking",
               "menu_1_link": "",
               "menu_2": "",
               "menu_2_link": "",
@@ -393,14 +405,14 @@
               "richtext_bottom": ""
             }
           },
-          "3f913d6b-868a-4c3b-859a-270f61dd61fd": {
+          "61c87421-e2ed-4df9-968e-ba8ad24908fe": {
             "type": "mixed",
             "settings": {
-              "richtext_top": "Stacking & Storing",
+              "richtext_top": "Sleeping",
               "image_top": "shopify:\/\/shop_images\/dummy_600x300_ddd_becbc3.png",
               "image_link_top": "",
               "image_caption_top": "",
-              "menu_1": "stacking",
+              "menu_1": "sleeping",
               "menu_1_link": "",
               "menu_2": "",
               "menu_2_link": "",
@@ -415,10 +427,10 @@
         },
         "block_order": [
           "953ca3dd-fbe0-4948-893a-04599c49f6a6",
-          "5764fd00-81d6-406a-b987-b89657f9406a",
           "f454ce6d-47c2-4504-9f74-281c974e018f",
+          "3f913d6b-868a-4c3b-859a-270f61dd61fd",
           "1a5ea570-af75-412d-ab17-7a2af5383b64",
-          "3f913d6b-868a-4c3b-859a-270f61dd61fd"
+          "61c87421-e2ed-4df9-968e-ba8ad24908fe"
         ],
         "settings": {
           "parent_link": "Collections",
