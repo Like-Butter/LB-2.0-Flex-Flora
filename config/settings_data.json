@@ -355,20 +355,6 @@
               "menu_1_link": ""
             }
           },
-          "cc8f6c6a-c07e-43d7-881b-29fc3fd08c5c": {
-            "type": "menu",
-            "settings": {
-              "menu_1": "sleeping",
-              "menu_1_link": ""
-            }
-          },
-          "36c6e3a7-07df-426c-ace1-e1ec52d38ee5": {
-            "type": "menu",
-            "settings": {
-              "menu_1": "storing",
-              "menu_1_link": ""
-            }
-          },
           "f454ce6d-47c2-4504-9f74-281c974e018f": {
             "type": "mixed",
             "settings": {
@@ -406,15 +392,33 @@
               "image_link_bottom": "",
               "richtext_bottom": ""
             }
+          },
+          "3f913d6b-868a-4c3b-859a-270f61dd61fd": {
+            "type": "mixed",
+            "settings": {
+              "richtext_top": "Stacking & Storing",
+              "image_top": "shopify:\/\/shop_images\/dummy_600x300_ddd_becbc3.png",
+              "image_link_top": "",
+              "image_caption_top": "",
+              "menu_1": "stacking",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
           }
         },
         "block_order": [
           "953ca3dd-fbe0-4948-893a-04599c49f6a6",
           "5764fd00-81d6-406a-b987-b89657f9406a",
-          "cc8f6c6a-c07e-43d7-881b-29fc3fd08c5c",
-          "36c6e3a7-07df-426c-ace1-e1ec52d38ee5",
           "f454ce6d-47c2-4504-9f74-281c974e018f",
-          "1a5ea570-af75-412d-ab17-7a2af5383b64"
+          "1a5ea570-af75-412d-ab17-7a2af5383b64",
+          "3f913d6b-868a-4c3b-859a-270f61dd61fd"
         ],
         "settings": {
           "parent_link": "Collections",
