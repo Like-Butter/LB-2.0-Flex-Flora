@@ -307,7 +307,7 @@
           "logo_width": 80,
           "main_linklist": "main-menu",
           "menu_alignment": "start",
-          "dropdown_click": true,
+          "dropdown_click": false,
           "display_search": true,
           "icon_style": "icons",
           "enable_overlay": false,
