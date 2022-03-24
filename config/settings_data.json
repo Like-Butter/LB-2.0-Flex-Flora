@@ -18,7 +18,7 @@
     "mobile_menu_opacity": 100,
     "mobile_menu_link_color": "#776761",
     "mobile_menu_link_hover_color": "#e36e1e",
-    "button_primary_padding": "small",
+    "button_primary_padding": "regular",
     "button_primary_bg_color": "#6b8575",
     "button_primary_bg_color_transparency": 100,
     "button_primary_border_color": "rgba(0,0,0,0)",
