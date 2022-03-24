@@ -348,20 +348,6 @@
               "richtext_bottom": ""
             }
           },
-          "3117f139-b8a9-4c63-80e9-c1717402eee4": {
-            "type": "menu",
-            "settings": {
-              "menu_1": "working",
-              "menu_1_link": ""
-            }
-          },
-          "a3139faf-9160-4228-87d6-da79df3b03f6": {
-            "type": "menu",
-            "settings": {
-              "menu_1": "eating",
-              "menu_1_link": ""
-            }
-          },
           "5764fd00-81d6-406a-b987-b89657f9406a": {
             "type": "menu",
             "settings": {
@@ -382,15 +368,53 @@
               "menu_1": "storing",
               "menu_1_link": ""
             }
+          },
+          "f454ce6d-47c2-4504-9f74-281c974e018f": {
+            "type": "mixed",
+            "settings": {
+              "richtext_top": "Working",
+              "image_top": "shopify:\/\/shop_images\/dummy_600x300_ddd_becbc3.png",
+              "image_link_top": "",
+              "image_caption_top": "",
+              "menu_1": "working",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "1a5ea570-af75-412d-ab17-7a2af5383b64": {
+            "type": "mixed",
+            "settings": {
+              "richtext_top": "Dining",
+              "image_top": "shopify:\/\/shop_images\/dummy_600x300_ddd_becbc3.png",
+              "image_link_top": "",
+              "image_caption_top": "",
+              "menu_1": "eating",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
           }
         },
         "block_order": [
           "953ca3dd-fbe0-4948-893a-04599c49f6a6",
-          "3117f139-b8a9-4c63-80e9-c1717402eee4",
-          "a3139faf-9160-4228-87d6-da79df3b03f6",
           "5764fd00-81d6-406a-b987-b89657f9406a",
           "cc8f6c6a-c07e-43d7-881b-29fc3fd08c5c",
-          "36c6e3a7-07df-426c-ace1-e1ec52d38ee5"
+          "36c6e3a7-07df-426c-ace1-e1ec52d38ee5",
+          "f454ce6d-47c2-4504-9f74-281c974e018f",
+          "1a5ea570-af75-412d-ab17-7a2af5383b64"
         ],
         "settings": {
           "parent_link": "Collections",
