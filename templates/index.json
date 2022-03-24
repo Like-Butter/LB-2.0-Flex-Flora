@@ -399,7 +399,7 @@
         "button_label": "Read post",
         "button_type": "button--primary",
         "width": "standard",
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 0,
         "animation": "fadeIn",
         "css_class": "",
