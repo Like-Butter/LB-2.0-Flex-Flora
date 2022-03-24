@@ -18,14 +18,14 @@
         "16480956554677e4a8-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/dummy_600x600_ddd_becbc3.png",
+            "image": "shopify:\/\/shop_images\/dummy_1200x1200_ffffff_cccccc_93a5dbf3-235d-48b7-b1e3-d42c92400e3d.png",
             "link": "shopify:\/\/pages\/warranty-information",
             "overlay_background": "#ffffff",
-            "overlay_background_opacity": 70,
+            "overlay_background_opacity": 0,
             "overlay_text": "#39423d",
-            "icon_label": "truck",
-            "title": "Special deal",
-            "text": "<p>Promotion description details.<\/p>"
+            "icon_label": "calculator",
+            "title": "Request a quote",
+            "text": "<p>Got an idea? Let us make it for you.<\/p>"
           }
         },
         "16480956554677e4a8-1": {
