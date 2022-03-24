@@ -329,13 +329,6 @@
       "mega-menu-1": {
         "type": "mega-menu-1",
         "blocks": {
-          "e7cb5af2-1dd6-4d37-91a8-101472ddae12": {
-            "type": "menu",
-            "settings": {
-              "menu_1": "displaying",
-              "menu_1_link": ""
-            }
-          },
           "3117f139-b8a9-4c63-80e9-c1717402eee4": {
             "type": "menu",
             "settings": {
@@ -370,15 +363,34 @@
               "menu_1": "storing",
               "menu_1_link": ""
             }
+          },
+          "953ca3dd-fbe0-4948-893a-04599c49f6a6": {
+            "type": "mixed",
+            "settings": {
+              "richtext_top": "Displaying",
+              "image_top": "shopify:\/\/shop_images\/dummy_1800x500_ddd_e5e5e5.png",
+              "image_link_top": "shopify:\/\/collections\/working",
+              "image_caption_top": "",
+              "menu_1": "displaying",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
           }
         },
         "block_order": [
-          "e7cb5af2-1dd6-4d37-91a8-101472ddae12",
           "3117f139-b8a9-4c63-80e9-c1717402eee4",
           "a3139faf-9160-4228-87d6-da79df3b03f6",
           "5764fd00-81d6-406a-b987-b89657f9406a",
           "cc8f6c6a-c07e-43d7-881b-29fc3fd08c5c",
-          "36c6e3a7-07df-426c-ace1-e1ec52d38ee5"
+          "36c6e3a7-07df-426c-ace1-e1ec52d38ee5",
+          "953ca3dd-fbe0-4948-893a-04599c49f6a6"
         ],
         "settings": {
           "parent_link": "Collections",
