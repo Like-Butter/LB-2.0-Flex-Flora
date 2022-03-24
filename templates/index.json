@@ -356,7 +356,7 @@
       "type": "index__rich-text",
       "settings": {
         "title": "BUTTER BLOG",
-        "heading_font": "sans-serif",
+        "heading_font": "basic_commercial_n4",
         "heading_color": "rgba(0,0,0,0)",
         "heading_alignment": "center",
         "heading_size": 24,
