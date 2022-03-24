@@ -34,11 +34,11 @@
             "image": "shopify:\/\/shop_images\/dummy_1200x1200_ffffff_cccccc_93a5dbf3-235d-48b7-b1e3-d42c92400e3d.png",
             "link": "mailto:cuts@likebutter.com.au?subject=Website enquiry",
             "overlay_background": "rgba(0,0,0,0)",
-            "overlay_background_opacity": 70,
+            "overlay_background_opacity": 50,
             "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "bag",
-            "title": "Special deal",
-            "text": "<p>Promotion description details.<\/p>"
+            "icon_label": "email",
+            "title": "General enquiry",
+            "text": "<p>Please get in touch.<\/p>"
           }
         },
         "16480956554677e4a8-2": {
