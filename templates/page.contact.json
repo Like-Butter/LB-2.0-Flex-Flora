@@ -48,9 +48,9 @@
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "tag",
-            "title": "Special deal",
-            "text": "<p>Promotion description details.<\/p>"
+            "icon_label": "chat",
+            "title": "Schedule and appointment",
+            "text": "<p>Book a phone or video chat.<\/p>"
           }
         }
       },
