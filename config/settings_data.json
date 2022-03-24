@@ -453,7 +453,6 @@
         "blocks": {
           "footer__icon-bar-0": {
             "type": "text",
-            "disabled": true,
             "settings": {
               "icon": "leaf",
               "text": "Low impact,<br>long lasting",
@@ -462,7 +461,6 @@
           },
           "footer__icon-bar-1": {
             "type": "text",
-            "disabled": true,
             "settings": {
               "icon": "bunny",
               "text": "Locally made",
@@ -471,7 +469,6 @@
           },
           "footer__icon-bar-2": {
             "type": "text",
-            "disabled": true,
             "settings": {
               "icon": "rocket",
               "text": "Customisable<br>& playful",
