@@ -1,5 +1,4 @@
 {
-  "name": "Gallery",
   "sections": {
     "banner": {
       "type": "banner",
@@ -32,48 +31,56 @@
         "0ca3c6f3-8a76-4956-a075-fe1bc38dc99f": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Appointment.jpg",
             "link": ""
           }
         },
         "d4ddf2a4-d35b-47d4-b103-3771e27041fd": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_600x300_ddd_becbc3.png",
             "link": ""
           }
         },
         "6cc9f227-7d58-40e5-b107-2d966fde637e": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_1200x1200_ffffff_cccccc_93a5dbf3-235d-48b7-b1e3-d42c92400e3d.png",
             "link": ""
           }
         },
         "9ca8d9ad-5440-497c-b10b-b60d10957b2d": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/General_1024x1024_6521d7c9-b08f-4d09-ba4b-91567e394a63.jpg",
             "link": ""
           }
         },
         "87720703-7731-4e6f-8e3d-97d3db1fa58e": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_600x600_ddd_becbc3.png",
             "link": ""
           }
         },
         "efb4b41e-966f-4566-960b-58a62b749f1a": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Quote_1024x1024_f6ed8965-59c7-4fc3-939e-b684dec66a37.jpg",
             "link": ""
           }
         },
         "6ef404ba-d4f4-48ca-940f-bbcabb0164fa": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_1800x900_ffffff_cccccc.png",
             "link": ""
           }
         },
         "8ed674f8-0524-462c-ad26-e30a7f38b1d6": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Appointment.jpg",
             "link": ""
           }
         }
@@ -89,12 +96,12 @@
         "8ed674f8-0524-462c-ad26-e30a7f38b1d6"
       ],
       "settings": {
-        "gallery_type": "classic",
+        "gallery_type": "horizontal-masonry",
         "crop_images": false,
         "images_per_row": 4,
         "enable_lightbox": true,
         "overlay_color": "#000000",
-        "link_color": "#FFFFFF",
+        "link_color": "#ffffff",
         "width": "standard",
         "show_gutter": true,
         "padding_top": 0,

@@ -1,8 +1,8 @@
 {
-  "name": "Details",
   "sections": {
     "image_with_text_overlay": {
       "type": "index__image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "link": "",
         "pretext": "<p>Preheading<\/p>",
@@ -14,9 +14,9 @@
         "text_alignment": "center",
         "text_horizontal_position": "center",
         "text_vertical_position": "middle",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_opacity": 77,
-        "border_color": "#FFFFFF",
+        "border_color": "#ffffff",
         "border_width": 0,
         "text_width": 40,
         "button_1": "Button 1",
@@ -114,8 +114,8 @@
         "button_link": "",
         "button_alignment": "center",
         "button_style": "button--primary",
-        "background": "#EEEEEE",
-        "gradient": "#C0C0C0",
+        "background": "#eeeeee",
+        "gradient": "#c0c0c0",
         "gradient_rotation": 180,
         "width": "wide",
         "padding_top": 20,
