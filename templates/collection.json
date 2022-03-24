@@ -3,6 +3,7 @@
     "banner": {
       "type": "fallback_image_banner",
       "settings": {
+        "image": "shopify:\/\/shop_images\/dummy_1800x800_ffffff_cccccc.png",
         "image_darken": true,
         "width": "wide",
         "banner_height": "small",
