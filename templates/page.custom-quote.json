@@ -28,9 +28,9 @@
           "settings": {
             "title": "Signage",
             "heading_size": "small",
-            "text": "<p>We design and make all manner of things for all sorts of people and businesses. From simple flat-pack display stands for a market stall right through to entire shop fit-outs, home joinery and commercial furniture. In order for us to quote your custom job most effectively, please complete the form below. One of our team members will respond ASAP and help guide you through the process of commissioning your custom piece or project.<\/p>",
+            "text": "<p>Yep, we also do signs. Like Butter has produced many signs, and we know how to make your brand or event name pop… Keen on plywood for an indoor sign? Or perhaps something a little more weather-proof for outside in the sun.<\/p>",
             "button_label": "More about Signage",
-            "link": "shopify:\/\/pages\/quote-request-form",
+            "link": "shopify:\/\/pages\/signage",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
             "text_color": "rgba(0,0,0,0)",
