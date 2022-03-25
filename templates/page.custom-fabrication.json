@@ -33,6 +33,7 @@
         "1648181709d558962d-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Custom_furniture.jpg",
             "image_crop": "none",
             "image_link": ""
           }
@@ -40,6 +41,7 @@
         "1648181709d558962d-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Side_bench.jpg",
             "image_crop": "none",
             "image_link": ""
           }
