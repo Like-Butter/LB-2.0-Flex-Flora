@@ -82,11 +82,11 @@
         "1648181709d558962d-2": {
           "type": "text",
           "settings": {
-            "title": "Heading text here",
-            "heading_size": "regular",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-            "button_label": "View all",
-            "link": "",
+            "title": "Custom furniture",
+            "heading_size": "small",
+            "text": "<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam vitae consectetur urna. Integer sed interdum ligula, eu tempus quam.<\/p><p><\/p>",
+            "button_label": "More about custom furniture",
+            "link": "shopify:\/\/pages\/custom-furniture",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
             "text_color": "rgba(0,0,0,0)",
