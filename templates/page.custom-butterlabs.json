@@ -253,7 +253,7 @@
         "1648192909e38f0db3-1"
       ],
       "settings": {
-        "background_color": "#EEEEEE",
+        "background_color": "#688172",
         "text_color": "rgba(0,0,0,0)",
         "text_alignment": "center",
         "text_transition": "fadeIn",
@@ -268,7 +268,7 @@
         "padding_top": 20,
         "padding_bottom": 20,
         "css_class": "",
-        "custom_css": ""
+        "custom_css": "{background:#688172}"
       }
     }
   },
