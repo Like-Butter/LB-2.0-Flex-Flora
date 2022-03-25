@@ -259,7 +259,7 @@
         "padding_bottom": 0,
         "animation": "none",
         "css_class": "",
-        "custom_css": "{ background: #fede4d}"
+        "custom_css": "\/** { background: #fede4d} **\/"
       }
     }
   },
