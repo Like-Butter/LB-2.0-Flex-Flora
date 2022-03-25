@@ -329,108 +329,56 @@
       "mega-menu-1": {
         "type": "mega-menu-1",
         "blocks": {
-          "953ca3dd-fbe0-4948-893a-04599c49f6a6": {
-            "type": "mixed",
+          "193c76de-f3cc-48e5-98fb-823e7e5a717f": {
+            "type": "menu",
             "settings": {
-              "richtext_top": "Displaying",
-              "image_top": "shopify:\/\/shop_images\/dummy_600x300_ddd_becbc3.png",
-              "image_link_top": "shopify:\/\/collections\/displaying",
-              "image_caption_top": "",
               "menu_1": "displaying",
-              "menu_1_link": "",
-              "menu_2": "",
-              "menu_2_link": "",
-              "menu_3": "",
-              "menu_3_link": "",
-              "menu_4": "",
-              "menu_4_link": "",
-              "image_link_bottom": "",
-              "richtext_bottom": ""
+              "menu_1_link": ""
             }
           },
-          "f454ce6d-47c2-4504-9f74-281c974e018f": {
-            "type": "mixed",
+          "9fcb033b-861b-4be6-ae7a-9622b9f5d41c": {
+            "type": "menu",
             "settings": {
-              "richtext_top": "Working",
-              "image_top": "shopify:\/\/shop_images\/dummy_600x300_ddd_becbc3.png",
-              "image_link_top": "",
-              "image_caption_top": "",
-              "menu_1": "working",
-              "menu_1_link": "",
-              "menu_2": "",
-              "menu_2_link": "",
-              "menu_3": "",
-              "menu_3_link": "",
-              "menu_4": "",
-              "menu_4_link": "",
-              "image_link_bottom": "",
-              "richtext_bottom": ""
-            }
-          },
-          "3f913d6b-868a-4c3b-859a-270f61dd61fd": {
-            "type": "mixed",
-            "settings": {
-              "richtext_top": "Stacking & Storing",
-              "image_top": "shopify:\/\/shop_images\/dummy_600x300_ddd_becbc3.png",
-              "image_link_top": "",
-              "image_caption_top": "",
-              "menu_1": "stacking",
-              "menu_1_link": "",
-              "menu_2": "",
-              "menu_2_link": "",
-              "menu_3": "",
-              "menu_3_link": "",
-              "menu_4": "",
-              "menu_4_link": "",
-              "image_link_bottom": "",
-              "richtext_bottom": ""
-            }
-          },
-          "1a5ea570-af75-412d-ab17-7a2af5383b64": {
-            "type": "mixed",
-            "settings": {
-              "richtext_top": "Dining",
-              "image_top": "shopify:\/\/shop_images\/dummy_600x300_ddd_becbc3.png",
-              "image_link_top": "",
-              "image_caption_top": "",
               "menu_1": "eating",
-              "menu_1_link": "",
-              "menu_2": "",
-              "menu_2_link": "",
-              "menu_3": "",
-              "menu_3_link": "",
-              "menu_4": "",
-              "menu_4_link": "",
-              "image_link_bottom": "",
-              "richtext_bottom": ""
+              "menu_1_link": ""
             }
           },
-          "61c87421-e2ed-4df9-968e-ba8ad24908fe": {
-            "type": "mixed",
+          "422f68c1-cf43-4581-a518-c76b580cadbc": {
+            "type": "menu",
             "settings": {
-              "richtext_top": "Sleeping",
-              "image_top": "shopify:\/\/shop_images\/dummy_600x300_ddd_becbc3.png",
-              "image_link_top": "",
-              "image_caption_top": "",
+              "menu_1": "sitting",
+              "menu_1_link": ""
+            }
+          },
+          "639f16f8-bded-40d3-821d-26189b734503": {
+            "type": "menu",
+            "settings": {
               "menu_1": "sleeping",
-              "menu_1_link": "",
-              "menu_2": "",
-              "menu_2_link": "",
-              "menu_3": "",
-              "menu_3_link": "",
-              "menu_4": "",
-              "menu_4_link": "",
-              "image_link_bottom": "",
-              "richtext_bottom": ""
+              "menu_1_link": ""
+            }
+          },
+          "b878e4a6-61b3-4579-a21c-bdcda4732c53": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "storing",
+              "menu_1_link": ""
+            }
+          },
+          "2da18d8c-b6d6-408f-8e44-83e269595183": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "working",
+              "menu_1_link": ""
             }
           }
         },
         "block_order": [
-          "953ca3dd-fbe0-4948-893a-04599c49f6a6",
-          "f454ce6d-47c2-4504-9f74-281c974e018f",
-          "3f913d6b-868a-4c3b-859a-270f61dd61fd",
-          "1a5ea570-af75-412d-ab17-7a2af5383b64",
-          "61c87421-e2ed-4df9-968e-ba8ad24908fe"
+          "193c76de-f3cc-48e5-98fb-823e7e5a717f",
+          "9fcb033b-861b-4be6-ae7a-9622b9f5d41c",
+          "422f68c1-cf43-4581-a518-c76b580cadbc",
+          "639f16f8-bded-40d3-821d-26189b734503",
+          "b878e4a6-61b3-4579-a21c-bdcda4732c53",
+          "2da18d8c-b6d6-408f-8e44-83e269595183"
         ],
         "settings": {
           "parent_link": "Collections",
