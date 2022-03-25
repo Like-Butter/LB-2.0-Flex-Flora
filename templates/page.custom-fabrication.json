@@ -178,11 +178,11 @@
         "164818173149556967-2": {
           "type": "text",
           "settings": {
-            "title": "Heading text here",
-            "heading_size": "regular",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-            "button_label": "View all",
-            "link": "",
+            "title": "CNC routing services",
+            "heading_size": "small",
+            "text": "<p>We also offer a professional CNC routing service in a range of materials for other designers, makers and manufacturers. <\/p><p>Don’t be shy asking, we love to learn through interesting one-off projects. If we can’t help we’ll try to refer you to someone with the right machines for the job.<\/p>",
+            "button_label": "More about CNC routing services",
+            "link": "shopify:\/\/pages\/cnc-routing-service",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
             "text_color": "rgba(0,0,0,0)",
