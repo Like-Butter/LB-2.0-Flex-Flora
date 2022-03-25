@@ -23,22 +23,13 @@
             "image_link": "shopify:\/\/pages\/signage"
           }
         },
-        "1648180446368c6a13-1": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Custom_furniture.jpg",
-            "image_crop": "none",
-            "image_link": ""
-          }
-        },
         "1648180446368c6a13-2": {
           "type": "text",
           "settings": {
-            "title": "Heading text here",
-            "heading_size": "regular",
+            "title": "Signage",
+            "heading_size": "small",
             "text": "<p>We design and make all manner of things for all sorts of people and businesses. From simple flat-pack display stands for a market stall right through to entire shop fit-outs, home joinery and commercial furniture. In order for us to quote your custom job most effectively, please complete the form below. One of our team members will respond ASAP and help guide you through the process of commissioning your custom piece or project.<\/p>",
-            "button_label": "Get a quote",
+            "button_label": "More about Signage",
             "link": "shopify:\/\/pages\/quote-request-form",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
@@ -50,7 +41,6 @@
       },
       "block_order": [
         "1648180446368c6a13-0",
-        "1648180446368c6a13-1",
         "1648180446368c6a13-2"
       ],
       "settings": {
