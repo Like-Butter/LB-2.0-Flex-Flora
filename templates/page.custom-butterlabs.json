@@ -151,6 +151,7 @@
     },
     "16481851414f86681b": {
       "type": "index__image-with-text",
+      "disabled": true,
       "blocks": {
         "1648185141ee6d4128-0": {
           "type": "image",
@@ -202,6 +203,7 @@
     },
     "16481856915b62af55": {
       "type": "index__slideshow-classic",
+      "disabled": true,
       "blocks": {
         "164818569193b0ba27-0": {
           "type": "image",
@@ -287,11 +289,11 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/KittaCrates.jpg",
-            "pretext": "<p>Add a preheader<\/p>",
-            "title": "Slideshow with Text",
+            "pretext": "<p><strong>Status: COMPLETE<\/strong><\/p>",
+            "title": "Kitta Crates",
             "text": "<p>We're developing a set of Clip Crates to suit the shelf spacing of our flagship KittaParts shelving system.<\/p>",
-            "button_label": "Click here",
-            "button_link": ""
+            "button_label": "Buy KittaCrates",
+            "button_link": "shopify:\/\/products\/kitta-crates"
           }
         },
         "164819091945a841b2-1": {
@@ -310,22 +312,22 @@
         "164819091945a841b2-1"
       ],
       "settings": {
-        "background_color": "#EEEEEE",
+        "background_color": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "text_transition": "fadeIn",
         "button_style": "button--primary",
         "show_nav_buttons": true,
-        "image_position": "right",
+        "image_position": "left",
         "image_transition": "slide",
         "image_slideshow_speed": 8,
-        "show_arrows": true,
-        "width": "standard",
+        "show_arrows": false,
+        "width": "wide",
         "show_gutter": true,
         "padding_top": 20,
         "padding_bottom": 20,
         "css_class": "",
-        "custom_css": ""
+        "custom_css": "{background: #181818}"
       }
     }
   },
