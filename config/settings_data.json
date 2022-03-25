@@ -137,7 +137,7 @@
     "dropdown_font_style": "none",
     "button__font": "basic_commercial_n4",
     "button_letter_spacing": 1,
-    "button_font_style": "uppercase",
+    "button_font_style": "none",
     "heading__font": "basic_commercial_n4",
     "heading_size": 42,
     "heading_letter_spacing": 0,
