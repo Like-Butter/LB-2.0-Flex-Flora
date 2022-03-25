@@ -207,7 +207,7 @@
       "settings": {
         "background_color": "#000000",
         "text_color": "#ffffff",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "text_transition": "fadeIn",
         "button_style": "button--primary",
         "show_nav_buttons": true,
