@@ -207,7 +207,7 @@
         "show_gutter": false,
         "padding_top": 0,
         "padding_bottom": 0,
-        "animation": "none",
+        "animation": "fadeInRight",
         "css_class": "",
         "custom_css": ""
       }
@@ -257,7 +257,7 @@
         "show_gutter": false,
         "padding_top": 0,
         "padding_bottom": 0,
-        "animation": "none",
+        "animation": "fadeInLeft",
         "css_class": "",
         "custom_css": "\/** { background: #fede4d} **\/"
       }
