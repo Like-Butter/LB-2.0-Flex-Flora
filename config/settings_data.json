@@ -333,14 +333,14 @@
             "type": "menu",
             "settings": {
               "menu_1": "displaying",
-              "menu_1_link": ""
+              "menu_1_link": "shopify:\/\/collections\/displaying"
             }
           },
           "9fcb033b-861b-4be6-ae7a-9622b9f5d41c": {
             "type": "menu",
             "settings": {
               "menu_1": "eating",
-              "menu_1_link": ""
+              "menu_1_link": "shopify:\/\/collections\/eating"
             }
           },
           "422f68c1-cf43-4581-a518-c76b580cadbc": {
