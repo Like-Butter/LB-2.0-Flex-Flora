@@ -74,7 +74,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/logobutterlabs.png",
-            "image_crop": "none",
+            "image_crop": "center",
             "image_link": ""
           }
         },
@@ -106,7 +106,7 @@
         "padding_bottom": 20,
         "animation": "none",
         "css_class": "",
-        "custom_css": "{\nbackground:#000;\nmax-height:300px\n}"
+        "custom_css": "{\nbackground:#000;\n\n}\nimg {\nmax-height:300px\n}"
       }
     }
   },
