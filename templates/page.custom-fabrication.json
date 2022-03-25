@@ -130,15 +130,15 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Signage.jpg",
-            "image_crop": "none",
+            "image_crop": "center",
             "image_link": ""
           }
         },
         "1648179958d00db186-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Custom_furniture.jpg",
-            "image_crop": "none",
+            "image": "shopify:\/\/shop_images\/dummy_900x600_fff4c3_fede4d.png",
+            "image_crop": "center",
             "image_link": ""
           }
         }
