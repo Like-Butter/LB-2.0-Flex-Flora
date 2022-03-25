@@ -137,11 +137,20 @@
             "image_crop": "center",
             "image_link": "shopify:\/\/pages\/signage"
           }
+        },
+        "bbdb4cdb-ecc9-4a5d-9413-aaa7a2db85ba": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_1800x800_ffffff_cccccc.png",
+            "image_crop": "center",
+            "image_link": ""
+          }
         }
       },
       "block_order": [
         "1648180446368c6a13-2",
-        "1648180446368c6a13-0"
+        "1648180446368c6a13-0",
+        "bbdb4cdb-ecc9-4a5d-9413-aaa7a2db85ba"
       ],
       "settings": {
         "width": "standard",
@@ -152,12 +161,64 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "16481809974ea3103a": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "16481809976847dc8d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_1800x800_ffffff_cccccc.png",
+            "image_crop": "center",
+            "image_link": ""
+          }
+        },
+        "16481809976847dc8d-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_1800x800_ffffff_cccccc.png",
+            "image_crop": "center",
+            "image_link": ""
+          }
+        },
+        "16481809976847dc8d-2": {
+          "type": "text",
+          "settings": {
+            "title": "Shop fitting",
+            "heading_size": "small",
+            "text": "<p>We also manufacture to commercial volumes, and have significant experience with past projects around Melbourne, Brisbane, Sydney and Adelaide. We are always happy collaborating, so if you have project team we can work alongside architects, shop-fitters or other specialists to produce custom versions or sizes of Like Butter product. We can also develop new specialised items with your team, including design and fabrication from early concept. Contact us using the <a href=\"https:\/\/airtable.com\/shrXxbTeVepXy8K9J\" title=\"https:\/\/airtable.com\/shrXxbTeVepXy8K9J\">quote form <\/a>and we’ll be in touch to work out a budget and a timeline.<\/p>",
+            "button_label": "More about shop fitting",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16481809976847dc8d-0",
+        "16481809976847dc8d-1",
+        "16481809976847dc8d-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": "{\nbackground: #fede4d\n}"
+      }
     }
   },
   "order": [
     "main",
     "164818045231bd9598",
     "1648180752474d415d",
-    "164818044744ce210b"
+    "164818044744ce210b",
+    "16481809974ea3103a"
   ]
 }
