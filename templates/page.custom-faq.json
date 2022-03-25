@@ -3,10 +3,102 @@
     "main": {
       "type": "page-content__main",
       "settings": {
+        "show_heading": true,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16481748186e682513": {
+      "type": "index__faq",
+      "blocks": {
+        "1648174817d842d804-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Section heading"
+          }
+        },
+        "1648174817d842d804-1": {
+          "type": "content",
+          "settings": {
+            "title": "What is your question?",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "1648174817d842d804-2": {
+          "type": "content",
+          "settings": {
+            "title": "What is your question?",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "1648174817d842d804-3": {
+          "type": "content",
+          "settings": {
+            "title": "What is your question?",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "1648174817d842d804-4": {
+          "type": "heading",
+          "settings": {
+            "title": "Section heading"
+          }
+        },
+        "1648174817d842d804-5": {
+          "type": "content",
+          "settings": {
+            "title": "What is your question?",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "1648174817d842d804-6": {
+          "type": "content",
+          "settings": {
+            "title": "What is your question?",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "1648174817d842d804-7": {
+          "type": "content",
+          "settings": {
+            "title": "What is your question?",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "1648174817d842d804-8": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1648174817d842d804-0",
+        "1648174817d842d804-1",
+        "1648174817d842d804-2",
+        "1648174817d842d804-3",
+        "1648174817d842d804-4",
+        "1648174817d842d804-5",
+        "1648174817d842d804-6",
+        "1648174817d842d804-7",
+        "1648174817d842d804-8"
+      ],
+      "settings": {
+        "title": "",
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 56,
+        "animation": "fadeIn",
+        "css_class": "",
+        "custom_css": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16481748186e682513"
   ]
 }
