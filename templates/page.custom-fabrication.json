@@ -130,11 +130,11 @@
         "16481817271535dc75-2": {
           "type": "text",
           "settings": {
-            "title": "Heading text here",
-            "heading_size": "regular",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-            "button_label": "View all",
-            "link": "",
+            "title": "Custom crates",
+            "heading_size": "small",
+            "text": "<p>Our crates, affectionately known as Butter Boxes, have now made their way around the country since their humble beginnings in Melbourne back in 2009.<\/p>",
+            "button_label": "More about custom crates",
+            "link": "shopify:\/\/pages\/custom-crates",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
             "text_color": "rgba(0,0,0,0)",
