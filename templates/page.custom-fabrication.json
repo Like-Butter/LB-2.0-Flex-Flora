@@ -66,14 +66,16 @@
         "164818173149556967-0": {
           "type": "image",
           "settings": {
-            "image_crop": "none",
+            "image": "shopify:\/\/shop_images\/dummy_900x600_fff4c3_fede4d.png",
+            "image_crop": "center",
             "image_link": ""
           }
         },
         "164818173149556967-1": {
           "type": "image",
           "settings": {
-            "image_crop": "none",
+            "image": "shopify:\/\/shop_images\/CNC_routing_services.jpg",
+            "image_crop": "center",
             "image_link": ""
           }
         },
@@ -100,9 +102,9 @@
       ],
       "settings": {
         "width": "standard",
-        "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
+        "show_gutter": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "animation": "none",
         "css_class": "",
         "custom_css": ""
