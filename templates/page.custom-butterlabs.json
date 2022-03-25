@@ -162,22 +162,10 @@
             "button_label": "Buy KittaCrates",
             "button_link": "shopify:\/\/products\/kitta-crates"
           }
-        },
-        "164819091945a841b2-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Like_Butter_Custom_Clip_Simple_B.jpg",
-            "pretext": "<p><strong>Status: COMPLETE<\/strong><\/p>",
-            "title": "Clip Simple Bedside",
-            "text": "<p>Want a door instead of another drawer? Arron has just tweaked his own original design to incorporate a hinged door - with an internal shelf for bedside compartments.<\/p>",
-            "button_label": "Customise a product",
-            "button_link": "shopify:\/\/pages\/fabrication-1"
-          }
         }
       },
       "block_order": [
-        "164819091945a841b2-0",
-        "164819091945a841b2-1"
+        "164819091945a841b2-0"
       ],
       "settings": {
         "background_color": "#181818",
@@ -211,24 +199,13 @@
             "button_label": "Customise  a product",
             "button_link": "shopify:\/\/pages\/fabrication-1"
           }
-        },
-        "16481922077e9e473b-1": {
-          "type": "image",
-          "settings": {
-            "pretext": "<p>Add a preheader<\/p>",
-            "title": "Second slide",
-            "text": "<p>Each slide can use different text to accompany the image.<\/p>",
-            "button_label": "Link to product",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
-        "16481922077e9e473b-0",
-        "16481922077e9e473b-1"
+        "16481922077e9e473b-0"
       ],
       "settings": {
-        "background_color": "#181818",
+        "background_color": "#000000",
         "text_color": "#ffffff",
         "text_alignment": "center",
         "text_transition": "fadeIn",
@@ -239,9 +216,9 @@
         "image_slideshow_speed": 8,
         "show_arrows": true,
         "width": "wide",
-        "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
+        "show_gutter": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
       }
