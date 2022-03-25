@@ -160,8 +160,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/crates_in_different_colors.png",
-            "pretext": "<p>Add a preheader<\/p>",
-            "title": "Slideshow with Text",
+            "pretext": "<p>Status: IN DEVELOPMENT<\/p>",
+            "title": "Wine storage crates",
             "text": "<p>Each slide can have its own text and button link. Use it to describe the product, collection, page, etc. that the image depicts.<\/p>",
             "button_label": "Click here",
             "button_link": ""
