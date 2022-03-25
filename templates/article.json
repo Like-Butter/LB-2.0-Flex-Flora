@@ -2,11 +2,34 @@
   "sections": {
     "banner": {
       "type": "fallback_image_banner",
-      "settings": {}
+      "settings": {
+        "image_darken": true,
+        "width": "standard",
+        "banner_height": "small",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
     },
     "main": {
       "type": "article__main",
-      "settings": {}
+      "settings": {
+        "show_breadcrumb": false,
+        "blog_author": true,
+        "blog_date": true,
+        "read_time": true,
+        "blog_comment_count": true,
+        "show_tags": true,
+        "show_featured_image": false,
+        "show_sidebar": false,
+        "sidebar_position": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
