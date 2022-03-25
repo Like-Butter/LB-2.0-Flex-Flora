@@ -169,17 +169,19 @@
         "9a3dcd05-c6de-4943-b461-7dbb5a39bfcc": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Andrew_Batson_Graham.jpg",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "truck",
-            "title": "Special deal",
-            "text": "<p>Promotion description details.<\/p>"
+            "icon_label": "",
+            "title": "",
+            "text": "<p>Andrew Batson Graham<\/p>"
           }
         },
         "d81ef256-41f1-4e02-9341-287b48bb637a": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
@@ -192,6 +194,7 @@
         },
         "5ecd5238-ecf4-4053-9fc0-b12fe1bc9666": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
@@ -204,6 +207,7 @@
         },
         "5ec1a776-02c1-42c6-92a9-8d0de5706869": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
@@ -226,11 +230,11 @@
       ],
       "settings": {
         "border_radius": 0,
-        "crop_images": true,
+        "crop_images": false,
         "overlay_background": "#939393",
         "overlay_background_opacity": 70,
         "overlay_text": "#FFFFFF",
-        "show_border": true,
+        "show_border": false,
         "width": "standard",
         "show_gutter": true,
         "padding_top": 20,
