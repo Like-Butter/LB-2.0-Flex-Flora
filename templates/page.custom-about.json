@@ -2,7 +2,6 @@
   "sections": {
     "main": {
       "type": "page-content__main",
-      "disabled": true,
       "settings": {
         "show_heading": true,
         "heading_alignment": "left",
