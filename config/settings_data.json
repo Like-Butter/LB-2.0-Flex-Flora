@@ -383,8 +383,8 @@
         "settings": {
           "parent_link": "Collections",
           "enable_mega_menu_border": false,
-          "mega_menu_background_color": "#e4e9e6",
-          "mega_menu_text_color": "#39423d",
+          "mega_menu_background_color": "#808080",
+          "mega_menu_text_color": "#ffffff",
           "show_mega_bottom_bar": false,
           "mega_bottom_bar_icon": "",
           "mega_bottom_bar_text": "",
