@@ -281,7 +281,7 @@
         "padding_bottom": 20,
         "animation": "none",
         "css_class": "",
-        "custom_css": "background: #fede4d;"
+        "custom_css": "{\nbackground: #fede4d;\n}"
       }
     }
   },
