@@ -1,19 +1,5 @@
 {
-  "name": "FAQ",
   "sections": {
-    "banner": {
-      "type": "banner",
-      "settings": {
-        "image_darken": false,
-        "subtitle": "Subheading",
-        "width": "wide",
-        "banner_height": "medium",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "page": {
       "type": "page-content__main",
       "settings": {
@@ -38,21 +24,21 @@
         "16306825309648acac-1": {
           "type": "content",
           "settings": {
-            "title": "What is your question?",
+            "title": "What are Like Butter’s business hours?",
             "answer": "<p>Provide the answer to the question here.<\/p>"
           }
         },
         "16306825309648acac-2": {
           "type": "content",
           "settings": {
-            "title": "What is your question?",
+            "title": "Where is Like Butter located?",
             "answer": "<p>Provide the answer to the question here.<\/p>"
           }
         },
         "16306825309648acac-3": {
           "type": "content",
           "settings": {
-            "title": "What is your question?",
+            "title": "How can I contact Like Butter? Our preferred method of contact is via email - cuts@likebutter.com.au  Our response to your initial email will include our office phone number.",
             "answer": "<p>Provide the answer to the question here.<\/p>"
           }
         },
@@ -65,21 +51,21 @@
         "16306825309648acac-5": {
           "type": "content",
           "settings": {
-            "title": "What is your question?",
+            "title": "When can I expect delivery of my online order?",
             "answer": "<p>Provide the answer to the question here.<\/p>"
           }
         },
         "16306825309648acac-6": {
           "type": "content",
           "settings": {
-            "title": "What is your question?",
+            "title": "Do I need to be at the delivery address to accept delivery of my online order?",
             "answer": "<p>Provide the answer to the question here.<\/p>"
           }
         },
         "16306825309648acac-7": {
           "type": "content",
           "settings": {
-            "title": "What is your question?",
+            "title": "When will my online order be ready for pick up?",
             "answer": "<p>Provide the answer to the question here.<\/p>"
           }
         },
@@ -109,11 +95,25 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "banner": {
+      "type": "banner",
+      "disabled": true,
+      "settings": {
+        "image_darken": false,
+        "subtitle": "Subheading",
+        "width": "wide",
+        "banner_height": "medium",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
-    "banner",
     "page",
-    "main"
+    "main",
+    "banner"
   ]
 }
