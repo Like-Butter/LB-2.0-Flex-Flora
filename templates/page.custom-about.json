@@ -15,14 +15,6 @@
     "16481702818c925b8d": {
       "type": "index__image-with-text",
       "blocks": {
-        "1648170281710c564c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Jem_standing_on_a_custom_desk.jpg",
-            "image_crop": "none",
-            "image_link": ""
-          }
-        },
         "1648170281710c564c-2": {
           "type": "text",
           "settings": {
@@ -37,11 +29,19 @@
             "alignment": "left",
             "vertical_position": "center"
           }
+        },
+        "1648170281710c564c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jem_standing_on_a_custom_desk.jpg",
+            "image_crop": "none",
+            "image_link": ""
+          }
         }
       },
       "block_order": [
-        "1648170281710c564c-1",
-        "1648170281710c564c-2"
+        "1648170281710c564c-2",
+        "1648170281710c564c-1"
       ],
       "settings": {
         "width": "standard",
@@ -50,7 +50,7 @@
         "padding_bottom": 0,
         "animation": "none",
         "css_class": "",
-        "custom_css": "{\nbackground: #fede4d;\n}"
+        "custom_css": ""
       }
     },
     "16481702877cd24fd7": {
@@ -127,8 +127,8 @@
       "settings": {
         "width": "standard",
         "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "animation": "none",
         "css_class": "",
         "custom_css": ""
@@ -247,8 +247,8 @@
         "show_border": false,
         "width": "standard",
         "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
+        "padding_top": 0,
+        "padding_bottom": 50,
         "animation": "none",
         "css_class": "",
         "custom_css": ""
