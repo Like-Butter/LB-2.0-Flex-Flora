@@ -58,24 +58,24 @@
       "settings": {
         "link": "",
         "image": "shopify:\/\/shop_images\/dummy_1800x500_ddd_e5e5e5.png",
-        "pretext": "<p>Preheading<\/p>",
-        "title": "Image with Text Overlay",
-        "subtitle": "<p>Additional info in the subheading<\/p>",
+        "pretext": "",
+        "title": "Vision & Mission",
+        "subtitle": "<p>We're on a mission to minimise material waste through better design and process, and reduce our carbon footprint to zero. Where a legacy product falls short, we’re phasing it out or redesigning it better. Where investment is needed, we’re backing our vision. Production is now largely solar powered, with our new factory in Castlemaine equipped with 33kWh of roof-top generation. This mission is also why in 2020, we pledged to donate 1% of our gross profit to a tree planting or tree protection not-for-profit, as part of Sawdust Bureau's Treemaker initiative.<\/p>",
         "pretext_color": "#000000",
         "heading_color": "#000000",
         "subheading_color": "#000000",
         "text_alignment": "center",
         "text_horizontal_position": "center",
         "text_vertical_position": "middle",
-        "background_color": "#FFFFFF",
-        "background_opacity": 77,
-        "border_color": "#FFFFFF",
+        "background_color": "rgba(0,0,0,0)",
+        "background_opacity": 0,
+        "border_color": "rgba(0,0,0,0)",
         "border_width": 0,
-        "text_width": 40,
-        "button_1": "Button 1",
+        "text_width": 60,
+        "button_1": "",
         "button_1_link": "",
         "button_1_style": "button--secondary",
-        "button_2": "Button 2",
+        "button_2": "",
         "button_2_link": "",
         "button_2_style": "button--secondary",
         "mobile_image_crop": "none",
@@ -92,11 +92,52 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "164817085933fefa8e": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "1648170859a67be10e-1": {
+          "type": "image",
+          "settings": {
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "1648170859a67be10e-2": {
+          "type": "text",
+          "settings": {
+            "title": "Our Team",
+            "heading_size": "regular",
+            "text": "<p>We're a team of designers, sculptors, musicians and makers. We learn by playing with materials and machines. We're driven by pushing process to the limit and refining each detail as we gain experience. And we care about leaving a positive lasting touch on the planet, through design. Want to learn something from us? Check out our Instagram @likebuttermelbourne which is where Jem shares workshop processes and production updates.<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1648170859a67be10e-1",
+        "1648170859a67be10e-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
     "main",
     "16481702818c925b8d",
-    "16481702877cd24fd7"
+    "16481702877cd24fd7",
+    "164817085933fefa8e"
   ]
 }
