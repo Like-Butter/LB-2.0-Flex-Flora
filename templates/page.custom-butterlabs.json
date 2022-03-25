@@ -76,7 +76,7 @@
         "padding_top": 20,
         "padding_bottom": 20,
         "css_class": "",
-        "custom_css": "{background: #1A1A1A}\n.text-slideshow__heading .banner__heading title {\ncolor: #fff }"
+        "custom_css": "{background: #1A1A1A}\n.text-slideshow__content .title {\ncolor: #fff }"
       }
     },
     "1648184811cbfab2d4": {
@@ -160,7 +160,7 @@
         "padding_bottom": 0,
         "animation": "none",
         "css_class": "",
-        "custom_css": "{background: #181818}"
+        "custom_css": "{background: #181818}\n.text-slideshow__content .title {\ncolor: #fff }"
       }
     },
     "164819091946c4cfc3": {
