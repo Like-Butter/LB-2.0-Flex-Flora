@@ -86,7 +86,7 @@
         "show_arrows": false,
         "show_nav_buttons": false,
         "mobile_text_below_image": false,
-        "width": "standard",
+        "width": "wide",
         "padding_top": 0,
         "padding_bottom": 0,
         "animation": "none",
