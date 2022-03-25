@@ -63,7 +63,7 @@
       "settings": {
         "background_color": "#181818",
         "text_color": "#ffffff",
-        "text_alignment": "center",
+        "text_alignment": "right",
         "text_transition": "fadeIn",
         "button_style": "button--primary",
         "show_nav_buttons": false,
@@ -71,7 +71,7 @@
         "image_transition": "slide",
         "image_slideshow_speed": 8,
         "show_arrows": false,
-        "width": "standard",
+        "width": "wide",
         "show_gutter": true,
         "padding_top": 20,
         "padding_bottom": 20,
@@ -81,6 +81,7 @@
     },
     "1648184811cbfab2d4": {
       "type": "index__slideshow-classic",
+      "disabled": true,
       "blocks": {
         "16481848119b832cb0-0": {
           "type": "image",
