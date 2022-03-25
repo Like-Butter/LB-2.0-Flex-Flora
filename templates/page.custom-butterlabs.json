@@ -32,7 +32,7 @@
         "images_per_row": 4,
         "enable_lightbox": false,
         "overlay_color": "#000000",
-        "link_color": "#FFFFFF",
+        "link_color": "#ffffff",
         "width": "standard",
         "show_gutter": false,
         "padding_top": 40,
@@ -76,7 +76,7 @@
         "padding_top": 20,
         "padding_bottom": 20,
         "css_class": "",
-        "custom_css": "{background: #1A1A1A}"
+        "custom_css": "{background: #1A1A1A}\n.text-slideshow__heading .banner__heading title {\ncolor: #fff }"
       }
     },
     "1648184811cbfab2d4": {
@@ -96,9 +96,9 @@
             "subheading_color": "#ffffff",
             "text_alignment": "right",
             "text_horizontal_position": "right",
-            "background_color": "#FFFFFF",
+            "background_color": "#ffffff",
             "background_opacity": 0,
-            "border_color": "#FFFFFF",
+            "border_color": "#ffffff",
             "border_width": 0,
             "text_width": 40,
             "button_1": "",
@@ -127,9 +127,9 @@
             "subheading_color": "#000000",
             "text_alignment": "center",
             "text_horizontal_position": "center",
-            "background_color": "#FFFFFF",
+            "background_color": "#ffffff",
             "background_opacity": 77,
-            "border_color": "#FFFFFF",
+            "border_color": "#ffffff",
             "border_width": 0,
             "text_width": 40,
             "button_1": "",
