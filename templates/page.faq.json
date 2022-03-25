@@ -91,7 +91,7 @@
         "width": "standard",
         "padding_top": 0,
         "padding_bottom": 80,
-        "animation": "none",
+        "animation": "fadeIn",
         "css_class": "",
         "custom_css": ""
       }
