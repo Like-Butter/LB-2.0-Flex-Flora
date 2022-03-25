@@ -58,10 +58,10 @@
         "19062e99-d368-4478-b445-c33dd726aa8c": {
           "type": "text",
           "settings": {
-            "title": "Heading text here",
+            "title": "",
             "heading_size": "regular",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-            "button_label": "View all",
+            "text": "<p>&nbsp;<\/p>",
+            "button_label": "",
             "link": "",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
