@@ -123,12 +123,178 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "1648171275fa256fc6": {
+      "type": "index__featured-promotions",
+      "blocks": {
+        "1648171275a85df983-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "truck",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
+        },
+        "1648171275a85df983-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "bag",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
+        },
+        "1648171275a85df983-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "tag",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
+        },
+        "9a3dcd05-c6de-4943-b461-7dbb5a39bfcc": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "truck",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
+        },
+        "d81ef256-41f1-4e02-9341-287b48bb637a": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "truck",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
+        },
+        "5ecd5238-ecf4-4053-9fc0-b12fe1bc9666": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "truck",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
+        },
+        "5ec1a776-02c1-42c6-92a9-8d0de5706869": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "truck",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
+        },
+        "67a07e62-8bde-4bd5-863d-46a08eed0d5c": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "truck",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
+        },
+        "5b312710-5eaf-4254-b157-ce0e7a2c5e9c": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "truck",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
+        },
+        "32f6dce0-e25c-4227-a601-229bd004b8bd": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "truck",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
+        },
+        "35d40a7f-0ee8-416f-8018-528c76959850": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "truck",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1648171275a85df983-0",
+        "1648171275a85df983-1",
+        "1648171275a85df983-2",
+        "9a3dcd05-c6de-4943-b461-7dbb5a39bfcc",
+        "d81ef256-41f1-4e02-9341-287b48bb637a",
+        "5ecd5238-ecf4-4053-9fc0-b12fe1bc9666",
+        "5ec1a776-02c1-42c6-92a9-8d0de5706869",
+        "67a07e62-8bde-4bd5-863d-46a08eed0d5c",
+        "5b312710-5eaf-4254-b157-ce0e7a2c5e9c",
+        "32f6dce0-e25c-4227-a601-229bd004b8bd",
+        "35d40a7f-0ee8-416f-8018-528c76959850"
+      ],
+      "settings": {
+        "border_radius": 0,
+        "crop_images": true,
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 70,
+        "overlay_text": "#FFFFFF",
+        "show_border": true,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
     "main",
     "16481702818c925b8d",
     "16481702877cd24fd7",
-    "164817107082f0ada5"
+    "164817107082f0ada5",
+    "1648171275fa256fc6"
   ]
 }
