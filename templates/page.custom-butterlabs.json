@@ -39,7 +39,7 @@
         "padding_bottom": 0,
         "animation": "zoomIn",
         "css_class": "",
-        "custom_css": "{background: #181818}"
+        "custom_css": "{background: #1A1A1A}"
       }
     },
     "164819338017c42a5d": {
@@ -61,7 +61,7 @@
         "16481933801c129ba2-0"
       ],
       "settings": {
-        "background_color": "#181818",
+        "background_color": "#1a1a1a",
         "text_color": "#ffffff",
         "text_alignment": "right",
         "text_transition": "fadeIn",
@@ -76,7 +76,7 @@
         "padding_top": 20,
         "padding_bottom": 20,
         "css_class": "",
-        "custom_css": "{background: #181818}"
+        "custom_css": "{background: #1A1A1A}"
       }
     },
     "1648184811cbfab2d4": {
