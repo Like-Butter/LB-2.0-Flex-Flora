@@ -49,8 +49,8 @@
         "padding_top": 0,
         "padding_bottom": 0,
         "animation": "none",
-        "css_class": "bgcs",
-        "custom_css": "bgcs {\nbackground: yellow;\n}"
+        "css_class": "",
+        "custom_css": "{\nbackground: #fede4d;\n}"
       }
     },
     "16481702877cd24fd7": {
@@ -244,35 +244,44 @@
         "custom_css": ""
       }
     },
-    "1648172689e913bc5b": {
-      "type": "index__rich-text",
+    "1648172691a6c7f329": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "164817269167b41a98-1": {
+          "type": "image",
+          "settings": {
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "164817269167b41a98-2": {
+          "type": "text",
+          "settings": {
+            "title": "Heading text here",
+            "heading_size": "regular",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_label": "View all",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "164817269167b41a98-1",
+        "164817269167b41a98-2"
+      ],
       "settings": {
-        "title": "Our story",
-        "heading_font": "basic_commercial_n4",
-        "heading_color": "rgba(0,0,0,0)",
-        "heading_alignment": "center",
-        "heading_size": 42,
-        "text": "<p>In 2007, we had some stainless steel sculptures that needed to be produced, so we went out and bought a plasma cutter. After almost burning down Jem’s sister’s shed in inner Melbourne, we set about doing metal plasma cutting for local artists and designers. Over time, we transitioned from steel to plywood, with a growing demand for our services leading to investment in machines and our growing team. And nothing much has changed; we're still all about iterative process improvement and making the best stuff we can - and now we offer it delivered directly to you from our custom workshop in Castlemaine, Central Victoria.<\/p>",
-        "text_font": "basic_commercial_n4",
-        "text_color": "rgba(0,0,0,0)",
-        "text_alignment": "left",
-        "text_size": 16,
-        "columns": 1,
-        "button_label": "",
-        "button_link": "",
-        "button_alignment": "center",
-        "button_style": "button--primary",
-        "background": "#fede4d",
-        "gradient": "rgba(0,0,0,0)",
-        "gradient_rotation": 180,
-        "width": "wide",
+        "width": "standard",
+        "show_gutter": true,
         "padding_top": 20,
-        "padding_bottom": 0,
-        "padding_left": 0,
-        "padding_right": 0,
+        "padding_bottom": 20,
         "animation": "none",
         "css_class": "",
-        "custom_css": ""
+        "custom_css": "background: #fede4d;"
       }
     }
   },
@@ -282,6 +291,6 @@
     "16481702877cd24fd7",
     "164817107082f0ada5",
     "1648171275fa256fc6",
-    "1648172689e913bc5b"
+    "1648172691a6c7f329"
   ]
 }
