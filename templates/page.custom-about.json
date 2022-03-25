@@ -105,7 +105,7 @@
         "text_font": "open_sans_n4",
         "text_color": "rgba(0,0,0,0)",
         "text_alignment": "left",
-        "text_size": 14,
+        "text_size": 16,
         "columns": 1,
         "button_label": "",
         "button_link": "",
