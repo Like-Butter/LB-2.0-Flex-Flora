@@ -2,11 +2,61 @@
   "sections": {
     "main": {
       "type": "page-content__main",
+      "disabled": true,
       "settings": {
+        "show_heading": true,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16481702818c925b8d": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "1648170281710c564c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jem_standing_on_a_custom_desk.jpg",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "1648170281710c564c-2": {
+          "type": "text",
+          "settings": {
+            "title": "We are Like Butter",
+            "heading_size": "regular",
+            "text": "<p>Like Butter is a design and fabrication business owned and run by industrial designer Jem Selig Freeman and sculptor Laura Woodward. Like Butter has gained a reputation for its approach to design and fabrication that is based on flexible and lateral thinking, strong aesthetics and considered detailing, in order to achieve the simplest and most effective solutions for the project at hand. We achieve this through process, pushing our materials and our machines to their limits. Like Butter has functioned across multiple industries; from its own furniture and lighting products, to one-off commissions for significant design and fabrication projects, to public art installations, through to film and animation production. The common thread? Learning through play, and ‘just making stuff’.<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1648170281710c564c-1",
+        "1648170281710c564c-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16481702818c925b8d"
   ]
 }
