@@ -143,13 +143,14 @@
         "1648171275a85df983-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Laura_Woodward.jpg",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "bag",
-            "title": "Special deal",
-            "text": "<p>Promotion description details.<\/p>"
+            "icon_label": "",
+            "title": "",
+            "text": "<p>Laura Woodward<\/p>"
           }
         },
         "1648171275a85df983-2": {
