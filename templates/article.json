@@ -4,7 +4,7 @@
       "type": "fallback_image_banner",
       "settings": {
         "image_darken": true,
-        "width": "standard",
+        "width": "wide",
         "banner_height": "small",
         "padding_top": 0,
         "padding_bottom": 0,
