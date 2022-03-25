@@ -2,15 +2,85 @@
   "sections": {
     "banner": {
       "type": "banner",
-      "settings": {}
+      "disabled": true,
+      "settings": {
+        "image_darken": true,
+        "subtitle": "Subheading",
+        "width": "wide",
+        "banner_height": "medium",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
     },
     "main": {
       "type": "blog__main",
-      "settings": {}
+      "blocks": {
+        "7c659e15-1ad2-46c0-836d-4a394ea655bf": {
+          "type": "newsletter",
+          "settings": {
+            "newsletter_title": "Subscribe",
+            "newsletter_richtext": "<p>Sign up to get the latest on sales, new releases and more …<\/p>",
+            "display_first_name": false,
+            "display_last_name": false
+          }
+        }
+      },
+      "block_order": [
+        "7c659e15-1ad2-46c0-836d-4a394ea655bf"
+      ],
+      "settings": {
+        "blog_tags": false,
+        "blog_posts_per_row": 2,
+        "blog_posts_per_page": 12,
+        "pagination_type": "basic_pagination",
+        "show_sidebar": false,
+        "sidebar_position": "right",
+        "blog_author": true,
+        "blog_date": false,
+        "read_time": true,
+        "blog_comment_count": false,
+        "blog_show_tags": true,
+        "blog_show_excerpt": true,
+        "show_border": false,
+        "button_label": "Read more",
+        "button_type": "none",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1648177029da3d7881": {
+      "type": "index__newsletter",
+      "settings": {
+        "display_first_name": true,
+        "display_last_name": true,
+        "newsletter_title": "Subscribe",
+        "newsletter_richtext": "<p>Sign up to get the latest on sales, new releases and more …<\/p>",
+        "newsletter_section_text_align": "center",
+        "background_color": "#E5E5E5",
+        "text_color": "#000000",
+        "image_darken": false,
+        "image_cropping": "center",
+        "image_position": "left",
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
     "banner",
-    "main"
+    "main",
+    "1648177029da3d7881"
   ]
 }
