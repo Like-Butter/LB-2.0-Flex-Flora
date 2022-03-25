@@ -52,10 +52,61 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "164818045231bd9598": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "1648180452580a8d93-2": {
+          "type": "text",
+          "settings": {
+            "title": "Custom furniture",
+            "heading_size": "small",
+            "text": "<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam vitae consectetur urna. Integer sed interdum ligula, eu tempus quam.<\/p><p><\/p>",
+            "button_label": "See our custom work",
+            "link": "shopify:\/\/pages\/custom-furniture",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        },
+        "1648180452580a8d93-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_900x600_fff4c3_fede4d.png",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "d0ac601c-2646-4533-93f0-8657c815d26b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_1800x800_ffffff_cccccc.png",
+            "image_crop": "center",
+            "image_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1648180452580a8d93-2",
+        "1648180452580a8d93-0",
+        "d0ac601c-2646-4533-93f0-8657c815d26b"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
     "main",
-    "164818044744ce210b"
+    "164818044744ce210b",
+    "164818045231bd9598"
   ]
 }
