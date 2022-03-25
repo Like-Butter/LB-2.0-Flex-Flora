@@ -68,7 +68,7 @@
         "164818173149556967-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/dummy_900x600_fff4c3_fede4d.png",
+            "image": "shopify:\/\/shop_images\/dummy_1800x800_ffffff_cccccc.png",
             "image_crop": "center",
             "image_link": ""
           }
@@ -230,14 +230,6 @@
             "vertical_position": "center"
           }
         },
-        "16481817271535dc75-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Custom_crates.jpg",
-            "image_crop": "center",
-            "image_link": ""
-          }
-        },
         "16481817271535dc75-1": {
           "type": "image",
           "settings": {
@@ -245,12 +237,20 @@
             "image_crop": "center",
             "image_link": ""
           }
+        },
+        "16481817271535dc75-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Custom_crate_unit.jpg",
+            "image_crop": "center",
+            "image_link": ""
+          }
         }
       },
       "block_order": [
         "16481817271535dc75-2",
-        "16481817271535dc75-0",
-        "16481817271535dc75-1"
+        "16481817271535dc75-1",
+        "16481817271535dc75-0"
       ],
       "settings": {
         "width": "standard",
