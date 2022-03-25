@@ -82,7 +82,7 @@
       ],
       "settings": {
         "image_transition": "slide",
-        "image_slideshow_speed": 8,
+        "image_slideshow_speed": 5,
         "show_arrows": false,
         "show_nav_buttons": false,
         "mobile_text_below_image": false,
