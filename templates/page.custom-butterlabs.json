@@ -54,14 +54,14 @@
         "gallery_type": "classic",
         "crop_images": false,
         "images_per_row": 4,
-        "enable_lightbox": true,
+        "enable_lightbox": false,
         "overlay_color": "#000000",
         "link_color": "#FFFFFF",
         "width": "standard",
-        "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "none",
+        "show_gutter": false,
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "animation": "zoomIn",
         "css_class": "",
         "custom_css": "{background: #181818}"
       }
@@ -75,13 +75,13 @@
             "link": "",
             "image": "shopify:\/\/shop_images\/Dowel_Chair_Concept_Wide_2_74fa0.png",
             "pretext": "",
-            "title": "",
-            "subtitle": "<p>An inside look at the products and projects we're cooking up.<\/p>",
+            "title": "An inside look at the products and projects we're cooking up.",
+            "subtitle": "",
             "pretext_color": "#ffffff",
             "heading_color": "#ffffff",
             "subheading_color": "#ffffff",
-            "text_alignment": "center",
-            "text_horizontal_position": "center",
+            "text_alignment": "right",
+            "text_horizontal_position": "right",
             "background_color": "#FFFFFF",
             "background_opacity": 0,
             "border_color": "#FFFFFF",
@@ -199,12 +199,142 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "16481856915b62af55": {
+      "type": "index__slideshow-classic",
+      "blocks": {
+        "164818569193b0ba27-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "pretext": "<p>Preheading<\/p>",
+            "title": "Flex Shopify Theme",
+            "subtitle": "",
+            "pretext_color": "#000000",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "text_alignment": "center",
+            "text_horizontal_position": "center",
+            "background_color": "#FFFFFF",
+            "background_opacity": 77,
+            "border_color": "#FFFFFF",
+            "border_width": 0,
+            "text_width": 40,
+            "button_1": "Button 1",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "Button 2",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "164818569193b0ba27-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "pretext": "<p>Preheading<\/p>",
+            "title": "Classic slideshow",
+            "subtitle": "<p>Additional info in the subheading<\/p>",
+            "pretext_color": "#000000",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "text_alignment": "center",
+            "text_horizontal_position": "center",
+            "background_color": "#FFFFFF",
+            "background_opacity": 77,
+            "border_color": "#FFFFFF",
+            "border_width": 0,
+            "text_width": 40,
+            "button_1": "Button 1",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "Button 2",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "164818569193b0ba27-0",
+        "164818569193b0ba27-1"
+      ],
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "show_nav_buttons": true,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164819091946c4cfc3": {
+      "type": "index__slideshow-with-text",
+      "blocks": {
+        "164819091945a841b2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KittaCrates.jpg",
+            "pretext": "<p>Add a preheader<\/p>",
+            "title": "Slideshow with Text",
+            "text": "<p>We're developing a set of Clip Crates to suit the shelf spacing of our flagship KittaParts shelving system.<\/p>",
+            "button_label": "Click here",
+            "button_link": ""
+          }
+        },
+        "164819091945a841b2-1": {
+          "type": "image",
+          "settings": {
+            "pretext": "<p>Add a preheader<\/p>",
+            "title": "Second slide",
+            "text": "<p>Each slide can use different text to accompany the image.<\/p>",
+            "button_label": "Link to product",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164819091945a841b2-0",
+        "164819091945a841b2-1"
+      ],
+      "settings": {
+        "background_color": "#EEEEEE",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "center",
+        "text_transition": "fadeIn",
+        "button_style": "button--primary",
+        "show_nav_buttons": true,
+        "image_position": "right",
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
     "main",
     "16481856159b6816a8",
     "1648184811cbfab2d4",
-    "16481851414f86681b"
+    "16481851414f86681b",
+    "16481856915b62af55",
+    "164819091946c4cfc3"
   ]
 }
