@@ -49,8 +49,8 @@
         "padding_top": 0,
         "padding_bottom": 0,
         "animation": "none",
-        "css_class": "",
-        "custom_css": ""
+        "css_class": "bgcs",
+        "custom_css": "bgcs {\nbackground: yellow;\n}"
       }
     },
     "16481702877cd24fd7": {
@@ -243,6 +243,37 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "1648172689e913bc5b": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "Our story",
+        "heading_font": "basic_commercial_n4",
+        "heading_color": "rgba(0,0,0,0)",
+        "heading_alignment": "center",
+        "heading_size": 42,
+        "text": "<p>In 2007, we had some stainless steel sculptures that needed to be produced, so we went out and bought a plasma cutter. After almost burning down Jem’s sister’s shed in inner Melbourne, we set about doing metal plasma cutting for local artists and designers. Over time, we transitioned from steel to plywood, with a growing demand for our services leading to investment in machines and our growing team. And nothing much has changed; we're still all about iterative process improvement and making the best stuff we can - and now we offer it delivered directly to you from our custom workshop in Castlemaine, Central Victoria.<\/p>",
+        "text_font": "basic_commercial_n4",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "left",
+        "text_size": 16,
+        "columns": 1,
+        "button_label": "",
+        "button_link": "",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "#fede4d",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "width": "wide",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -250,6 +281,7 @@
     "16481702818c925b8d",
     "16481702877cd24fd7",
     "164817107082f0ada5",
-    "1648171275fa256fc6"
+    "1648171275fa256fc6",
+    "1648172689e913bc5b"
   ]
 }
