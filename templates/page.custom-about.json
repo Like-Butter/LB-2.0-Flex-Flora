@@ -284,6 +284,47 @@
         "css_class": "",
         "custom_css": "{\nbackground: #fede4d;\n}"
       }
+    },
+    "1648175439e3cb1faa": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "164817543940c5f0da-2": {
+          "type": "text",
+          "settings": {
+            "title": "Our Team",
+            "heading_size": "regular",
+            "text": "<p>We're a team of designers, sculptors, musicians and makers. We learn by playing with materials and machines. We're driven by pushing process to the limit and refining each detail as we gain experience. And we care about leaving a positive lasting touch on the planet, through design. Want to learn something from us? Check out our Instagram @likebuttermelbourne which is where Jem shares workshop processes and production updates.<\/p>",
+            "button_label": "Say hi",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        },
+        "164817543940c5f0da-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_1x1_afe7a6b2-83e4-4a3b-aab4-22870aa3210c.png",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164817543940c5f0da-2",
+        "164817543940c5f0da-1"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -292,6 +333,7 @@
     "16481702877cd24fd7",
     "164817107082f0ada5",
     "1648171275fa256fc6",
-    "1648172691a6c7f329"
+    "1648172691a6c7f329",
+    "1648175439e3cb1faa"
   ]
 }
