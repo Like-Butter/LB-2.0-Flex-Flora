@@ -156,13 +156,14 @@
         "1648171275a85df983-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Jonathon_Fenderson.jpg",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "tag",
-            "title": "Special deal",
-            "text": "<p>Promotion description details.<\/p>"
+            "icon_label": "",
+            "title": "",
+            "text": "<p>Jonathon Fenderson<\/p>"
           }
         },
         "9a3dcd05-c6de-4943-b461-7dbb5a39bfcc": {
