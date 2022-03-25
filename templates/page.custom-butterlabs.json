@@ -204,11 +204,12 @@
         "16481922077e9e473b-0": {
           "type": "image",
           "settings": {
-            "pretext": "<p>Add a preheader<\/p>",
-            "title": "Slideshow with Text",
-            "text": "<p>Each slide can have its own text and button link. Use it to describe the product, collection, page, etc. that the image depicts.<\/p>",
-            "button_label": "Click here",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/Like_Butter_Custom_Clip_Simple_B.jpg",
+            "pretext": "<p><strong>Status: COMPLETE<\/strong><\/p>",
+            "title": "Clip Simple Bedside",
+            "text": "<p>Want a door instead of another drawer? Arron has just tweaked his own original design to incorporate a hinged door - with an internal shelf for bedside compartments.<\/p>",
+            "button_label": "Customise  a product",
+            "button_link": "shopify:\/\/pages\/fabrication-1"
           }
         },
         "16481922077e9e473b-1": {
