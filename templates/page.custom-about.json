@@ -137,7 +137,7 @@
             "overlay_text": "rgba(0,0,0,0)",
             "icon_label": "",
             "title": "",
-            "text": "<p>Jem Selig Freeman<\/p>"
+            "text": "<p><strong>Jem Selig Freeman<\/strong><br\/>Co-founder, since 2007<\/p>"
           }
         },
         "1648171275a85df983-1": {
@@ -150,7 +150,7 @@
             "overlay_text": "rgba(0,0,0,0)",
             "icon_label": "",
             "title": "",
-            "text": "<p>Laura Woodward<\/p>"
+            "text": "<p><strong>Laura Woodward<\/strong><br\/>Co-founder, since 2007<\/p>"
           }
         },
         "1648171275a85df983-2": {
@@ -163,7 +163,7 @@
             "overlay_text": "rgba(0,0,0,0)",
             "icon_label": "",
             "title": "",
-            "text": "<p>Jonathon Fenderson<\/p>"
+            "text": "<p><strong>Jonathon Fenderson<\/strong><br\/>Lead Machinist, since. 2017<\/p>"
           }
         },
         "9a3dcd05-c6de-4943-b461-7dbb5a39bfcc": {
@@ -176,7 +176,7 @@
             "overlay_text": "rgba(0,0,0,0)",
             "icon_label": "",
             "title": "",
-            "text": "<p>Andrew Batson Graham<\/p>"
+            "text": "<p><strong>Andrew Batson Graham<\/strong><br\/>Production Operator, since 2015<\/p>"
           }
         },
         "d81ef256-41f1-4e02-9341-287b48bb637a": {
@@ -232,7 +232,7 @@
         "border_radius": 0,
         "crop_images": false,
         "overlay_background": "#939393",
-        "overlay_background_opacity": 70,
+        "overlay_background_opacity": 40,
         "overlay_text": "#FFFFFF",
         "show_border": false,
         "width": "standard",
