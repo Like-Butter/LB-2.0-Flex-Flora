@@ -65,6 +65,19 @@
     },
     "sidebar": {
       "type": "product__sidebar",
+      "disabled": true,
+      "blocks": {
+        "54bc68c5-75cc-42f1-8e42-36b79c2f5e60": {
+          "type": "text",
+          "settings": {
+            "title": "Heading",
+            "text": "<p>Text area can be used for details about blog authors or general information.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "54bc68c5-75cc-42f1-8e42-36b79c2f5e60"
+      ],
       "settings": {
         "padding_top": 20,
         "padding_bottom": 20,
