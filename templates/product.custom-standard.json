@@ -73,10 +73,18 @@
             "title": "Heading",
             "text": "<p>Text area can be used for details about blog authors or general information.{{ product.metafields[\"product-descriptor\"].materials | metafield_tag }}<\/p>"
           }
+        },
+        "065cc4aa-800a-42ae-90b0-538651fe55e7": {
+          "type": "text",
+          "settings": {
+            "title": "Heading",
+            "text": "<p>Text area can be used for details about blog authors or general information.<\/p>"
+          }
         }
       },
       "block_order": [
-        "54bc68c5-75cc-42f1-8e42-36b79c2f5e60"
+        "54bc68c5-75cc-42f1-8e42-36b79c2f5e60",
+        "065cc4aa-800a-42ae-90b0-538651fe55e7"
       ],
       "settings": {
         "padding_top": 20,
