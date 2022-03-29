@@ -35,6 +35,14 @@
           "settings": {
           }
         },
+        "cc968caf-d971-41b3-bd3d-7fe34b7887ac": {
+          "type": "product-links",
+          "settings": {
+            "show_collections": true,
+            "show_types": true,
+            "show_tags": true
+          }
+        },
         "bd780e14-c965-4dc2-a2e8-77e0bfa99f1b": {
           "type": "text",
           "settings": {
@@ -47,6 +55,7 @@
         "price",
         "form",
         "description",
+        "cc968caf-d971-41b3-bd3d-7fe34b7887ac",
         "bd780e14-c965-4dc2-a2e8-77e0bfa99f1b"
       ],
       "settings": {
@@ -63,6 +72,47 @@
         "thumbnail_position": "bottom-thumbnails",
         "enable_thumbnail_slider": true,
         "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16485065387ede0b3d": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "164850653837ef0060-2": {
+          "type": "text",
+          "settings": {
+            "title": "{{ product.title }} specifications",
+            "heading_size": "small",
+            "text": "<p>{{ product.metafields[\"product-descriptor\"].materials | metafield_tag }}{{ product.metafields[\"product-descriptor\"].dimensions | metafield_tag }}<\/p>",
+            "button_label": "View all",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        },
+        "164850653837ef0060-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_1800x800_ffffff_cccccc.png",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164850653837ef0060-2",
+        "164850653837ef0060-1"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
         "padding_top": 20,
         "padding_bottom": 20,
         "animation": "none",
@@ -102,6 +152,7 @@
   "order": [
     "breadcrumbs",
     "main",
+    "16485065387ede0b3d",
     "sidebar",
     "recommendations"
   ]
