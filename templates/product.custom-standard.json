@@ -87,7 +87,7 @@
           "settings": {
             "title": "{{ product.title }} specifications",
             "heading_size": "small",
-            "text": "<p>{{ product.metafields[\"product-descriptor\"].materials | metafield_tag }}{{ product.metafields[\"product-descriptor\"].dimensions | metafield_tag }}<\/p>",
+            "text": "<p><strong>Designer:<\/strong> {{ product.metafields[\"product-descriptor\"].designer | metafield_tag }}<\/p><p><strong>Dimensions:<\/strong> {{ product.metafields[\"product-descriptor\"].dimensions | metafield_tag }}<\/p><p><strong>Materials:<\/strong> {{ product.metafields[\"product-descriptor\"].materials | metafield_tag }}<br\/><\/p>",
             "button_label": "View all",
             "link": "",
             "button_style": "button--primary",
