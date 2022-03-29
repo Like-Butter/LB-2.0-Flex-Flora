@@ -116,7 +116,7 @@
           "type": "content",
           "settings": {
             "title": "Assembly",
-            "answer": "<p>{{ product.metafields[\"product-descriptor\"].assembly | metafield_tag }}<\/p>"
+            "answer": "<p>{{ product.metafields[\"product-descriptor\"].assembly | metafield_tag }}<\/p><p>[Stack in resources URL]<\/p>"
           }
         },
         "1648515068251cebe3-6": {
