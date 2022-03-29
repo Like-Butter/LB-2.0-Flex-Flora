@@ -133,18 +133,18 @@
             "answer": "<p>[All published product resources. -assembly guides, instructions, drawings etc.]<\/p>"
           }
         },
-        "f3fb3e77-0073-4afd-a265-b254d9edab4b": {
-          "type": "content",
-          "settings": {
-            "title": "Shipping (V)",
-            "answer": "<p>Allow 5 days from the purchase date for your order to be dispatched\/ready for collection. Like Butte’s workshop operates from Monday to Thursday to allow our team to enjoy the <span style=\"text-decoration:underline\">benefits of work\/life balance<\/span>.<\/p>"
-          }
-        },
         "bd7fd6bb-5ba1-408f-afe5-45530b34e5e6": {
           "type": "content",
           "settings": {
             "title": "What’s in the box?",
             "answer": "<p>2x Large T Side with Holes<br\/>2x Large A Side<br\/>1x Large Base<br\/>8x Spring Clips<\/p>"
+          }
+        },
+        "f3fb3e77-0073-4afd-a265-b254d9edab4b": {
+          "type": "content",
+          "settings": {
+            "title": "Shipping (V)",
+            "answer": "<p>Allow 5 days from the purchase date for your order to be dispatched\/ready for collection. Like Butte’s workshop operates from Monday to Thursday to allow our team to enjoy the <span style=\"text-decoration:underline\">benefits of work\/life balance<\/span>.<\/p>"
           }
         },
         "3c413183-6023-4e1a-b3d7-ecf72cd79b70": {
@@ -170,8 +170,8 @@
         "1648515068251cebe3-7",
         "1648515068251cebe3-6",
         "01b31682-e904-4500-9865-58b068d00263",
-        "f3fb3e77-0073-4afd-a265-b254d9edab4b",
         "bd7fd6bb-5ba1-408f-afe5-45530b34e5e6",
+        "f3fb3e77-0073-4afd-a265-b254d9edab4b",
         "3c413183-6023-4e1a-b3d7-ecf72cd79b70",
         "4a247af7-7aa2-4150-b3bc-fdd6a35b58d4"
       ],
