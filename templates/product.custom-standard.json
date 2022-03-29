@@ -151,7 +151,7 @@
     "1648513404570584f0": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<p>{{ product.metafields.descriptor.materials.value }}"
+        "custom_liquid": "{{ product.metafields.descriptor.materials.value }}"
       }
     }
   },
