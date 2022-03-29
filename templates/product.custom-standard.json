@@ -34,13 +34,20 @@
           "type": "description",
           "settings": {
           }
+        },
+        "bd780e14-c965-4dc2-a2e8-77e0bfa99f1b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Order today for dispatch\/collection in approximately <strong>xx days <\/strong>from payment confirmation.<\/p>"
+          }
         }
       },
       "block_order": [
         "title",
         "price",
         "form",
-        "description"
+        "description",
+        "bd780e14-c965-4dc2-a2e8-77e0bfa99f1b"
       ],
       "settings": {
         "product_images_position": "left",
@@ -65,26 +72,7 @@
     },
     "sidebar": {
       "type": "product__sidebar",
-      "blocks": {
-        "54bc68c5-75cc-42f1-8e42-36b79c2f5e60": {
-          "type": "text",
-          "settings": {
-            "title": "Heading",
-            "text": "<p>Text area can be used for details about blog authors or general information.{{ product.metafields[\"product-descriptor\"].materials | metafield_tag }}<\/p>"
-          }
-        },
-        "065cc4aa-800a-42ae-90b0-538651fe55e7": {
-          "type": "text",
-          "settings": {
-            "title": "Heading",
-            "text": "<p>Text area can be used for details about blog authors or general information.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "54bc68c5-75cc-42f1-8e42-36b79c2f5e60",
-        "065cc4aa-800a-42ae-90b0-538651fe55e7"
-      ],
+      "disabled": true,
       "settings": {
         "padding_top": 20,
         "padding_bottom": 20,
