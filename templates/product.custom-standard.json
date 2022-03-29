@@ -46,7 +46,7 @@
         "bd780e14-c965-4dc2-a2e8-77e0bfa99f1b": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Lead time: <\/strong>Order today for dispatch\/collection in approximately <em>xx days<\/em><strong> <\/strong>from payment confirmation.<br\/><\/p><p><strong>Designer:<\/strong> {{ product.metafields[\"product-descriptor\"].designer | metafield_tag }}<br\/><\/p><p><strong>Dimensions:<\/strong> {{ product.metafields[\"product-descriptor\"].dimensions | metafield_tag }}<br\/><\/p><p><strong>Materials:<\/strong> {{ product.metafields[\"product-descriptor\"].materials | metafield_tag }}<strong><br\/><br\/>Special features: <\/strong>{{ product.metafields[\"product-descriptor\"].features | metafield_tag }} <\/p>"
+            "text": "<p><strong>Lead time: <\/strong>Order today for dispatch\/collection in approximately <em>xx days<\/em><strong> <\/strong>from payment confirmation.<br\/><\/p><p><strong>Designer:<\/strong> {{ product.metafields[\"product-descriptor\"].designer | metafield_tag }}<\/p><p><\/p><p><strong>Dimensions:<\/strong> {{ product.metafields[\"product-descriptor\"].dimensions | metafield_tag }}<br\/><\/p><p><strong>Materials:<\/strong> {{ product.metafields[\"product-descriptor\"].materials | metafield_tag }}<strong><br\/><\/strong><\/p><p><strong>Special features: <\/strong>{{ product.metafields[\"product-descriptor\"].features | metafield_tag }} <\/p>"
           }
         }
       },
