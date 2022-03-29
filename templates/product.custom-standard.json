@@ -99,15 +99,15 @@
         "1648515068251cebe3-3": {
           "type": "content",
           "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
+            "title": "Special features",
+            "answer": "<p>{{ product.metafields[\"product-descriptor\"].features | metafield_tag }}<\/p>"
           }
         },
         "1648515068251cebe3-5": {
           "type": "content",
           "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
+            "title": "Designer",
+            "answer": "<p>{{ product.metafields[\"product-descriptor\"].designer | metafield_tag }}<\/p>"
           }
         },
         "1648515068251cebe3-6": {
