@@ -65,7 +65,6 @@
     },
     "sidebar": {
       "type": "product__sidebar",
-      "disabled": true,
       "blocks": {
         "54bc68c5-75cc-42f1-8e42-36b79c2f5e60": {
           "type": "text",
