@@ -153,6 +153,13 @@
             "title": "Delivery",
             "answer": "<p>Local delivery is available for orders over $500. This option will show in the checkout for orders that qualify. We will be in touch in due course to arrange a suitable delivery day and time. <\/p><p>Note that Melbourne deliveries are usually on a Tuesday.<\/p>"
           }
+        },
+        "4a247af7-7aa2-4150-b3bc-fdd6a35b58d4": {
+          "type": "content",
+          "settings": {
+            "title": "Pick up",
+            "answer": "<p>Pick-up is available Monday-Thursday from <span style=\"text-decoration:underline\">Kensington<\/span> or <span style=\"text-decoration:underline\">Castlemaine<\/span> between 8am and 4pm by appointment only.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -165,7 +172,8 @@
         "01b31682-e904-4500-9865-58b068d00263",
         "f3fb3e77-0073-4afd-a265-b254d9edab4b",
         "bd7fd6bb-5ba1-408f-afe5-45530b34e5e6",
-        "3c413183-6023-4e1a-b3d7-ecf72cd79b70"
+        "3c413183-6023-4e1a-b3d7-ecf72cd79b70",
+        "4a247af7-7aa2-4150-b3bc-fdd6a35b58d4"
       ],
       "settings": {
         "title": "",
