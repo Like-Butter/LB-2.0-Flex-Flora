@@ -116,7 +116,7 @@
           "type": "content",
           "settings": {
             "title": "Assembly",
-            "answer": ""
+            "answer": "<p>{{ product.metafields[\"product-descriptor\"].assembly | metafield_tag }}<\/p>"
           }
         },
         "1648515068251cebe3-6": {
