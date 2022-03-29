@@ -181,7 +181,7 @@
         "padding_top": 20,
         "padding_bottom": 20,
         "animation": "none",
-        "css_class": "grid grid-cols-2 gap-4",
+        "css_class": "",
         "custom_css": ""
       }
     },
