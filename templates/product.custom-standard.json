@@ -132,6 +132,20 @@
             "title": "Resources (V)",
             "answer": "<p>[All published product resources. -assembly guides, instructions, drawings etc.]<\/p>"
           }
+        },
+        "f3fb3e77-0073-4afd-a265-b254d9edab4b": {
+          "type": "content",
+          "settings": {
+            "title": "What is your question?",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "bd7fd6bb-5ba1-408f-afe5-45530b34e5e6": {
+          "type": "content",
+          "settings": {
+            "title": "What’s in the box?",
+            "answer": "<p>2x Large T Side with Holes2x Large A Side1x Large Base8x Spring Clips<\/p>"
+          }
         }
       },
       "block_order": [
@@ -141,7 +155,9 @@
         "1648515068251cebe3-5",
         "1648515068251cebe3-7",
         "1648515068251cebe3-6",
-        "01b31682-e904-4500-9865-58b068d00263"
+        "01b31682-e904-4500-9865-58b068d00263",
+        "f3fb3e77-0073-4afd-a265-b254d9edab4b",
+        "bd7fd6bb-5ba1-408f-afe5-45530b34e5e6"
       ],
       "settings": {
         "title": "",
