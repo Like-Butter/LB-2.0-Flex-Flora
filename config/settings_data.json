@@ -54,7 +54,7 @@
     "button_cart_icon_position": "left",
     "button_cart_border_radius": 2,
     "icon": "icon_outline",
-    "toggle_icon_style": "carets",
+    "toggle_icon_style": "plus_and_minus",
     "social_media_share_style": "rounded",
     "breadcrumb_capitalization": "none",
     "breadcrumb_separator": "bullet",
