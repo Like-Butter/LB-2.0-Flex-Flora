@@ -122,14 +122,8 @@
         "1648515068251cebe3-7": {
           "type": "content",
           "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
-          }
-        },
-        "1648515068251cebe3-8": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
+            "title": "Assembly",
+            "answer": ""
           }
         }
       },
@@ -139,8 +133,7 @@
         "1648515068251cebe3-3",
         "1648515068251cebe3-5",
         "1648515068251cebe3-6",
-        "1648515068251cebe3-7",
-        "1648515068251cebe3-8"
+        "1648515068251cebe3-7"
       ],
       "settings": {
         "title": "",
