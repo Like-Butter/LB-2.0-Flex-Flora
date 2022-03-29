@@ -147,12 +147,6 @@
         "css_class": "",
         "custom_css": ""
       }
-    },
-    "1648513404570584f0": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "{{ product.metafields.descriptor.materials.value }}"
-      }
     }
   },
   "order": [
@@ -160,7 +154,6 @@
     "main",
     "16485065387ede0b3d",
     "sidebar",
-    "recommendations",
-    "1648513404570584f0"
+    "recommendations"
   ]
 }
