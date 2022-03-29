@@ -88,7 +88,7 @@
             "title": "{{ product.title }} specifications",
             "heading_size": "small",
             "text": "<p><strong>Designer:<\/strong> {{ product.metafields[\"product-descriptor\"].designer | metafield_tag }}<\/p><p><strong>Dimensions:<\/strong> {{ product.metafields[\"product-descriptor\"].dimensions | metafield_tag }}<\/p><p><strong>Materials:<\/strong> {{ product.metafields[\"product-descriptor\"].materials | metafield_tag }}<br\/><\/p>",
-            "button_label": "View all",
+            "button_label": "",
             "link": "",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
@@ -147,6 +147,12 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "1648513404570584f0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
     }
   },
   "order": [
@@ -154,6 +160,7 @@
     "main",
     "16485065387ede0b3d",
     "sidebar",
-    "recommendations"
+    "recommendations",
+    "1648513404570584f0"
   ]
 }
