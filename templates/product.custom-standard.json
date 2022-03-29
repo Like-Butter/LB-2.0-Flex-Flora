@@ -37,6 +37,7 @@
         },
         "cc968caf-d971-41b3-bd3d-7fe34b7887ac": {
           "type": "product-links",
+          "disabled": true,
           "settings": {
             "show_collections": true,
             "show_types": true,
@@ -45,6 +46,7 @@
         },
         "bd780e14-c965-4dc2-a2e8-77e0bfa99f1b": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>Lead time: <\/strong>Order today for dispatch\/collection in approximately <em>xx days<\/em><strong> <\/strong>from payment confirmation.<br\/><\/p><p><strong>Designer: <\/strong>{{ product.metafields[\"product-descriptor\"].designer | metafield_tag }}<\/p><p><strong>Dimensions: <\/strong>{{ product.metafields[\"product-descriptor\"].dimensions | metafield_tag }}<\/p><p><strong>Materials: <\/strong>{{ product.metafields[\"product-descriptor\"].materials | metafield_tag }}<\/p><p><strong>Special features: <\/strong>{{ product.metafields[\"product-descriptor\"].features | metafield_tag }} <\/p>"
           }
@@ -113,8 +115,8 @@
         "1648515068251cebe3-6": {
           "type": "content",
           "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
+            "title": "Made locally",
+            "answer": "<p>Made in our Castlemaine workshop by a small team, with the finest quality materials.<\/p>"
           }
         },
         "1648515068251cebe3-7": {
