@@ -112,18 +112,18 @@
             "answer": "<p>{{ product.metafields[\"product-descriptor\"].designer | metafield_tag }}<\/p>"
           }
         },
-        "1648515068251cebe3-6": {
-          "type": "content",
-          "settings": {
-            "title": "Made locally",
-            "answer": "<p>Made in our Castlemaine workshop by a small team, with the finest quality materials.<\/p>"
-          }
-        },
         "1648515068251cebe3-7": {
           "type": "content",
           "settings": {
             "title": "Assembly",
             "answer": ""
+          }
+        },
+        "1648515068251cebe3-6": {
+          "type": "content",
+          "settings": {
+            "title": "Made locally",
+            "answer": "<p>Made in our Castlemaine workshop by a small team, with the finest quality materials.<\/p>"
           }
         }
       },
@@ -132,8 +132,8 @@
         "1648515068251cebe3-2",
         "1648515068251cebe3-3",
         "1648515068251cebe3-5",
-        "1648515068251cebe3-6",
-        "1648515068251cebe3-7"
+        "1648515068251cebe3-7",
+        "1648515068251cebe3-6"
       ],
       "settings": {
         "title": "",
