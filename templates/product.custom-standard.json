@@ -86,14 +86,14 @@
           "type": "content",
           "settings": {
             "title": "Materials",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
+            "answer": "<p>{{ product.metafields[\"product-descriptor\"].materials | metafield_tag }}<\/p>"
           }
         },
         "1648515068251cebe3-2": {
           "type": "content",
           "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
+            "title": "Dimensions",
+            "answer": "<p>{{ product.metafields[\"product-descriptor\"].dimensions | metafield_tag }}<\/p>"
           }
         },
         "1648515068251cebe3-3": {
