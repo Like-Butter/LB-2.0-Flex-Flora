@@ -87,7 +87,7 @@
         "1648515068251cebe3-1": {
           "type": "content",
           "settings": {
-            "title": "Materials",
+            "title": "Materials (V)",
             "answer": "<p>{{ product.metafields[\"product-descriptor\"].materials | metafield_tag }}<\/p>"
           }
         },
