@@ -125,6 +125,13 @@
             "title": "Made locally",
             "answer": "<p>Made in our Castlemaine workshop by a small team, with the finest quality materials.<\/p>"
           }
+        },
+        "01b31682-e904-4500-9865-58b068d00263": {
+          "type": "content",
+          "settings": {
+            "title": "Resources (V)",
+            "answer": "<p>[All published product resources. -assembly guides, instructions, drawings etc.]<\/p>"
+          }
         }
       },
       "block_order": [
@@ -133,7 +140,8 @@
         "1648515068251cebe3-3",
         "1648515068251cebe3-5",
         "1648515068251cebe3-7",
-        "1648515068251cebe3-6"
+        "1648515068251cebe3-6",
+        "01b31682-e904-4500-9865-58b068d00263"
       ],
       "settings": {
         "title": "",
