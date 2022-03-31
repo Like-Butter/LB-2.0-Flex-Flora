@@ -138,7 +138,7 @@
     "button__font": "poppins_n4",
     "button_letter_spacing": 1,
     "button_font_style": "none",
-    "heading__font": "poppins_n6",
+    "heading__font": "quattrocento_sans_n4",
     "heading_size": 29,
     "heading_letter_spacing": 0,
     "heading_font_style": "none",
@@ -304,9 +304,8 @@
       "header-classic": {
         "type": "header-classic",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/LB_Logo_Black_No_Border_2bdcd77d-59a5-405c-829c-cd650c1bf54b.jpg",
           "logo_width": 80,
-          "main_linklist": "primary-menu",
+          "main_linklist": "",
           "menu_alignment": "start",
           "dropdown_click": false,
           "display_search": true,
@@ -361,7 +360,7 @@
           "b878e4a6-61b3-4579-a21c-bdcda4732c53": {
             "type": "menu",
             "settings": {
-              "menu_1": "stacking-storing",
+              "menu_1": "",
               "menu_1_link": "shopify:\/\/collections\/stacking"
             }
           },
