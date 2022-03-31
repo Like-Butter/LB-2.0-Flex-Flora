@@ -304,7 +304,7 @@
       "header-classic": {
         "type": "header-classic",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/LB_Logo_Black_No_Border_2bdcd77d-59a5-405c-829c-cd650c1bf54b.jpg",
+          "logo": "shopify:\/\/shop_images\/dummy_600x900_ffffff_000000_lb.png",
           "logo_width": 80,
           "main_linklist": "primary-menu",
           "menu_alignment": "start",
