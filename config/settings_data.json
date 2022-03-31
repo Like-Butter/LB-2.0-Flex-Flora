@@ -53,7 +53,7 @@
     "button_cart_icon": "basket",
     "button_cart_icon_position": "left",
     "button_cart_border_radius": 2,
-    "icon": "icon_outline",
+    "icon": "icon_solid",
     "toggle_icon_style": "plus_and_minus",
     "social_media_share_style": "rounded",
     "breadcrumb_capitalization": "none",
@@ -267,25 +267,26 @@
       "header__top-bar": {
         "type": "header__top-bar",
         "blocks": {
-          "header__top-bar-0": {
-            "type": "text",
-            "settings": {
-              "text": "123 Main Street, Pleasantville USA"
-            }
-          },
           "header__top-bar-1": {
             "type": "social_media",
             "settings": {
             }
+          },
+          "a43d5edd-6323-4b2e-89a3-63e0659f4bde": {
+            "type": "menu",
+            "settings": {
+              "menu": "footer",
+              "menu_alignment": "center"
+            }
           }
         },
         "block_order": [
-          "header__top-bar-0",
-          "header__top-bar-1"
+          "header__top-bar-1",
+          "a43d5edd-6323-4b2e-89a3-63e0659f4bde"
         ],
         "settings": {
-          "show_top_bar": false,
-          "font": "open_sans_n4",
+          "show_top_bar": true,
+          "font": "basic_commercial_n4",
           "font_style": "none",
           "font_size": 14,
           "letter_spacing": 0,
@@ -432,7 +433,7 @@
         "settings": {
           "show_icon_bar": false,
           "alignment": "center",
-          "icon_position": "column",
+          "icon_position": "row",
           "size": "medium",
           "background": "#6b8575",
           "link_color": "#ffffff",
