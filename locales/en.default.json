@@ -3,11 +3,11 @@
     "variants": {
       "choose_variant": "Choose a variant",
       "choose_option": "Choose a {{ option }}",
-      "chosen_option_html": "{{ option }}: <span>{{ value }}</span>"
+      "chosen_option_html": "{{ option }}: <span>{{ value }}<\/span>"
     },
     "price": {
       "range_html": "{{ price_min }} - {{ price_max }}",
-      "unit_pricing_html": "{{ unit_quantity }} | {{ unit_price }} / {{ unit_measurement}}"
+      "unit_pricing_html": "{{ unit_quantity }} | {{ unit_price }} \/ {{ unit_measurement}}"
     },
     "badge": {
       "sale_percentage_range_html": "Save up to {{ price_percent }}%",
@@ -25,8 +25,8 @@
       "out_of_stock": "Out of stock",
       "view_store_info": "View store information",
       "check_other_stores": "Check availability at other stores",
-      "available_for_pick_up_at_html": "Pickup available at <b>{{ location_name }}</b>",
-      "unavailable_for_pick_up_at_html": "Pickup currently unavailable at <b>{{ location_name }}</b>",
+      "available_for_pick_up_at_html": "Pickup available at <b>{{ location_name }}<\/b>",
+      "unavailable_for_pick_up_at_html": "Pickup currently unavailable at <b>{{ location_name }}<\/b>",
       "available_for_pick_up_at_time_html": "Pickup available, {{ pick_up_time }}",
       "unavailable_for_pick_up_at_time_html": "Pickup currently unavailable",
       "kilometers": "km",
@@ -50,7 +50,7 @@
     "404": {
       "title": "Page Not Found",
       "subtext": "We're sorry, but the page you requested could not be found.",
-      "continue_shopping_html": "Try searching or <a href=\"{{ continue_link }}\">continue shopping &rarr;</a>"
+      "continue_shopping_html": "Try searching or <a href=\"{{ continue_link }}\">continue shopping &rarr;<\/a>"
     },
     "pagination": {
       "previous": "Previous",
@@ -68,9 +68,9 @@
       "login_form_submit": "Enter",
       "signup_form_submit": "Submit",
       "signup_form_success": "We will send you an email right before we open!",
-      "admin_link_html": "Are you the store owner? <a href=\"/admin\" class=\"text-link\">Log in here</a>",
+      "admin_link_html": "Are you the store owner? <a href=\"\/admin\" class=\"text-link\">Log in here<\/a>",
       "password_link": "Enter using password",
-      "powered_by_shopify_html": "This shop will be powered by <a href=\"https://www.shopify.com/?ref=out-of-the-sandbox\" target=\"_blank\">Shopify</a>"
+      "powered_by_shopify_html": "This shop will be powered by <a href=\"https:\/\/www.shopify.com\/?ref=out-of-the-sandbox\" target=\"_blank\">Shopify<\/a>"
     },
     "meta": {
       "tagged_html": "Tagged \"{{ tags }}\"",
@@ -78,7 +78,7 @@
     },
     "forms": {
       "post_error": "Not all the fields have been filled out correctly",
-      "post_field_error_html": "The <strong>{{ field }}</strong> {{ error }}",
+      "post_field_error_html": "The <strong>{{ field }}<\/strong> {{ error }}",
       "required_field": "Indicates a required field"
     },
     "newsletter_form": {
@@ -150,7 +150,7 @@
       "next_article_html": "Next",
       "tags": "Tags",
       "author": "Author",
-      "comment_meta_html": "<strong>{{ author }}</strong> on <strong><time datetime=\"{{ date }}\">{{ date }}</time></strong>"
+      "comment_meta_html": "<strong>{{ author }}<\/strong> on <strong><time datetime=\"{{ date }}\">{{ date }}<\/time><\/strong>"
     },
     "counts": {
       "comments_with_count": {
@@ -179,7 +179,7 @@
   "collections": {
     "general": {
       "all": "All",
-      "title": "Product Collections",
+      "title": "Collection",
       "no_matches": "No products found in this collection",
       "link_title": "Browse {{ title }}",
       "all_collection_title": "All {{ title }}",
@@ -250,7 +250,7 @@
     },
     "item": {
       "price": {
-        "price_per_unit_html": "{{ total_quantity }} | {{ unit_price }} / {{ unit_measure }}"
+        "price_per_unit_html": "{{ total_quantity }} | {{ unit_price }} \/ {{ unit_measure }}"
       }
     },
     "notify_form": {
@@ -310,7 +310,7 @@
       "city": "City",
       "country": "Country",
       "province": "Province",
-      "zip": "Postal/Zip Code",
+      "zip": "Postal\/Zip Code",
       "phone": "Phone",
       "set_default": "Set as default address",
       "add": "Add Address",
@@ -436,9 +436,9 @@
       "continue_browsing_html": "There are no items in your cart.",
       "continue_shopping_link_html": "Continue Shopping",
       "tax_and_shipping": "Taxes and shipping calculated at checkout",
-      "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\">shipping</a> calculated at checkout",
+      "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\">shipping<\/a> calculated at checkout",
       "taxes_included_but_shipping_at_checkout": "Tax included and shipping calculated at checkout",
-      "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping</a> calculated at checkout.",
+      "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
       "orders_processed_in_currency_html": "Orders will be processed in {{ currency }}.",
       "note": "Order Notes",
       "note_detailed": "Include any notes or special instructions for your order here:",
@@ -454,8 +454,8 @@
       "title": "Shipping rates calculator",
       "estimated_shipping": "Estimated cost",
       "country": "Country",
-      "province": "State / Province",
-      "zip_code": "Zip / Postal Code",
+      "province": "State \/ Province",
+      "zip_code": "Zip \/ Postal Code",
       "is_not_valid": "is not valid",
       "is_not_blank": "can't be blank",
       "is_not_supported": "is not supported",
@@ -489,7 +489,7 @@
       "pick_a_currency": "Pick a currency",
       "social": "Follow",
       "close_window": "Close",
-      "designer_credits_html": "<a href=\"https://outofthesandbox.com/\" target=\"_blank\" title=\"Flex Shopify Theme by Out of the Sandbox\">Designed by Out of the Sandbox</a>."
+      "designer_credits_html": "<a href=\"https:\/\/outofthesandbox.com\/\" target=\"_blank\" title=\"Flex Shopify Theme by Out of the Sandbox\">Designed by Out of the Sandbox<\/a>."
     },
     "social_sharing": {
       "title": "Share",
