@@ -405,8 +405,8 @@
     "164799427170e39003": {
       "type": "index__rich-text",
       "settings": {
-        "title": "SOME OF OUR PARTNERS",
-        "heading_font": "basic_commercial_n4",
+        "title": "Some of our partners",
+        "heading_font": "poppins_n4",
         "heading_color": "rgba(0,0,0,0)",
         "heading_alignment": "center",
         "heading_size": 24,
