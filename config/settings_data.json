@@ -304,9 +304,9 @@
       "header-classic": {
         "type": "header-classic",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/Like_Butter_logo.png",
+          "logo": "shopify:\/\/shop_images\/LB_Logo_Black_No_Border_2bdcd77d-59a5-405c-829c-cd650c1bf54b.jpg",
           "logo_width": 80,
-          "main_linklist": "main-menu",
+          "main_linklist": "primary-menu",
           "menu_alignment": "start",
           "dropdown_click": false,
           "display_search": true,
@@ -361,7 +361,7 @@
           "b878e4a6-61b3-4579-a21c-bdcda4732c53": {
             "type": "menu",
             "settings": {
-              "menu_1": "storing",
+              "menu_1": "",
               "menu_1_link": "shopify:\/\/collections\/stacking"
             }
           },
