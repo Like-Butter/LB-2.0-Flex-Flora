@@ -2,6 +2,11 @@
 ** Collection list - main content area **
 - Template
 - This template can be viewed by going to /collections of the shop.
+
+Like Butter customisation:
+Add {{ collection.description }} to output
+            
+
 {% endcomment %}
 
 {% assign id = section.id %}
@@ -135,9 +140,11 @@
               <span class="title">
                 {{ collection.title }}
               </span>
-              <span class="desc">
+              
+              <span class="customisation__collection-description">
                 {{ collection.description }}
               </span>
+              
               {% assign view_products = 'collections.general.view_all' | t %}
               {% render 'button',
                       label: view_products,
