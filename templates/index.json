@@ -518,6 +518,37 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "1648764731c04e9bf0": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "Follow @likebutter.au",
+        "heading_font": "poppins_n4",
+        "heading_color": "rgba(0,0,0,0)",
+        "heading_alignment": "center",
+        "heading_size": 30,
+        "text": "",
+        "text_font": "open_sans_n4",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "left",
+        "text_size": 14,
+        "columns": 2,
+        "button_label": "",
+        "button_link": "",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "width": "wide",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -533,6 +564,7 @@
     "164757799398833d07",
     "164799427170e39003",
     "1647995467fd75a3ae",
-    "1648762537becb7cf7"
+    "1648762537becb7cf7",
+    "1648764731c04e9bf0"
   ]
 }
