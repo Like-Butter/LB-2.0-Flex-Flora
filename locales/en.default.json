@@ -179,7 +179,7 @@
   "collections": {
     "general": {
       "all": "All",
-      "title": "Collection",
+      "title": "Product Collections",
       "no_matches": "No products found in this collection",
       "link_title": "Browse {{ title }}",
       "all_collection_title": "All {{ title }}",
