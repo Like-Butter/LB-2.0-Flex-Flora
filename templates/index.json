@@ -463,13 +463,21 @@
             "image": "shopify:\/\/shop_images\/Jonik.png",
             "link": ""
           }
+        },
+        "ba459b25-8b2a-4c4b-9dcd-5212f1f2af70": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Opendesk.png",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "1647995467d5964a2d-0",
         "1647995467d5964a2d-2",
         "1647995467d5964a2d-3",
-        "1647995467d5964a2d-4"
+        "1647995467d5964a2d-4",
+        "ba459b25-8b2a-4c4b-9dcd-5212f1f2af70"
       ],
       "settings": {
         "logos_per_row": 5,
