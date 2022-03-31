@@ -439,13 +439,7 @@
         "1647995467d5964a2d-0": {
           "type": "logo_image",
           "settings": {
-            "link": ""
-          }
-        },
-        "1647995467d5964a2d-1": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Greenfleet.png",
+            "image": "shopify:\/\/shop_images\/Baux.png",
             "link": ""
           }
         },
@@ -470,7 +464,6 @@
       },
       "block_order": [
         "1647995467d5964a2d-0",
-        "1647995467d5964a2d-1",
         "1647995467d5964a2d-2",
         "1647995467d5964a2d-3",
         "1647995467d5964a2d-4"
