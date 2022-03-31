@@ -2,11 +2,34 @@
   "sections": {
     "main": {
       "type": "page-content__main",
+      "disabled": true,
       "settings": {
+        "show_heading": true,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1648768623aba5f449": {
+      "type": "index__html",
+      "settings": {
+        "html_content": "<iframe class=\"airtable-embed\" src=\"https:\/\/airtable.com\/embed\/shrXxbTeVepXy8K9J?backgroundColor=cyan\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"><\/iframe>",
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1648768623aba5f449"
   ]
 }

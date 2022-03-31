@@ -33,7 +33,6 @@
         "1648180452580a8d93-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/dummy_900x600_fff4c3_fede4d.png",
             "image_crop": "center",
             "image_link": ""
           }
@@ -41,7 +40,6 @@
         "d0ac601c-2646-4533-93f0-8657c815d26b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/dummy_1800x800_ffffff_cccccc.png",
             "image_crop": "center",
             "image_link": ""
           }
@@ -68,7 +66,6 @@
         "16481807516c7e633c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/dummy_1800x800_ffffff_cccccc.png",
             "image_crop": "none",
             "image_link": ""
           }
@@ -133,7 +130,6 @@
         "1648180446368c6a13-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/dummy_900x600_fff4c3_fede4d.png",
             "image_crop": "center",
             "image_link": "shopify:\/\/pages\/signage"
           }
@@ -141,7 +137,6 @@
         "bbdb4cdb-ecc9-4a5d-9413-aaa7a2db85ba": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/dummy_1800x800_ffffff_cccccc.png",
             "image_crop": "center",
             "image_link": ""
           }
@@ -168,7 +163,6 @@
         "16481809976847dc8d-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/dummy_1800x800_ffffff_cccccc.png",
             "image_crop": "center",
             "image_link": ""
           }
@@ -177,7 +171,6 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/dummy_1800x800_ffffff_cccccc.png",
             "image_crop": "center",
             "image_link": ""
           }
