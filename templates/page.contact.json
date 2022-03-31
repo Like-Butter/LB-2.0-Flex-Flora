@@ -18,7 +18,7 @@
         "16480956554677e4a8-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/General_1024x1024_6521d7c9-b08f-4d09-ba4b-91567e394a63.jpg",
+            "image": "shopify:\/\/shop_images\/KittaParts_ee9d9c56-72ee-493c-88b7-91c5d991e5a1.jpg",
             "link": "mailto:cuts@likebutter.com.au?subject=Website enquiry",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 50,
@@ -31,7 +31,6 @@
         "f32d005a-c128-4128-a769-aa03a199656e": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Quote_1024x1024_f6ed8965-59c7-4fc3-939e-b684dec66a37.jpg",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
@@ -58,7 +57,6 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/dummy_1200x1200_ffffff_cccccc_93a5dbf3-235d-48b7-b1e3-d42c92400e3d.png",
             "link": "https:\/\/app.acuityscheduling.com\/schedule.php?owner=13567566",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
