@@ -135,6 +135,9 @@
               <span class="title">
                 {{ collection.title }}
               </span>
+              <span class="desc">
+                {{ collection.description }}
+              </span>
               {% assign view_products = 'collections.general.view_all' | t %}
               {% render 'button',
                       label: view_products,
