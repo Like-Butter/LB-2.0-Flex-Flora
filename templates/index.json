@@ -7,7 +7,6 @@
           "type": "image",
           "settings": {
             "link": "shopify:\/\/products\/kittaparts",
-            "image": "shopify:\/\/shop_images\/dummy_1800x900_ddd_e5e5e5.png",
             "pretext": "<p>Award-winning, and truly modular.<\/p>",
             "title": "The KittaParts shelving system",
             "subtitle": "",
@@ -37,7 +36,6 @@
           "type": "image",
           "settings": {
             "link": "",
-            "image": "shopify:\/\/shop_images\/dummy_1800x900_ddd_e5e5e5.png",
             "pretext": "<p>Are you a maker with a great idea?<\/p>",
             "title": "Let us make something for you",
             "subtitle": "",
@@ -119,7 +117,8 @@
         "16475733512df3892c-0": {
           "type": "collection",
           "settings": {
-            "feature_collection": "stacking",
+            "feature_collection": "storing",
+            "image": "shopify:\/\/shop_images\/dummy_1200x800_ffffff_fede4d_collection.png",
             "title": "",
             "button_label": "View products"
           }
@@ -128,6 +127,7 @@
           "type": "collection",
           "settings": {
             "feature_collection": "eating",
+            "image": "shopify:\/\/shop_images\/dummy_600x400_acdcf6_9dd6f4_featured-800x600.png",
             "title": "",
             "button_label": "View products"
           }
@@ -169,8 +169,6 @@
       "type": "index__image-with-text-overlay",
       "settings": {
         "link": "shopify:\/\/products\/the-shelves-3ur",
-        "image": "shopify:\/\/shop_images\/dummy_1800x500_ddd_e5e5e5.png",
-        "mobile_image": "shopify:\/\/shop_images\/dummy_600x600_ffffff_febcd8.png",
         "pretext": "<p>Let us design something for you.<\/p>",
         "title": "I am beyond excited ... your ability to interpret, innovate and improve is a blessing!",
         "subtitle": "",
@@ -294,7 +292,6 @@
         "164757811975dd97a5-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Jem_lifting_a_custom_set_of_lockers.jpg",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
@@ -307,7 +304,6 @@
         "164757811975dd97a5-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Arron_Light_jumping_to_reach_the_top_shelf.jpg",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
@@ -320,7 +316,6 @@
         "164757811975dd97a5-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Like_Butter_workshop_roof_solar_panels.jpg",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
@@ -443,7 +438,6 @@
         "1647995467d5964a2d-0": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/House_Workshop.png",
             "link": ""
           }
         },
@@ -457,21 +451,18 @@
         "1647995467d5964a2d-2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Jonik.png",
             "link": ""
           }
         },
         "1647995467d5964a2d-3": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Opendesk.png",
             "link": ""
           }
         },
         "1647995467d5964a2d-4": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Baux.png",
             "link": ""
           }
         }
