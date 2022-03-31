@@ -60,41 +60,11 @@
             "heading_color_mobile": "rgba(0,0,0,0)",
             "subheading_color_mobile": "rgba(0,0,0,0)"
           }
-        },
-        "4a6d3734-cee2-444d-bd13-1c636e7c19fd": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "pretext": "<p>Preheading<\/p>",
-            "title": "Classic slideshow",
-            "subtitle": "<p>Additional info in the subheading<\/p>",
-            "pretext_color": "#000000",
-            "heading_color": "#000000",
-            "subheading_color": "#000000",
-            "text_alignment": "center",
-            "text_horizontal_position": "center",
-            "background_color": "#ffffff",
-            "background_opacity": 77,
-            "border_color": "#ffffff",
-            "border_width": 0,
-            "text_width": 40,
-            "button_1": "Button 1",
-            "button_1_link": "",
-            "button_1_style": "button--secondary",
-            "button_2": "Button 2",
-            "button_2_link": "",
-            "button_2_style": "button--secondary",
-            "mobile_image_crop": "none",
-            "pretext_color_mobile": "rgba(0,0,0,0)",
-            "heading_color_mobile": "rgba(0,0,0,0)",
-            "subheading_color_mobile": "rgba(0,0,0,0)"
-          }
         }
       },
       "block_order": [
         "16475725555f43ad53-0",
-        "16475725555f43ad53-1",
-        "4a6d3734-cee2-444d-bd13-1c636e7c19fd"
+        "16475725555f43ad53-1"
       ],
       "settings": {
         "image_transition": "fade",
@@ -574,7 +544,7 @@
       ],
       "settings": {
         "width": "wide",
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 0,
         "css_class": "",
         "custom_css": ""
