@@ -118,7 +118,7 @@
           "type": "collection",
           "settings": {
             "feature_collection": "storing",
-            "image": "shopify:\/\/shop_images\/dummy_1200x800_ffffff_fede4d_collection.png",
+            "image": "shopify:\/\/shop_images\/dummy_600x400_acdcf6_9dd6f4_featured-800x600.png",
             "title": "",
             "button_label": "View products"
           }
@@ -136,6 +136,7 @@
           "type": "collection",
           "settings": {
             "feature_collection": "sitting",
+            "image": "shopify:\/\/shop_images\/dummy_600x400_acdcf6_9dd6f4_featured-800x600.png",
             "title": "",
             "button_label": "View products"
           }
