@@ -304,8 +304,9 @@
       "header-classic": {
         "type": "header-classic",
         "settings": {
+          "logo": "shopify:\/\/shop_images\/LB_Logo_Black_No_Border_2bdcd77d-59a5-405c-829c-cd650c1bf54b.jpg",
           "logo_width": 80,
-          "main_linklist": "",
+          "main_linklist": "primary-menu",
           "menu_alignment": "start",
           "dropdown_click": false,
           "display_search": true,
@@ -323,7 +324,7 @@
           "width": "wide",
           "vertical_alignment": "center",
           "css_class": "",
-          "custom_css": ".primary-logo .image-element__wrap img {\nmax-width: 45px;\n}"
+          "custom_css": ""
         }
       },
       "mega-menu-1": {
