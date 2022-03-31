@@ -248,9 +248,9 @@
         "type": "announcement-bar",
         "settings": {
           "icon_label": "",
-          "text": "<p>Free delivery on orders over $500, or collect your order from our Kensington showroom or Castlemaine workshop.<\/p>",
+          "text": "<p>New shelves at your door in under 3 days? We have a set of The Shelves 5UR (Radiata with a clear coat finish) - in stock and ready to dispatch. <\/p>",
           "alignment": "center",
-          "size": "regular",
+          "size": "small",
           "button_label": "",
           "link": "",
           "button_style": "button--primary",
