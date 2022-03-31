@@ -118,7 +118,6 @@
           "type": "collection",
           "settings": {
             "feature_collection": "storing",
-            "image": "shopify:\/\/shop_images\/dummy_600x400_acdcf6_9dd6f4_featured-800x600.png",
             "title": "",
             "button_label": "View products"
           }
@@ -127,7 +126,6 @@
           "type": "collection",
           "settings": {
             "feature_collection": "eating",
-            "image": "shopify:\/\/shop_images\/dummy_600x400_acdcf6_9dd6f4_featured-800x600.png",
             "title": "",
             "button_label": "View products"
           }
@@ -136,7 +134,6 @@
           "type": "collection",
           "settings": {
             "feature_collection": "sitting",
-            "image": "shopify:\/\/shop_images\/dummy_600x400_acdcf6_9dd6f4_featured-800x600.png",
             "title": "",
             "button_label": "View products"
           }
@@ -171,7 +168,7 @@
       "settings": {
         "link": "shopify:\/\/products\/the-shelves-3ur",
         "pretext": "<p>Let us design something for you.<\/p>",
-        "title": "I am beyond excited ... your ability to interpret, innovate and improve is a blessing!",
+        "title": "Lorem ipsum dolor sit amet.",
         "subtitle": "",
         "pretext_color": "#000000",
         "heading_color": "#000000",
@@ -184,7 +181,7 @@
         "border_color": "#ffffff",
         "border_width": 0,
         "text_width": 40,
-        "button_1": "Read about our custom fabrication",
+        "button_1": "Custom fabrication",
         "button_1_link": "shopify:\/\/products\/the-shelves-3ur",
         "button_1_style": "button--primary",
         "button_2": "",
@@ -446,7 +443,6 @@
         "1647995467d5964a2d-2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Greenfleet_c64bd7b4-4342-4f62-a598-a18720369927.png",
             "link": ""
           }
         },
