@@ -144,6 +144,19 @@
           {% endif %}
         </div>
       {% endfor %}
+      
+      
+       {% comment %} Collection description {% endcomment %}
+  {% if collection.description != blank %}
+    <div class="container">
+      <div class="one-whole column">
+        <div class="collection__description content has-padding-bottom">
+          {{ collection.description }}
+        </div>
+      </div>
+    </div>
+  {% endif %} 
+      
     </div>
     <div class="container">
       <div class="one-whole column text-align-center">
