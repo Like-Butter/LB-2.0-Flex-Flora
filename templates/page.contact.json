@@ -31,6 +31,7 @@
         "f32d005a-c128-4128-a769-aa03a199656e": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Quote_1024x1024_e2fb806c-25ac-4dfa-bae2-5346d30d1a14.jpg",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
