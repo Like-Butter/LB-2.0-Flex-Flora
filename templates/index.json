@@ -485,7 +485,7 @@
         "background": "rgba(0,0,0,0)",
         "gradient": "rgba(0,0,0,0)",
         "gradient_rotation": 0,
-        "width": "standard",
+        "width": "wide",
         "padding_top": 20,
         "padding_bottom": 0,
         "padding_left": 0,
