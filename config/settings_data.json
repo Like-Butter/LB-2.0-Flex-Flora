@@ -285,7 +285,7 @@
           "a43d5edd-6323-4b2e-89a3-63e0659f4bde"
         ],
         "settings": {
-          "show_top_bar": true,
+          "show_top_bar": false,
           "font": "basic_commercial_n4",
           "font_style": "none",
           "font_size": 14,
