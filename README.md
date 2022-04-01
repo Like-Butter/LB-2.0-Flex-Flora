@@ -17,3 +17,9 @@ Add collection description to the collections template output
 
 
 
+
+
+###Contact:
+
+Jay Armstrong, Like Butter
+cuts@likebutter.com.au
