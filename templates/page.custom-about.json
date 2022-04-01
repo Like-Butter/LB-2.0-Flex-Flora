@@ -143,32 +143,6 @@
     "1648171275fa256fc6": {
       "type": "index__featured-promotions",
       "blocks": {
-        "5767670f-1639-4679-9f22-f70c59db3bbe": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Arron_Light.jpg",
-            "link": "",
-            "overlay_background": "rgba(0,0,0,0)",
-            "overlay_background_opacity": 70,
-            "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "",
-            "title": "Arron Light",
-            "text": "<p>Production Manager, since 2013<\/p>"
-          }
-        },
-        "1648171275a85df983-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Jem_Selig_Freeman.jpg",
-            "link": "",
-            "overlay_background": "rgba(0,0,0,0)",
-            "overlay_background_opacity": 70,
-            "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "",
-            "title": "Jem Selig Freeman",
-            "text": "<p>Co-founder, since 2007<\/p>"
-          }
-        },
         "1648171275a85df983-1": {
           "type": "image",
           "settings": {
@@ -219,6 +193,19 @@
             "icon_label": "",
             "title": "Andrew Batson Graham",
             "text": "<p>Production Operator, since 2015<\/p>"
+          }
+        },
+        "5767670f-1639-4679-9f22-f70c59db3bbe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Arron_Light.jpg",
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "",
+            "title": "Arron Light",
+            "text": "<p>Production Manager, since 2013<\/p>"
           }
         },
         "5ecd5238-ecf4-4053-9fc0-b12fe1bc9666": {
@@ -272,19 +259,32 @@
             "title": "Josh Green",
             "text": "<p>Workshop Assistant, since 2020<\/p>"
           }
+        },
+        "1648171275a85df983-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jem_Selig_Freeman.jpg",
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "",
+            "title": "Jem Selig Freeman",
+            "text": "<p>Co-founder, since 2007<\/p>"
+          }
         }
       },
       "block_order": [
-        "5767670f-1639-4679-9f22-f70c59db3bbe",
-        "1648171275a85df983-0",
         "1648171275a85df983-1",
         "5ec1a776-02c1-42c6-92a9-8d0de5706869",
         "1648171275a85df983-2",
         "9a3dcd05-c6de-4943-b461-7dbb5a39bfcc",
+        "5767670f-1639-4679-9f22-f70c59db3bbe",
         "5ecd5238-ecf4-4053-9fc0-b12fe1bc9666",
         "d81ef256-41f1-4e02-9341-287b48bb637a",
         "2a271979-6532-4897-bc34-8be7d03661df",
-        "dd2df6fa-9ebe-4f22-9ec5-d008969061c3"
+        "dd2df6fa-9ebe-4f22-9ec5-d008969061c3",
+        "1648171275a85df983-0"
       ],
       "settings": {
         "border_radius": 0,
