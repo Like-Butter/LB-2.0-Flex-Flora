@@ -12,6 +12,46 @@
         "custom_css": ""
       }
     },
+    "1648786950cb3d1e8c": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "164878694945b7ed6c-2": {
+          "type": "text",
+          "settings": {
+            "title": "Get a quote",
+            "heading_size": "regular",
+            "text": "<p>estimate, please complete the form below. One of our team members will respond to you as soon as possible and help guide your through the process of commissioning your custom piece or project.<\/p>",
+            "button_label": "Complete our quote request",
+            "link": "",
+            "button_style": "button--secondary",
+            "background": "#f5e8d3",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        },
+        "8cff4945-f68d-4ee0-947b-340ecc3405d2": {
+          "type": "image",
+          "settings": {
+            "image_crop": "left",
+            "image_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164878694945b7ed6c-2",
+        "8cff4945-f68d-4ee0-947b-340ecc3405d2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "164818170900ca9dc6": {
       "type": "index__image-with-text",
       "blocks": {
@@ -251,47 +291,15 @@
         "css_class": "",
         "custom_css": "\/** { background: #fede4d} **\/"
       }
-    },
-    "1648786950cb3d1e8c": {
-      "type": "index__image-with-text",
-      "blocks": {
-        "164878694945b7ed6c-2": {
-          "type": "text",
-          "settings": {
-            "title": "Heading text here",
-            "heading_size": "regular",
-            "text": "<p>To help us provide an accurate estimate, please complete the form below. One of our team members will respond to you as soon as possible and help guide your through the process of commissioning your custom piece or project.<\/p>",
-            "button_label": "View all",
-            "link": "",
-            "button_style": "button--primary",
-            "background": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "center"
-          }
-        }
-      },
-      "block_order": [
-        "164878694945b7ed6c-2"
-      ],
-      "settings": {
-        "width": "standard",
-        "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
     }
   },
   "order": [
     "main",
+    "1648786950cb3d1e8c",
     "164818170900ca9dc6",
     "16481817310b6f96be",
     "1648179958c32dfd97",
     "164818199096041ef2",
-    "16481817274e4caba0",
-    "1648786950cb3d1e8c"
+    "16481817274e4caba0"
   ]
 }
