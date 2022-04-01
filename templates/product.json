@@ -35,15 +35,15 @@
             "display_savings": true
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "form": {
           "type": "form",
           "settings": {
-            "show_payment_button": true
+            "show_payment_button": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
           }
         },
         "share": {
@@ -55,8 +55,8 @@
       "block_order": [
         "title",
         "price",
-        "description",
         "form",
+        "description",
         "share"
       ],
       "settings": {
