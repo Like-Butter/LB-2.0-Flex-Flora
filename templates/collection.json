@@ -19,7 +19,7 @@
         "collection_breadcrumb": false,
         "collection_tags": false,
         "collection_sort": true,
-        "show_sidebar": false,
+        "show_sidebar": true,
         "sidebar_position": "left",
         "show_promo_banner": false,
         "image_darken": true,
