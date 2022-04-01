@@ -263,13 +263,14 @@
         "2a271979-6532-4897-bc34-8be7d03661df": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/dummy_666x1000_acdcf6_9dd6f4_team-650-1000.png",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "truck",
-            "title": "Special deal",
-            "text": "<p>Promotion description details.<\/p>"
+            "icon_label": "",
+            "title": "Kent Wilson",
+            "text": "<p>Production Operator, since 2022<\/p>"
           }
         }
       },
