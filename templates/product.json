@@ -163,10 +163,10 @@
       "type": "product__recommendations",
       "settings": {
         "show_product_recommendations": true,
-        "product_recommendations_style": "slider",
+        "product_recommendations_style": "grid",
         "product_recommendations_heading": "You may also like",
         "products_per": 4,
-        "recommended_products_limit": 6,
+        "recommended_products_limit": 10,
         "align_height": false,
         "collection_height": 200,
         "width": "standard",
