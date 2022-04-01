@@ -45,19 +45,13 @@
           "type": "description",
           "settings": {
           }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "title",
         "price",
         "form",
-        "description",
-        "share"
+        "description"
       ],
       "settings": {
         "product_images_position": "left",
@@ -69,7 +63,7 @@
         "enable_product_lightbox": true,
         "slideshow_speed": 0,
         "slideshow_transition": "slide",
-        "display_thumbnails": true,
+        "display_thumbnails": false,
         "thumbnail_position": "bottom-thumbnails",
         "enable_thumbnail_slider": true,
         "width": "standard",
