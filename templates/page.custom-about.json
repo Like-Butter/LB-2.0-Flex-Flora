@@ -203,9 +203,9 @@
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "truck",
-            "title": "Special deal",
-            "text": "<p>Promotion description details.<\/p>"
+            "icon_label": "",
+            "title": "Jay Armstrong",
+            "text": "<p>Production Operator, since 2021<\/p>"
           }
         },
         "5ecd5238-ecf4-4053-9fc0-b12fe1bc9666": {
