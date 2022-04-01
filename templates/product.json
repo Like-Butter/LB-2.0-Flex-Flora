@@ -91,12 +91,97 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "1648786562cdc83195": {
+      "type": "index__faq",
+      "blocks": {
+        "16487865623776cbde-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Section heading"
+          }
+        },
+        "16487865623776cbde-1": {
+          "type": "content",
+          "settings": {
+            "title": "What is your question?",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "16487865623776cbde-2": {
+          "type": "content",
+          "settings": {
+            "title": "What is your question?",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "16487865623776cbde-3": {
+          "type": "content",
+          "settings": {
+            "title": "What is your question?",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "16487865623776cbde-4": {
+          "type": "heading",
+          "settings": {
+            "title": "Section heading"
+          }
+        },
+        "16487865623776cbde-5": {
+          "type": "content",
+          "settings": {
+            "title": "What is your question?",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "16487865623776cbde-6": {
+          "type": "content",
+          "settings": {
+            "title": "What is your question?",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "16487865623776cbde-7": {
+          "type": "content",
+          "settings": {
+            "title": "What is your question?",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "16487865623776cbde-8": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16487865623776cbde-0",
+        "16487865623776cbde-1",
+        "16487865623776cbde-2",
+        "16487865623776cbde-3",
+        "16487865623776cbde-4",
+        "16487865623776cbde-5",
+        "16487865623776cbde-6",
+        "16487865623776cbde-7",
+        "16487865623776cbde-8"
+      ],
+      "settings": {
+        "title": "",
+        "width": "standard",
+        "padding_top": 56,
+        "padding_bottom": 56,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "sidebar",
     "main",
-    "recommendations"
+    "recommendations",
+    "1648786562cdc83195"
   ]
 }
