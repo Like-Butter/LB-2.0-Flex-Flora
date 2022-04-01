@@ -16,11 +16,11 @@
       "type": "collection__main",
       "settings": {
         "collection_breadcrumb": false,
-        "collection_tags": true,
+        "collection_tags": false,
         "collection_sort": true,
         "show_sidebar": false,
         "sidebar_position": "left",
-        "show_promo_banner": true,
+        "show_promo_banner": false,
         "image_darken": true,
         "promo_title": "Special sale on now!",
         "promo_text": "<p>Description of promotion with lots of details.<\/p>",
