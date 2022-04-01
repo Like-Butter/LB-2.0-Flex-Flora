@@ -236,6 +236,7 @@
         "5767670f-1639-4679-9f22-f70c59db3bbe": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Arron_Light.jpg",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
