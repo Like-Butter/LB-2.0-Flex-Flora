@@ -5,16 +5,18 @@ A new 2.0-ready theme for Like Butter, based on Flex 'Flora' (by Out of the Sand
 Customisations
 ======================
 
-Add collection description to the collections template output
+File: `list-collections__main.liquid` 
 
-File: `list-collections__main.liquid` (line 144)
+Add collection description to the collections template output
 
     <span class="customisation__collection-description">
       {{ collection.description }}
     </span>
 
+Exclude 'pre-order' collection from main collections output
 
-
+    {% unless collection.handle == 'pre-order' %}
+    {% endunless %}
 
 
 
