@@ -170,7 +170,7 @@
     "thumbnail_hover_enabled": true,
     "thumbnail_text_alignment": "left",
     "stickers_enabled": true,
-    "sticker_shape": "square",
+    "sticker_shape": "round",
     "sticker_position": "right",
     "collection_swatches": false,
     "collection_swatches_shape": "circle",
