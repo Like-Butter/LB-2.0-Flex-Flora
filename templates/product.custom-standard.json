@@ -28,7 +28,7 @@
         "form": {
           "type": "form",
           "settings": {
-            "show_payment_button": true
+            "show_payment_button": false
           }
         },
         "description": {
