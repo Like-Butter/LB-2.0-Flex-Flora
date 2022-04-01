@@ -2,6 +2,7 @@
   "sections": {
     "breadcrumbs": {
       "type": "product__breadcrumb",
+      "disabled": true,
       "settings": {
         "width": "standard",
         "padding_top": 20,
@@ -12,6 +13,18 @@
     },
     "sidebar": {
       "type": "product__sidebar",
+      "disabled": true,
+      "blocks": {
+        "3642fab1-a1ad-4313-ac81-489c4498c673": {
+          "type": "collection_list",
+          "settings": {
+            "title": "Collections"
+          }
+        }
+      },
+      "block_order": [
+        "3642fab1-a1ad-4313-ac81-489c4498c673"
+      ],
       "settings": {
         "padding_top": 20,
         "padding_bottom": 20,
