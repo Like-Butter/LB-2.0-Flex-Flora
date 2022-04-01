@@ -40,35 +40,16 @@ a.navbar-link.header__link,
 }
 
 
-
-.section {
+/* extend the desktop width */
+.section,
+.section.is-width-wide .container.has-limit{
   max-width: 1400px;
-
 }
 @media only screen and (max-width: 480px) {
-  .section.is-width-half .container.small-down--has-limit {
-    max-width: 1400px;
-
-  }
-}
-.section.is-width-wide .container.has-limit {
-  max-width: 1400px;
-
-}
-@media only screen and (max-width: 480px) {
-  .section.is-width-wide .container.small-down--has-limit {
-    max-width: 1400px;
-  }
-}
-
-@media only screen and (max-width: 480px) {
-  .section.section__wrapper {
-    max-width: 1400px;
-  }
-}
-@media only screen and (max-width: 480px) {
+  .section.is-width-half .container.small-down--has-limit,
+  .section.is-width-wide .container.small-down--has-limit,
+  .section.section__wrapper,
   .logo-list .logo-list__wrapper {
     max-width: 1400px;
-
   }
 }
