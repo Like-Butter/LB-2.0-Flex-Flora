@@ -154,90 +154,6 @@
         "custom_css": ""
       }
     },
-    "16487855576663399a": {
-      "type": "index__faq",
-      "blocks": {
-        "1648785557201e2afe-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Section heading"
-          }
-        },
-        "1648785557201e2afe-1": {
-          "type": "content",
-          "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
-          }
-        },
-        "1648785557201e2afe-2": {
-          "type": "content",
-          "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
-          }
-        },
-        "1648785557201e2afe-3": {
-          "type": "content",
-          "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
-          }
-        },
-        "1648785557201e2afe-4": {
-          "type": "heading",
-          "settings": {
-            "title": "Section heading"
-          }
-        },
-        "1648785557201e2afe-5": {
-          "type": "content",
-          "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
-          }
-        },
-        "1648785557201e2afe-6": {
-          "type": "content",
-          "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
-          }
-        },
-        "1648785557201e2afe-7": {
-          "type": "content",
-          "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
-          }
-        },
-        "1648785557201e2afe-8": {
-          "type": "image",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "1648785557201e2afe-0",
-        "1648785557201e2afe-1",
-        "1648785557201e2afe-2",
-        "1648785557201e2afe-3",
-        "1648785557201e2afe-4",
-        "1648785557201e2afe-5",
-        "1648785557201e2afe-6",
-        "1648785557201e2afe-7",
-        "1648785557201e2afe-8"
-      ],
-      "settings": {
-        "title": "FAQ",
-        "width": "standard",
-        "padding_top": 56,
-        "padding_bottom": 56,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "recommendations": {
       "type": "product__recommendations",
       "settings": {
@@ -261,7 +177,6 @@
     "breadcrumbs",
     "main",
     "164878545197747f3f",
-    "16487855576663399a",
     "recommendations"
   ]
 }
