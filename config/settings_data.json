@@ -52,7 +52,7 @@
     "button_cart_text_color--highlight": "#fff",
     "button_cart_icon": "box",
     "button_cart_icon_position": "left",
-    "button_cart_border_radius": 2,
+    "button_cart_border_radius": 0,
     "icon": "icon_solid",
     "toggle_icon_style": "plus_and_minus",
     "social_media_share_style": "rounded",
