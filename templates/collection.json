@@ -3,7 +3,6 @@
     "banner": {
       "type": "fallback_image_banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/dummy_1800x800_ffffff_cccccc.png",
         "image_darken": true,
         "width": "wide",
         "banner_height": "small",
@@ -16,12 +15,12 @@
     "main": {
       "type": "collection__main",
       "settings": {
-        "collection_breadcrumb": true,
+        "collection_breadcrumb": false,
         "collection_tags": true,
         "collection_sort": true,
         "show_sidebar": false,
         "sidebar_position": "left",
-        "show_promo_banner": false,
+        "show_promo_banner": true,
         "image_darken": true,
         "promo_title": "Special sale on now!",
         "promo_text": "<p>Description of promotion with lots of details.<\/p>",
