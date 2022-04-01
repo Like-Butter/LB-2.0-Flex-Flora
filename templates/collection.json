@@ -26,11 +26,18 @@
           "settings": {
             "title": "Ways to Butter"
           }
+        },
+        "49f7d9c2-0ec8-4563-b777-dbfdf783c80b": {
+          "type": "type_list",
+          "settings": {
+            "title": "Types"
+          }
         }
       },
       "block_order": [
         "ad1ddc92-51c4-4aab-af09-dad12019f086",
-        "da8d5fcd-52f3-4491-8551-e75e98a2ac5d"
+        "da8d5fcd-52f3-4491-8551-e75e98a2ac5d",
+        "49f7d9c2-0ec8-4563-b777-dbfdf783c80b"
       ],
       "settings": {
         "collection_breadcrumb": false,
