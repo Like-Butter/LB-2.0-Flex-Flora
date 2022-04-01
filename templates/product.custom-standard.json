@@ -161,6 +161,11 @@
             "title": "Pick up",
             "answer": "<p>Pick-up is available Monday-Thursday from <span style=\"text-decoration:underline\">Kensington<\/span> or <span style=\"text-decoration:underline\">Castlemaine<\/span> between 8am and 4pm by appointment only.<\/p>"
           }
+        },
+        "2396ad1e-6d34-40c7-8b58-da21e2d5f53e": {
+          "type": "image",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -174,7 +179,8 @@
         "bd7fd6bb-5ba1-408f-afe5-45530b34e5e6",
         "f3fb3e77-0073-4afd-a265-b254d9edab4b",
         "3c413183-6023-4e1a-b3d7-ecf72cd79b70",
-        "4a247af7-7aa2-4150-b3bc-fdd6a35b58d4"
+        "4a247af7-7aa2-4150-b3bc-fdd6a35b58d4",
+        "2396ad1e-6d34-40c7-8b58-da21e2d5f53e"
       ],
       "settings": {
         "title": "",
