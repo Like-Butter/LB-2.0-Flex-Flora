@@ -15,6 +15,23 @@
     },
     "main": {
       "type": "collection__main",
+      "blocks": {
+        "ad1ddc92-51c4-4aab-af09-dad12019f086": {
+          "type": "faceted_filtering",
+          "settings": {
+          }
+        },
+        "da8d5fcd-52f3-4491-8551-e75e98a2ac5d": {
+          "type": "collection_list",
+          "settings": {
+            "title": "Ways to Butter"
+          }
+        }
+      },
+      "block_order": [
+        "ad1ddc92-51c4-4aab-af09-dad12019f086",
+        "da8d5fcd-52f3-4491-8551-e75e98a2ac5d"
+      ],
       "settings": {
         "collection_breadcrumb": false,
         "collection_tags": false,
@@ -47,7 +64,7 @@
         "heading_color": "rgba(0,0,0,0)",
         "heading_alignment": "center",
         "heading_size": 30,
-        "text": "<p>Use this section to create some callout text on your page, or add more details about your shop, services, promotions, etc. If you have a large amount&nbsp;of text, you can opt to have it display in <strong>two columns<\/strong> instead so that it's much easier to read.<\/p>\n<p><\/p>\n<p>This section also includes&nbsp;the option to add a button&nbsp;in primary or secondary style, and also control the colors, including the option for a gradient background. Since this is rich text, you can also <em>format it as you wish<\/em> and&nbsp;<a href=\"\/collections\/all\" title=\"All Products\">include links<\/a>.<\/p>",
+        "text": "<p>Use this section to create some callout text on your page, or add more details about your shop, services, promotions, etc. If you have a large amount of text, you can opt to have it display in <strong>two columns<\/strong> instead so that it's much easier to read.<\/p><p><\/p><p>This section also includes the option to add a button in primary or secondary style, and also control the colors, including the option for a gradient background. Since this is rich text, you can also <em>format it as you wish<\/em> and <a href=\"\/collections\/all\" title=\"All Products\">include links<\/a>.<\/p>",
         "text_font": "open_sans_n4",
         "text_color": "rgba(0,0,0,0)",
         "text_alignment": "left",
