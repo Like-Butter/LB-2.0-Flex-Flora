@@ -25,7 +25,7 @@
         "49f7d9c2-0ec8-4563-b777-dbfdf783c80b": {
           "type": "type_list",
           "settings": {
-            "title": "Types"
+            "title": "Product types"
           }
         },
         "88c6d3ac-c081-41a3-af20-85185ac4c086": {
@@ -33,21 +33,12 @@
           "settings": {
             "title": "Search"
           }
-        },
-        "e5c56826-6715-4ab5-9765-297c3f2295d1": {
-          "type": "tag_filter",
-          "settings": {
-            "title": "Filter by",
-            "filter_tags": "",
-            "enable_filter_swatches": false
-          }
         }
       },
       "block_order": [
         "da8d5fcd-52f3-4491-8551-e75e98a2ac5d",
         "49f7d9c2-0ec8-4563-b777-dbfdf783c80b",
-        "88c6d3ac-c081-41a3-af20-85185ac4c086",
-        "e5c56826-6715-4ab5-9765-297c3f2295d1"
+        "88c6d3ac-c081-41a3-af20-85185ac4c086"
       ],
       "settings": {
         "collection_breadcrumb": false,
