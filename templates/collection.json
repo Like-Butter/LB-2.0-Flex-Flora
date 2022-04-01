@@ -16,11 +16,6 @@
     "main": {
       "type": "collection__main",
       "blocks": {
-        "ad1ddc92-51c4-4aab-af09-dad12019f086": {
-          "type": "faceted_filtering",
-          "settings": {
-          }
-        },
         "da8d5fcd-52f3-4491-8551-e75e98a2ac5d": {
           "type": "collection_list",
           "settings": {
@@ -46,21 +41,13 @@
             "filter_tags": "",
             "enable_filter_swatches": false
           }
-        },
-        "f1b2cfba-3103-438b-a7e9-a6e904dbd3cd": {
-          "type": "tag_list",
-          "settings": {
-            "title": "Category"
-          }
         }
       },
       "block_order": [
-        "ad1ddc92-51c4-4aab-af09-dad12019f086",
         "da8d5fcd-52f3-4491-8551-e75e98a2ac5d",
         "49f7d9c2-0ec8-4563-b777-dbfdf783c80b",
         "88c6d3ac-c081-41a3-af20-85185ac4c086",
-        "e5c56826-6715-4ab5-9765-297c3f2295d1",
-        "f1b2cfba-3103-438b-a7e9-a6e904dbd3cd"
+        "e5c56826-6715-4ab5-9765-297c3f2295d1"
       ],
       "settings": {
         "collection_breadcrumb": false,
