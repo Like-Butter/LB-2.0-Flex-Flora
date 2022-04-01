@@ -63,7 +63,7 @@
     "dropdown_position": "below-parent",
     "dropdown_link_spacing": "small",
     "use_placeholders": true,
-    "form_button_style": "button--secondary",
+    "form_button_style": "button--link-style",
     "display_heading_divider": false,
     "heading_divider_animation": "none",
     "heading_divider_style": "vertical",
