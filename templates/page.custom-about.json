@@ -172,6 +172,7 @@
         "1648171275a85df983-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2914.jpg",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
