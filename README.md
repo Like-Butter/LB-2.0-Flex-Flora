@@ -7,7 +7,7 @@ Customisations
 
 Add collection description to the collections template output
 
-**list-collections__main.liquid** ln 144
+File: list-collections__main.liquid (line 144)
 
     <span class="customisation__collection-description">
       {{ collection.description }}
