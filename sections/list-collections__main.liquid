@@ -93,7 +93,9 @@ Add {{ collection.description }} to output
       %}
 
       {% for collection in collections %}
+      {% unless collection.handle == 'pre-order' %}
         {% capture collection_title %}{{ collection.title | escape }}{% endcapture %}
+      {% endunless %}
         <div class="{% render 'column-width', value: section.settings.collections_per_row  %} column thumbnail {% if section.settings.align_height %}list-collection--align-height{% endif %} list-collection__thumbnail medium-down--one-half small-down--one-whole" {% if section.settings.pagination_type != 'basic_pagination' %}data-load-more--grid-item{% endif %}>
           <div class="product-wrap enable-zoom-{{ section.settings.enable_zoom }}">
             <div class="collection-thumbnail-overlay"></div>
