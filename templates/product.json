@@ -133,6 +133,7 @@
         },
         "16487865623776cbde-8": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/dummy_600x400_acdcf6_9dd6f4_featured-800x600.png"
           }
