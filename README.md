@@ -18,7 +18,7 @@ Exclude 'pre-order' collection from main collections output
     {% unless collection.handle == 'pre-order' %}
     {% endunless %}
 
---
+---
 
 File: `Section/footer-classic.liquid.liquid`
 
