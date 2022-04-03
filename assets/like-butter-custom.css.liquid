@@ -1,16 +1,13 @@
 
 
-/* hide elements */
-/* is-hidden-mobile-only
-is-hidden-desktop-only */
+/* == UTILITIES ================= */
 
+/* hide elements */
 .expiring,
 .footer__menu .footer__heading,
 .surface-pick-up {
 	display: none;
 }
-
-
 
 /* force uppercase */
 button *,
@@ -20,30 +17,71 @@ a.navbar-link.header__link,
 	text-transform: uppercase;
 }
 
+@media only screen and (max-width: 798px) {
+  code {
+  	background: aqua;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  code {
+  	background: pink;
+  }
+}
+
+
+/* == HEADER ================= */
 
 .primary-logo .image-element__wrap img {
 	max-width: 45px;
 }
 
+
+
+
+/* == FOOTER ================= */
+
+.footer__block p {
+	margin-bottom: 5px;
+}
+
+
+
+
+/* == HOMEPAGE ================= */
+
+/* push Instafeed app full width */
 .product-app--container .one-whole.column {
   margin: 0;
   width: 100%;
 }
 
 
-/* footer */
-.footer__block p {
-	margin-bottom: 5px;
-}
 
 
-/* collections */
+/* == COLLECTIONS ================= */
 .customisation__collection-description {
   	margin-bottom: 24px; 
 }
 
 
-/* extend the desktop width 
+
+
+/* == PRODUCT ================= */
+
+/* product */
+.accordion dt a,
+.accordion dt button,
+.faq-accordion dt a,
+.faq-accordion dt button {
+  font-size: 1rem;
+}
+
+
+
+
+
+/* extend the desktop width from 1200 to 1400px
 .section,
 .section.is-width-wide .container.has-limit{
   max-width: 1400px;
@@ -58,10 +96,9 @@ a.navbar-link.header__link,
 }
 */
 
-/* product */
-.accordion dt a,
-.accordion dt button,
-.faq-accordion dt a,
-.faq-accordion dt button {
-  font-size: 1rem;
-}
+
+/* hide elements */
+/* 
+.is-hidden-mobile-only
+.is-hidden-desktop-only 
+*/
