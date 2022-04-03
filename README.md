@@ -26,7 +26,7 @@ Output template info
 
      <code class="test">Template name: {{template}}</code>
 
---
+---
 
 ## Contact:
 
