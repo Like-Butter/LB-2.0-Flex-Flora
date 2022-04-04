@@ -15,6 +15,11 @@
     "main": {
       "type": "index__faq",
       "blocks": {
+        "16306825309648acac-8": {
+          "type": "image",
+          "settings": {
+          }
+        },
         "16306825309648acac-0": {
           "type": "heading",
           "settings": {
@@ -52,7 +57,7 @@
           "type": "content",
           "settings": {
             "title": "When can I expect delivery of my online order?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
+            "answer": "<p>Lead times are indicated on the product pages. We will be in touch if there are any delays.<\/p><p>Courier transit times are dependent upon location.<\/p>"
           }
         },
         "16306825309648acac-6": {
@@ -68,14 +73,10 @@
             "title": "When will my online order be ready for pick up?",
             "answer": "<p>Provide the answer to the question here.<\/p>"
           }
-        },
-        "16306825309648acac-8": {
-          "type": "image",
-          "settings": {
-          }
         }
       },
       "block_order": [
+        "16306825309648acac-8",
         "16306825309648acac-0",
         "16306825309648acac-1",
         "16306825309648acac-2",
@@ -83,8 +84,7 @@
         "16306825309648acac-4",
         "16306825309648acac-5",
         "16306825309648acac-6",
-        "16306825309648acac-7",
-        "16306825309648acac-8"
+        "16306825309648acac-7"
       ],
       "settings": {
         "title": "",
