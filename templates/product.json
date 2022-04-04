@@ -177,7 +177,7 @@
           "settings": {
             "title": "Product specifications",
             "heading_size": "regular",
-            "text": "<p>{{ product.metafields[\"product-descriptor\"].dimensions | metafield_tag }}<\/p><p>Helpful videos and resources for putting your new products together.<\/p>",
+            "text": "<p>{{ product.metafields[\"product-descriptor\"].dimensions | metafield_tag }}<\/p>",
             "button_label": "Product assembly",
             "link": "",
             "button_style": "button--link-style",
