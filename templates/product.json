@@ -189,7 +189,7 @@
           "settings": {
             "title": "Product dimensions",
             "heading_size": "regular",
-            "text": "<p>Width 372mm<br\/>Depth 372mm<br\/>Height 372mm<br\/><\/p>",
+            "text": "<p>{{ product.metafields[\"product-descriptor\"].dimensions | metafield_tag }}<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--primary",
