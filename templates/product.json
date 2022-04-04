@@ -242,7 +242,7 @@
         "ed93332f-572b-41f3-bf73-08e3c3dd66e7": {
           "type": "text",
           "settings": {
-            "title": "Pick up and delivery",
+            "title": "Pick up",
             "heading_size": "small",
             "text": "<p>Pick-up is available Monday to Thursday from <span style=\"text-decoration:underline\">Kensington<\/span> or <span style=\"text-decoration:underline\">Castlemaine<\/span> between 8am and 4pm by appointment only.<\/p>",
             "button_label": "",
