@@ -17,7 +17,7 @@
     "main": {
       "type": "cart__main",
       "settings": {
-        "display_product_quantity_cart": false,
+        "display_product_quantity_cart": true,
         "display_savings": true,
         "cart_message": "",
         "width": "standard",
