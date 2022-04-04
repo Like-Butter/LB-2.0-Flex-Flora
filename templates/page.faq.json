@@ -71,7 +71,7 @@
           "type": "content",
           "settings": {
             "title": "When will my online order be ready for pick up?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
+            "answer": "<p>Unless we contact you to notify you otherwise, your order will be ready for pick up as per the lead time indicated on the product page. Once your order is ready for collection, you will receive an email notification. The email includes a link to schedule a pick up appointment for Kensington pick ups.<\/p>"
           }
         }
       },
