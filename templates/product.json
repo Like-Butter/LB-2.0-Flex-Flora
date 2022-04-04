@@ -93,7 +93,7 @@
           "type": "content",
           "settings": {
             "title": "Designer",
-            "answer": "<p>The Clip Crates were designed and prototyped by <a href=\"\/pages\/about-us\" title=\"About Us\">Jem Selig Freeman<\/a> in our previous workshop in Kensington, Melbourne.<\/p>"
+            "answer": "<p>{{ product.metafields[\"product-descriptor\"].designer | metafield_tag }}<\/p>"
           }
         },
         "16487865623776cbde-2": {
