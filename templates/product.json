@@ -31,7 +31,7 @@
     "16491141788ed981da": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "Variant output {% if variant.metafields.descriptor.lead_time != blank %}\n<p>Lead time: {{variant.metafields.descriptor.lead_time}}<\/p>\n{% endif %}"
+        "custom_liquid": "Variant output: {{variant.metafields.descriptor.lead_time}}"
       }
     },
     "main": {
