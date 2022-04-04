@@ -177,6 +177,12 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "1649052393cbadd5a5": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
     }
   },
   "order": [
@@ -184,6 +190,7 @@
     "sidebar",
     "main",
     "1648786562cdc83195",
-    "recommendations"
+    "recommendations",
+    "1649052393cbadd5a5"
   ]
 }
