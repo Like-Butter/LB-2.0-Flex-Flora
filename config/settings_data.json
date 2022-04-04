@@ -210,7 +210,7 @@
     "display_tos_checkbox": false,
     "tos_page": "",
     "display_savings": true,
-    "display_ajax_quantity_box": true,
+    "display_ajax_quantity_box": false,
     "cart_message": "",
     "go_to_checkout": true,
     "enable_shipping_calculator": false,
