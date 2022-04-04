@@ -258,6 +258,37 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "164906353365e5929e": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "Rich text",
+        "heading_font": "open_sans_n4",
+        "heading_color": "rgba(0,0,0,0)",
+        "heading_alignment": "center",
+        "heading_size": 30,
+        "text": "",
+        "text_font": "open_sans_n4",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "left",
+        "text_size": 14,
+        "columns": 2,
+        "button_label": "Resource",
+        "button_link": "{{ product.metafields[\"product-descriptor\"].resource.value }}",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "#EEEEEE",
+        "gradient": "#C0C0C0",
+        "gradient_rotation": 180,
+        "width": "wide",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -268,6 +299,7 @@
     "1648786562cdc83195",
     "16490554271c654be6",
     "164905638396c88b3d",
-    "recommendations"
+    "recommendations",
+    "164906353365e5929e"
   ]
 }
