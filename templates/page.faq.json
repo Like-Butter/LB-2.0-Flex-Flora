@@ -100,6 +100,13 @@
             "title": "How can I obtain a quote for custom items?",
             "answer": "<p>Please submit the <a href=\"https:\/\/airtable.com\/shrXxbTeVepXy8K9J\" target=\"_blank\" title=\"https:\/\/airtable.com\/shrXxbTeVepXy8K9J\">quote form<\/a> and we’ll be in touch to arrange a quote or schedule a meeting depending on the complexity of your idea. Read more about our <a href=\"https:\/\/likebutter.com.au\/pages\/custom-furniture\" target=\"_blank\" title=\"https:\/\/likebutter.com.au\/pages\/custom-furniture\">custom furniture<\/a>.<\/p>"
           }
+        },
+        "26cd64eb-49eb-48de-b868-e1fa2d316336": {
+          "type": "content",
+          "settings": {
+            "title": "Why are custom items more expensive than standard products?",
+            "answer": "<p>Standard products are priced based on the efficiency of producing them in batches. As with a lot of things, cost per unit typically reduces when making multiples of the same thing. This is due to a number of factors including design, programming, sourcing materials and setting up. Not only can we not get the same economy of scale with one-off items, we also need to take design time into account.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -115,7 +122,8 @@
         "a69e8a5b-7631-46cc-a3a4-9b09ab71997f",
         "189174d0-a0e0-427d-a835-28ba06ce4ddb",
         "5b233763-236f-496d-9858-866411761737",
-        "314b775c-8758-479a-a41a-fcf42b19b1e6"
+        "314b775c-8758-479a-a41a-fcf42b19b1e6",
+        "26cd64eb-49eb-48de-b868-e1fa2d316336"
       ],
       "settings": {
         "title": "",
