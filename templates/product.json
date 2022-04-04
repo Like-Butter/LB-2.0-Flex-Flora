@@ -336,7 +336,7 @@
     "16491141788ed981da": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{% for variant in product.variants %}\n{% if product.selected_or_first_available_variant.id == variant.id %}\n<strong>Only {{ variant.metafields.my_fields.quantity_by_color }} PCS are available in {{variant.title}}!<\/strong>\n{% endif %}\n{% endfor %}\n<script src=\"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.5.1\/jquery.min.js\"><\/script>\n<script type=\"text\/javascript\">\njQuery(document).ready(function($){\n$(\".no-js-hidden\").on(\"click\", function(){\nvar refreshint = setInterval(function(){\nlocation.reload();\n}, 1000);    });   });\n<\/script>"
+        "custom_liquid": "{% if variant.metafields.specs.material != blank %}\n<p>Material: {{variant.metafields.variant-descriptor.lead-time}}<\/p>\n{% endif %}"
       }
     }
   },
