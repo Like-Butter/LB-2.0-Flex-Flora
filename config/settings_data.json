@@ -206,7 +206,7 @@
     "cart_action": "drawer",
     "show_lock_icon": true,
     "cart_icon": "box",
-    "display_special_instructions": true,
+    "display_special_instructions": false,
     "display_tos_checkbox": false,
     "tos_page": "",
     "display_savings": true,
