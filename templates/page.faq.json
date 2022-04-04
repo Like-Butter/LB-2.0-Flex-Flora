@@ -73,6 +73,12 @@
             "title": "When will my online order be ready for pick up?",
             "answer": "<p>Unless we contact you to notify you otherwise, your order will be ready for pick up as per the lead time indicated on the product page. Once your order is ready for collection, you will receive an email notification. The email includes a link to schedule a pick up appointment for Kensington pick ups.<\/p>"
           }
+        },
+        "a69e8a5b-7631-46cc-a3a4-9b09ab71997f": {
+          "type": "heading",
+          "settings": {
+            "title": "Customisations"
+          }
         }
       },
       "block_order": [
@@ -84,7 +90,8 @@
         "16306825309648acac-4",
         "16306825309648acac-5",
         "16306825309648acac-6",
-        "16306825309648acac-7"
+        "16306825309648acac-7",
+        "a69e8a5b-7631-46cc-a3a4-9b09ab71997f"
       ],
       "settings": {
         "title": "",
