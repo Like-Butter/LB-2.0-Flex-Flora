@@ -93,6 +93,13 @@
             "title": "Can Like Butter customise a product?",
             "answer": "<p>Yes, in most instances. Please refer to our page about <a href=\"https:\/\/likebutter.com.au\/pages\/custom-furniture\" title=\"https:\/\/likebutter.com.au\/pages\/custom-furniture\">custom furniture<\/a>.<\/p>"
           }
+        },
+        "314b775c-8758-479a-a41a-fcf42b19b1e6": {
+          "type": "content",
+          "settings": {
+            "title": "How can I obtain a quote for custom items?",
+            "answer": "<p>Please submit the <a href=\"https:\/\/airtable.com\/shrXxbTeVepXy8K9J\" target=\"_blank\" title=\"https:\/\/airtable.com\/shrXxbTeVepXy8K9J\">quote form<\/a> and we’ll be in touch to arrange a quote or schedule a meeting depending on the complexity of your idea. Read more about our <a href=\"https:\/\/likebutter.com.au\/pages\/custom-furniture\" target=\"_blank\" title=\"https:\/\/likebutter.com.au\/pages\/custom-furniture\">custom furniture<\/a>.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -107,7 +114,8 @@
         "16306825309648acac-7",
         "a69e8a5b-7631-46cc-a3a4-9b09ab71997f",
         "189174d0-a0e0-427d-a835-28ba06ce4ddb",
-        "5b233763-236f-496d-9858-866411761737"
+        "5b233763-236f-496d-9858-866411761737",
+        "314b775c-8758-479a-a41a-fcf42b19b1e6"
       ],
       "settings": {
         "title": "",
