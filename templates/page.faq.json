@@ -79,6 +79,13 @@
           "settings": {
             "title": "Customisations"
           }
+        },
+        "189174d0-a0e0-427d-a835-28ba06ce4ddb": {
+          "type": "content",
+          "settings": {
+            "title": "How do I specify custom crate sizes?",
+            "answer": "<p>Read more about our <a href=\"https:\/\/likebutter.com.au\/pages\/custom-crates\" title=\"Custom crates\">custom crates<\/a>. For a quote, please submit the <a href=\"https:\/\/airtable.com\/shrnezP8aTomtAkPF\" title=\"Get a quote\">quote form<\/a>.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -91,7 +98,8 @@
         "16306825309648acac-5",
         "16306825309648acac-6",
         "16306825309648acac-7",
-        "a69e8a5b-7631-46cc-a3a4-9b09ab71997f"
+        "a69e8a5b-7631-46cc-a3a4-9b09ab71997f",
+        "189174d0-a0e0-427d-a835-28ba06ce4ddb"
       ],
       "settings": {
         "title": "",
