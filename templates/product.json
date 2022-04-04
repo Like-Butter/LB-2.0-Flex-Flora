@@ -150,7 +150,7 @@
         "padding_top": 20,
         "padding_bottom": 20,
         "animation": "none",
-        "css_class": "",
+        "css_class": "designer",
         "custom_css": "{background: #C7D2CC}"
       }
     },
