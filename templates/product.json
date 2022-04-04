@@ -166,6 +166,54 @@
         "custom_css": ""
       }
     },
+    "16490554271c654be6": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "729c4b48-8809-4608-809c-6315f516941a": {
+          "type": "text",
+          "settings": {
+            "title": "Materials",
+            "heading_size": "regular",
+            "text": "<p><em>Radiata<\/em>: 12mm Radiata Plywood, raw sanded finish<br\/><em>Birch<\/em>: 12mm Birch Plywood, raw sanded finish<br\/><em>Black\/White\/Grey Birch<\/em>: 12mm Birch Plywood with a melamine film, raw edges*<\/p><p>Note that the Black\/White\/Grey Birch Ply often has some minor surface imperfections that are aesthetic only and do not affect the performance of the material.<\/p><p>Grey Birch Ply is a limited edition product.<\/p>",
+            "button_label": "View all",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        },
+        "3114bb49-f762-4108-933f-36da78af1971": {
+          "type": "text",
+          "settings": {
+            "title": "Product dimensions",
+            "heading_size": "regular",
+            "text": "<p>Width 372mm<br\/>Depth 372mm<br\/>Height 372mm<br\/><\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        }
+      },
+      "block_order": [
+        "729c4b48-8809-4608-809c-6315f516941a",
+        "3114bb49-f762-4108-933f-36da78af1971"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": "{ background: #6b8575; }"
+      }
+    },
     "recommendations": {
       "type": "product__recommendations",
       "settings": {
@@ -183,54 +231,6 @@
         "css_class": "",
         "custom_css": ""
       }
-    },
-    "16490554271c654be6": {
-      "type": "index__image-with-text",
-      "blocks": {
-        "16490554275b7dfa51-2": {
-          "type": "text",
-          "settings": {
-            "title": "What's in the box",
-            "heading_size": "regular",
-            "text": "<p>[Insert dynamic source]<\/p><p>2x Large T Side with No Holes<br\/>2x Large A Side<br\/>1x Large Base<br\/>8x Spring Clips<\/p><p><\/p>",
-            "button_label": "",
-            "link": "",
-            "button_style": "button--primary",
-            "background": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "start"
-          }
-        },
-        "3114bb49-f762-4108-933f-36da78af1971": {
-          "type": "text",
-          "settings": {
-            "title": "Product dimensions",
-            "heading_size": "regular",
-            "text": "<p><em>[Insert dynamic source]<\/em><\/p><p>372x372x372mm (WxDxH)<br\/><\/p>",
-            "button_label": "",
-            "link": "",
-            "button_style": "button--primary",
-            "background": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "start"
-          }
-        }
-      },
-      "block_order": [
-        "16490554275b7dfa51-2",
-        "3114bb49-f762-4108-933f-36da78af1971"
-      ],
-      "settings": {
-        "width": "standard",
-        "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": "{ background: #6b8575; }"
-      }
     }
   },
   "order": [
@@ -239,7 +239,7 @@
     "1649052393cbadd5a5",
     "main",
     "1648786562cdc83195",
-    "recommendations",
-    "16490554271c654be6"
+    "16490554271c654be6",
+    "recommendations"
   ]
 }
