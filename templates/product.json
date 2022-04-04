@@ -85,6 +85,7 @@
       "blocks": {
         "16487865623776cbde-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Section heading"
           }
@@ -108,12 +109,6 @@
           "settings": {
             "title": "Assembly",
             "answer": "<p>{{ product.metafields[\"product-descriptor\"].assembly | metafield_tag }}<\/p>"
-          }
-        },
-        "16487865623776cbde-4": {
-          "type": "heading",
-          "settings": {
-            "title": "Section heading"
           }
         },
         "16487865623776cbde-5": {
@@ -150,7 +145,6 @@
         "16487865623776cbde-1",
         "16487865623776cbde-2",
         "16487865623776cbde-3",
-        "16487865623776cbde-4",
         "16487865623776cbde-5",
         "16487865623776cbde-6",
         "16487865623776cbde-7",
