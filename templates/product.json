@@ -74,6 +74,12 @@
         "custom_css": ""
       }
     },
+    "1649052393cbadd5a5": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% for variant in product.variants %}\n{% if product.selected_or_first_available_variant.id == variant.id %}\n<strong>Lead time: {{ variant.metafields.variant-descriptor.lead-time }} <\/strong>\n{% endif %}\n{% endfor %}"
+      }
+    },
     "1648786562cdc83195": {
       "type": "index__faq",
       "blocks": {
@@ -177,20 +183,14 @@
         "css_class": "",
         "custom_css": ""
       }
-    },
-    "1649052393cbadd5a5": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": ""
-      }
     }
   },
   "order": [
     "breadcrumbs",
     "sidebar",
     "main",
+    "1649052393cbadd5a5",
     "1648786562cdc83195",
-    "recommendations",
-    "1649052393cbadd5a5"
+    "recommendations"
   ]
 }
