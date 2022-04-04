@@ -23,6 +23,7 @@
     },
     "1649052393cbadd5a5": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div class=\"lead-time\">Order today for dispatch\/collection in approximately {lead-time} days from payment confirmation.<\/div>"
       }
@@ -293,7 +294,7 @@
             "title": "What's in the box",
             "heading_size": "small",
             "text": "<p>2x Large T Side with Holes<br\/>2x Large A Side<br\/>1x Large Base<br\/>8x Spring Clips<\/p>",
-            "button_label": "View all",
+            "button_label": "",
             "link": "",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
