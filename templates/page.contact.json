@@ -32,7 +32,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Quote_1024x1024_e2fb806c-25ac-4dfa-bae2-5346d30d1a14.jpg",
-            "link": "",
+            "link": "shopify:\/\/pages\/quote-request-form",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
@@ -53,26 +53,12 @@
             "title": "Schedule an appointment",
             "text": "<p>Book a 30 minute<br\/>phone or video chat.<\/p>"
           }
-        },
-        "8be8b2de-9114-4d1c-b7e5-7ba346252cbb": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "https:\/\/app.acuityscheduling.com\/schedule.php?owner=13567566",
-            "overlay_background": "rgba(0,0,0,0)",
-            "overlay_background_opacity": 70,
-            "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "calendar",
-            "title": "Pick up your order",
-            "text": "<p>Book a time to collect your order.<\/p>"
-          }
         }
       },
       "block_order": [
         "16480956554677e4a8-1",
         "f32d005a-c128-4128-a769-aa03a199656e",
-        "16480956554677e4a8-2",
-        "8be8b2de-9114-4d1c-b7e5-7ba346252cbb"
+        "16480956554677e4a8-2"
       ],
       "settings": {
         "border_radius": 0,
