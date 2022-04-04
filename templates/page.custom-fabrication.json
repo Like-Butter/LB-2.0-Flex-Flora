@@ -296,7 +296,7 @@
         "padding_top": 20,
         "padding_bottom": 20,
         "animation": "fadeInLeft",
-        "css_class": ".bg_grey",
+        "css_class": ".bg_gre",
         "custom_css": ""
       }
     }
