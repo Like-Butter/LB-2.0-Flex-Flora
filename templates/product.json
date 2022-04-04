@@ -214,7 +214,7 @@
           "settings": {
             "image": "{{ product.metafields[\"product-descriptor\"].download.value }}",
             "image_crop": "none",
-            "image_link": "{{ product.metafields[\"product-descriptor\"].resource.value }}"
+            "image_link": ""
           }
         }
       },
