@@ -476,13 +476,23 @@
               "menu": "policies",
               "social_icons_footer": true
             }
+          },
+          "dff9ef19-b620-4fcb-99a5-27ee7afd63a8": {
+            "type": "newsletter",
+            "settings": {
+              "newsletter_title": "Subscribe",
+              "newsletter_richtext": "<p>Sign up to get the latest on sales, new releases and more …<\/p>",
+              "display_first_name": false,
+              "display_last_name": false
+            }
           }
         },
         "block_order": [
           "1581460333724",
           "bc2d8513-1680-4450-91b3-2b545558168d",
           "7db7181d-742e-4079-ab8c-e15bedbc4fda",
-          "fdc07dd2-7b39-45ee-904c-cbe18497d7c7"
+          "fdc07dd2-7b39-45ee-904c-cbe18497d7c7",
+          "dff9ef19-b620-4fcb-99a5-27ee7afd63a8"
         ],
         "settings": {
           "copyright_text": "<p>All rights reserved. <\/p>",
