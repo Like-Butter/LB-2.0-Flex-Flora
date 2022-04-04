@@ -1,0 +1,106 @@
+window.addEventListener('load', function(e) {
+  // check if product page
+  if (window.meta.page.pageType=='product') {
+    if ( jQuery('select[name="id"]').length ) { // has variant
+      var _duration_day = jQuery('select[name="id"] option:selected').data('duration');
+    } else { // no variant
+      var _duration_day = jQuery('#block_delivery_note').data('duration');
+    }
+    
+    showDurationDay(_duration_day); 
+  }
+})
+
+jQuery('body').on('change', `select[name="id"]`, function (e) {
+  // console.log(e);
+  
+  var _duration_day, _el;
+  
+  _el = jQuery(this);
+  
+  _duration_day = jQuery('select[name="id"] option:selected').data('duration');
+  
+  showDurationDay(_duration_day);
+})
+
+jQuery('body').on('click', `.swatch-selector`, function (e) {
+  // console.log(e);
+  
+  var _duration_day;
+  _duration_day = jQuery('select[name="id"] option:selected').data('duration');
+  
+  showDurationDay(_duration_day);
+})
+
+/**
+* Functions below here
+*/
+
+function getVariantId() {
+  var _variant_id = '';
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  const variant = urlParams.get('variant');
+  
+  if (variant.length) {
+    _variant_id = variant;
+  }
+  
+  return _variant_id;
+}
+
+function showDurationDay(_duration='') {
+  var _date = '', _date_human = '';
+  
+  if (_duration) {
+    var _get_date = getDeliveryDate(_duration);
+    _date = _get_date.date;
+    _date_human = _get_date.dateHuman;
+    
+    jQuery('#block_delivery_note').show();
+    
+  } else {
+    jQuery('#block_delivery_note').hide();
+    
+  }
+  
+  jQuery('#block_delivery_note .date-deliver').html(_date);
+  jQuery('#block_delivery_note .date-deliver-human').html(_date_human);
+  
+}
+
+function getDeliveryDate(_date=5) {
+  var _additional_day = 0;
+  
+  for (let index = 1; index <= _date; index++) {
+    // if Saturday or Monday, add the additional day
+    if( checkWeekend(index) ) {
+      _additional_day++;
+    }
+  }
+
+  var _delivery_date = dayjs().add(parseInt(_date) + _additional_day, 'day');
+
+  if (_delivery_date.day() === 6) { // Saturday
+    _delivery_date = _delivery_date.add(2, 'day'); // become Monday
+    
+  } else if (_delivery_date.day() === 0) { // Sunday
+    _delivery_date = _delivery_date.add(1, 'day'); // become Monday
+
+  }
+
+  var _human = dayjs().to(_delivery_date, true);
+  
+  return {
+    date: _delivery_date.format('DD/MM/YYYY'),
+    dateHuman: _human,
+  };
+}
+
+function checkWeekend(index) {
+  if( dayjs().add(index, 'd').day() === 6 || dayjs().add(index, 'd').day() === 0 ) {
+    return true
+  } else {
+    return false;
+  }
+}
