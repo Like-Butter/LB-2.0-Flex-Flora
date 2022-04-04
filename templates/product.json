@@ -31,7 +31,7 @@
     "16491141788ed981da": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "Variant output: {{variant.metafields.descriptor.lead}}"
+        "custom_liquid": "{% if variant.metafields.descriptor.lead != blank %}\n{{variant.metafields.descriptor.lead}}\n{% endif %}"
       }
     },
     "main": {
