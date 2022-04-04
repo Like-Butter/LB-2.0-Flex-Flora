@@ -45,20 +45,13 @@
           "type": "description",
           "settings": {
           }
-        },
-        "18ea4e99-3b4f-4309-98fa-93a8ae961e74": {
-          "type": "text",
-          "settings": {
-            "text": "<p>&lt;h2&gt;sss&lt;\/h2&gt;<\/p>"
-          }
         }
       },
       "block_order": [
         "title",
         "price",
         "form",
-        "description",
-        "18ea4e99-3b4f-4309-98fa-93a8ae961e74"
+        "description"
       ],
       "settings": {
         "product_images_position": "left",
