@@ -48,7 +48,6 @@
         "16481933801c129ba2-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Dowel_Chair_Concept_Wide_2_74fa0.png",
             "pretext": "",
             "title": "An inside look at the products and projects we're cooking up.",
             "text": "",
@@ -85,7 +84,6 @@
         "16481922077e9e473b-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Like_Butter_Custom_Clip_Simple_B.jpg",
             "pretext": "<p><strong>Status: COMPLETE<\/strong><\/p>",
             "title": "Clip Simple Bedside",
             "text": "<p>Want a door instead of another drawer? Arron has just tweaked his own original design to incorporate a hinged door - with an internal shelf for bedside compartments.<\/p>",
@@ -159,11 +157,10 @@
         "1648192909e38f0db3-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/crates_in_different_colors.png",
             "pretext": "<p>Status: IN DEVELOPMENT<\/p>",
             "title": "Wine storage crates",
             "text": "<p>Each slide can have its own text and button link. Use it to describe the product, collection, page, etc. that the image depicts.<\/p>",
-            "button_label": "Click here",
+            "button_label": "",
             "button_link": ""
           }
         }
@@ -187,7 +184,7 @@
         "padding_top": 0,
         "padding_bottom": 0,
         "css_class": "",
-        "custom_css": "{background:#688172}\n.text-slideshow__content .title {\ncolor: #fff }"
+        "custom_css": "{background: #688172}"
       }
     }
   },
