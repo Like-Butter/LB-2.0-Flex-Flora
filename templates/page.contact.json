@@ -45,7 +45,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Appointment.jpg",
-            "link": "",
+            "link": "https:\/\/app.acuityscheduling.com\/schedule.php?owner=13567566&appointmentType=2976816",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
