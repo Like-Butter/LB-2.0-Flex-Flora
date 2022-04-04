@@ -28,6 +28,12 @@
         "custom_liquid": "<div class=\"lead-time\">Order today for dispatch\/collection in approximately {lead-time} days from payment confirmation.<\/div>"
       }
     },
+    "16491141788ed981da": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "Variant output {% if variant.metafields.descriptor.lead_time != blank %}\n<p>Lead time: {{variant.metafields.descriptor.lead_time}}<\/p>\n{% endif %}"
+      }
+    },
     "main": {
       "type": "product__main",
       "blocks": {
@@ -332,25 +338,19 @@
         "css_class": "",
         "custom_css": ""
       }
-    },
-    "16491141788ed981da": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "Variant output {% if variant.metafields.variant-descriptor.lead-time != blank %}\n<p>Material: {{variant.metafields.variant-descriptor.lead-time}}<\/p>\n{% endif %}"
-      }
     }
   },
   "order": [
     "breadcrumbs",
     "sidebar",
     "1649052393cbadd5a5",
+    "16491141788ed981da",
     "main",
     "1648786562cdc83195",
     "164905638396c88b3d",
     "16490554271c654be6",
     "164906371352a49736",
     "164906413369cf902c",
-    "recommendations",
-    "16491141788ed981da"
+    "recommendations"
   ]
 }
