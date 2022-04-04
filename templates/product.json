@@ -21,6 +21,12 @@
         "custom_css": ""
       }
     },
+    "1649052393cbadd5a5": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"lead-time\">Order today for dispatch\/collection in approximately {lead-time} days from payment confirmation.<\/div>"
+      }
+    },
     "main": {
       "type": "product__main",
       "blocks": {
@@ -72,12 +78,6 @@
         "animation": "none",
         "css_class": "",
         "custom_css": ""
-      }
-    },
-    "1649052393cbadd5a5": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"lead-time\">Order today for dispatch\/collection in approximately {lead-time} days from payment confirmation."
       }
     },
     "1648786562cdc83195": {
@@ -188,8 +188,8 @@
   "order": [
     "breadcrumbs",
     "sidebar",
-    "main",
     "1649052393cbadd5a5",
+    "main",
     "1648786562cdc83195",
     "recommendations"
   ]
