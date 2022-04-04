@@ -435,7 +435,7 @@
           "alignment": "center",
           "icon_position": "row",
           "size": "medium",
-          "background": "#6b8575",
+          "background": "#f5e8d3",
           "link_color": "#ffffff",
           "link_hover_color": "#000000",
           "text_color": "#ffffff",
@@ -447,13 +447,6 @@
       "footer-classic": {
         "type": "footer-classic",
         "blocks": {
-          "7db7181d-742e-4079-ab8c-e15bedbc4fda": {
-            "type": "link_list",
-            "settings": {
-              "menu": "footer",
-              "social_icons_footer": true
-            }
-          },
           "1581460333724": {
             "type": "text",
             "settings": {
@@ -470,24 +463,29 @@
               "social_icons_footer": false
             }
           },
-          "1580840578921": {
-            "type": "newsletter",
+          "7db7181d-742e-4079-ab8c-e15bedbc4fda": {
+            "type": "link_list",
             "settings": {
-              "newsletter_title": "Newsletter",
-              "newsletter_richtext": "",
-              "display_first_name": false,
-              "display_last_name": false
+              "menu": "footer",
+              "social_icons_footer": false
+            }
+          },
+          "fdc07dd2-7b39-45ee-904c-cbe18497d7c7": {
+            "type": "link_list",
+            "settings": {
+              "menu": "policies",
+              "social_icons_footer": true
             }
           }
         },
         "block_order": [
-          "7db7181d-742e-4079-ab8c-e15bedbc4fda",
           "1581460333724",
           "bc2d8513-1680-4450-91b3-2b545558168d",
-          "1580840578921"
+          "7db7181d-742e-4079-ab8c-e15bedbc4fda",
+          "fdc07dd2-7b39-45ee-904c-cbe18497d7c7"
         ],
         "settings": {
-          "copyright_text": "<p>All rights reserved.<\/p>",
+          "copyright_text": "<p>All rights reserved. <\/p>",
           "display_designed_by": false,
           "display_shopify": false,
           "display_payment_methods": false,
