@@ -192,27 +192,11 @@
             "alignment": "left",
             "vertical_position": "start"
           }
-        },
-        "a7ef8e91-1512-417d-995b-be878ea06343": {
-          "type": "text",
-          "settings": {
-            "title": "Heading text here",
-            "heading_size": "regular",
-            "text": "",
-            "button_label": "View all",
-            "link": "",
-            "button_style": "button--primary",
-            "background": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "center"
-          }
         }
       },
       "block_order": [
         "729c4b48-8809-4608-809c-6315f516941a",
-        "3114bb49-f762-4108-933f-36da78af1971",
-        "a7ef8e91-1512-417d-995b-be878ea06343"
+        "3114bb49-f762-4108-933f-36da78af1971"
       ],
       "settings": {
         "width": "standard",
