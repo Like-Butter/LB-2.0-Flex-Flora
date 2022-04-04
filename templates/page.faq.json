@@ -15,11 +15,6 @@
     "main": {
       "type": "index__faq",
       "blocks": {
-        "16306825309648acac-8": {
-          "type": "image",
-          "settings": {
-          }
-        },
         "16306825309648acac-0": {
           "type": "heading",
           "settings": {
@@ -121,10 +116,15 @@
             "title": "How do I care for my product?",
             "answer": "<p>Please refer to our <a href=\"https:\/\/www.likebutter.com.au\/care-instructions\/\" target=\"_blank\" title=\"https:\/\/www.likebutter.com.au\/care-instructions\/\">care instructions<\/a>.<\/p>"
           }
+        },
+        "02ea2f47-9514-48cd-8de0-326755aac556": {
+          "type": "heading",
+          "settings": {
+            "title": "Product care"
+          }
         }
       },
       "block_order": [
-        "16306825309648acac-8",
         "16306825309648acac-0",
         "16306825309648acac-1",
         "16306825309648acac-2",
@@ -139,7 +139,8 @@
         "314b775c-8758-479a-a41a-fcf42b19b1e6",
         "26cd64eb-49eb-48de-b868-e1fa2d316336",
         "e4234619-6a47-42f4-9fc5-8b1f09f87214",
-        "81bf7718-b734-489b-b8e0-95f455bd3917"
+        "81bf7718-b734-489b-b8e0-95f455bd3917",
+        "02ea2f47-9514-48cd-8de0-326755aac556"
       ],
       "settings": {
         "title": "",
