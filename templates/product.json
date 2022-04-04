@@ -31,7 +31,7 @@
     "16491141788ed981da": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h3>Variant output test<\/h3>\n\n{% if variant.metafields.descriptor.lead != blank %}\n{{variant.metafields.descriptor.lead}}\n{% endif %}"
+        "custom_liquid": "{% for variant in product.variants %}\n{% if product.selected_or_first_available_variant.id == variant.id %}\n<strong>{{product.title}} in {{variant.title}} will take approximately ...{{variant.metafields.descriptor.lead}} <\/strong>\n{% endif %}\n{% endfor %}"
       }
     },
     "main": {
