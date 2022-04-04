@@ -3,10 +3,42 @@
     "main": {
       "type": "page-content__main",
       "settings": {
+        "show_heading": true,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1649038588648f788c": {
+      "type": "index__newsletter",
+      "settings": {
+        "display_first_name": true,
+        "display_last_name": true,
+        "newsletter_title": "",
+        "newsletter_richtext": "<p>We have a new staff member, Kent, who can write good, so in celebration of this fact we're going to produce a newsletter, so sign up below to occasionally receive some beautifully crafted words in your inbox.<\/p>",
+        "newsletter_section_text_align": "left",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "image_darken": false,
+        "image": "shopify:\/\/shop_images\/kittaparts-repaired.gif",
+        "image_cropping": "none",
+        "image_position": "right",
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1649038588648f788c"
   ]
 }
