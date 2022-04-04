@@ -92,8 +92,8 @@
         "16487865623776cbde-1": {
           "type": "content",
           "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
+            "title": "Designer",
+            "answer": "<p>The Clip Crates were designed and prototyped by Jem Selig Freeman in our previous workshop in Kensington, Melbourne.<\/p>"
           }
         },
         "16487865623776cbde-2": {
@@ -214,24 +214,6 @@
         "custom_css": "{ background: #6b8575; }"
       }
     },
-    "recommendations": {
-      "type": "product__recommendations",
-      "settings": {
-        "show_product_recommendations": true,
-        "product_recommendations_style": "grid",
-        "product_recommendations_heading": "You may also like",
-        "products_per": 4,
-        "recommended_products_limit": 4,
-        "align_height": false,
-        "collection_height": 200,
-        "width": "standard",
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "164905638396c88b3d": {
       "type": "index__image-with-text",
       "blocks": {
@@ -263,6 +245,25 @@
         "css_class": "",
         "custom_css": "{background: #C7D2CC}"
       }
+    },
+    "recommendations": {
+      "type": "product__recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_style": "grid",
+        "product_recommendations_heading": "You may also like",
+        "products_per": 4,
+        "recommended_products_limit": 4,
+        "align_height": false,
+        "collection_height": 200,
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -272,7 +273,7 @@
     "main",
     "1648786562cdc83195",
     "16490554271c654be6",
-    "recommendations",
-    "164905638396c88b3d"
+    "164905638396c88b3d",
+    "recommendations"
   ]
 }
