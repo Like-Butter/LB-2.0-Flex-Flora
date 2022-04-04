@@ -240,7 +240,7 @@
           "settings": {
             "title": "Pick up",
             "heading_size": "small",
-            "text": "<p>Pick-up is available Monday to Thursday from <span style=\"text-decoration:underline\">Kensington<\/span> or <span style=\"text-decoration:underline\">Castlemaine<\/span> between 8am and 4pm by appointment only.<\/p>",
+            "text": "<p>Pick-up is available Monday to Thursday from Kensington or Castlemaine between 8am and 4pm by appointment only.<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--link-style",
