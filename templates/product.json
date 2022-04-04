@@ -336,7 +336,7 @@
     "16491141788ed981da": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{% if variant.metafields.specs.material != blank %}\n<p>Material: {{variant.metafields.variant-descriptor.lead-time}}<\/p>\n{% endif %}"
+        "custom_liquid": "Variant output {% if variant.metafields.variant-descriptor.lead-time != blank %}\n<p>Material: {{variant.metafields.variant-descriptor.lead-time}}<\/p>\n{% endif %}"
       }
     }
   },
