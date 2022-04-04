@@ -261,7 +261,7 @@
         "padding_bottom": 20,
         "animation": "none",
         "css_class": "",
-        "custom_css": "background: #C7D2CC;"
+        "custom_css": "{background: #C7D2CC}"
       }
     }
   },
