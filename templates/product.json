@@ -151,7 +151,7 @@
         "padding_bottom": 20,
         "animation": "none",
         "css_class": "designer",
-        "custom_css": "{background: #C7D2CC}"
+        "custom_css": ""
       }
     },
     "16490554271c654be6": {
@@ -176,7 +176,7 @@
           "type": "text",
           "settings": {
             "title": "Product specifications",
-            "heading_size": "regular",
+            "heading_size": "small",
             "text": "<p>{{ product.metafields[\"product-descriptor\"].dimensions | metafield_tag }}<\/p>",
             "button_label": "Product assembly",
             "link": "",
@@ -199,7 +199,7 @@
         "padding_bottom": 20,
         "animation": "none",
         "css_class": "",
-        "custom_css": "{ background: #6b8575; }"
+        "custom_css": ""
       }
     },
     "164906371352a49736": {
