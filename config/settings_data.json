@@ -203,7 +203,7 @@
     "enable_thumbnail_slider": true,
     "quickshop_gallery_position": "left",
     "video_looping": false,
-    "cart_action": "mini_cart",
+    "cart_action": "drawer",
     "show_lock_icon": true,
     "cart_icon": "box",
     "display_special_instructions": true,
