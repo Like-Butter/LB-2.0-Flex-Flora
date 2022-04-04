@@ -210,7 +210,7 @@
           "settings": {
             "title": "Shipping",
             "heading_size": "small",
-            "text": "<p>Order today for dispatch\/collection in approximately &lcub;variant lead-time&rcub; working days from payment confirmation.<\/p><p>Our workshop operates from Monday to Thursday to allow our team to enjoy the <span style=\"text-decoration:underline\">benefits of work\/life balance<\/span>.<\/p>",
+            "text": "<p>Order today for dispatch\/collection in approximately &lcub;variant lead-time&rcub; working days from payment confirmation.<\/p><p>Our workshop operates from Monday to Thursday to allow our team to enjoy the benefits of work\/life balance.<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--link-style",
@@ -240,7 +240,7 @@
           "settings": {
             "title": "Pick up",
             "heading_size": "small",
-            "text": "<p>Pick-up is available Monday to Thursday from Kensington or Castlemaine between 8am and 4pm by appointment only.<\/p>",
+            "text": "<p>Pick-up is available Monday to Thursday from <a href=\"\/pages\/contact\" title=\"Contact\">Kensington<\/a> or <a href=\"\/pages\/contact\" title=\"Contact\">Castlemaine<\/a> between 8am and 4pm by appointment only.<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--link-style",
