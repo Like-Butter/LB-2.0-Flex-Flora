@@ -187,27 +187,13 @@
     "16490554271c654be6": {
       "type": "index__image-with-text",
       "blocks": {
-        "16490554275b7dfa51-0": {
-          "type": "image",
-          "settings": {
-            "image_crop": "none",
-            "image_link": ""
-          }
-        },
-        "16490554275b7dfa51-1": {
-          "type": "image",
-          "settings": {
-            "image_crop": "none",
-            "image_link": ""
-          }
-        },
         "16490554275b7dfa51-2": {
           "type": "text",
           "settings": {
-            "title": "Heading text here",
+            "title": "What's in the box",
             "heading_size": "regular",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-            "button_label": "View all",
+            "text": "<p>[Insert dynamic source]<\/p><p>2x Large T Side with No Holes<br\/>2x Large A Side<br\/>1x Large Base<br\/>8x Spring Clips<\/p><p><\/p>",
+            "button_label": "",
             "link": "",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
@@ -215,12 +201,19 @@
             "alignment": "left",
             "vertical_position": "center"
           }
+        },
+        "1523eebe-8848-4f83-ab3c-cb138e6178fe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/demo-drawing_93467589-8443-43da-a636-7df8a15d5ccc.png",
+            "image_crop": "none",
+            "image_link": ""
+          }
         }
       },
       "block_order": [
-        "16490554275b7dfa51-0",
-        "16490554275b7dfa51-1",
-        "16490554275b7dfa51-2"
+        "16490554275b7dfa51-2",
+        "1523eebe-8848-4f83-ab3c-cb138e6178fe"
       ],
       "settings": {
         "width": "standard",
@@ -229,7 +222,7 @@
         "padding_bottom": 20,
         "animation": "none",
         "css_class": "",
-        "custom_css": "{ background: #6b8575; color: #fff }"
+        "custom_css": "{ background: #6b8575; }"
       }
     }
   },
