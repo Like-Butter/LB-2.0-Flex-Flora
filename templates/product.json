@@ -31,7 +31,7 @@
     "16491141788ed981da": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "Variant output: {{variant.metafields.variant-descriptor.lead-time}}"
+        "custom_liquid": "Variant output: {{variant.metafields.descriptor.lead}}"
       }
     },
     "main": {
