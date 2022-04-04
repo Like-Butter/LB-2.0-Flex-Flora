@@ -64,7 +64,7 @@
           "type": "content",
           "settings": {
             "title": "Do I need to be at the delivery address to accept delivery of my online order?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
+            "answer": "<p>Yes. If there will not be someone at the delivery address to sign for delivery, please provide instructions on where your order can be left safely in the \"Special instructions\" field in the checkout.<\/p>"
           }
         },
         "16306825309648acac-7": {
