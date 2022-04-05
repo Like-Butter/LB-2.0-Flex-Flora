@@ -53,12 +53,25 @@
             "title": "Schedule an appointment",
             "text": "<p>Book a 30 minute<br\/>phone or video chat.<\/p>"
           }
+        },
+        "3c233ca7-289f-4d56-bc58-72ddd6de1344": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "truck",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
         }
       },
       "block_order": [
         "16480956554677e4a8-1",
         "f32d005a-c128-4128-a769-aa03a199656e",
-        "16480956554677e4a8-2"
+        "16480956554677e4a8-2",
+        "3c233ca7-289f-4d56-bc58-72ddd6de1344"
       ],
       "settings": {
         "border_radius": 0,

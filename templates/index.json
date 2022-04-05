@@ -118,7 +118,6 @@
           "type": "collection",
           "settings": {
             "feature_collection": "storing",
-            "image": "shopify:\/\/shop_images\/dummy_600x400_acdcf6_9dd6f4_featured-800x600.png",
             "title": "",
             "button_label": "View products"
           }
@@ -450,13 +449,6 @@
             "link": ""
           }
         },
-        "1647995467d5964a2d-3": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/House_Workshop.png",
-            "link": ""
-          }
-        },
         "1647995467d5964a2d-4": {
           "type": "logo_image",
           "settings": {
@@ -475,7 +467,6 @@
       "block_order": [
         "1647995467d5964a2d-0",
         "1647995467d5964a2d-2",
-        "1647995467d5964a2d-3",
         "1647995467d5964a2d-4",
         "ba459b25-8b2a-4c4b-9dcd-5212f1f2af70"
       ],

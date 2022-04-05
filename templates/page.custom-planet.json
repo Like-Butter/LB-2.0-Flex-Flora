@@ -108,52 +108,52 @@
         "custom_css": ""
       }
     },
-    "16481817310b6f96be": {
+    "16481817274e4caba0": {
       "type": "index__image-with-text",
       "blocks": {
-        "164818173149556967-0": {
-          "type": "image",
-          "settings": {
-            "image_crop": "center",
-            "image_link": ""
-          }
-        },
-        "164818173149556967-1": {
-          "type": "image",
-          "settings": {
-            "image_crop": "center",
-            "image_link": ""
-          }
-        },
-        "164818173149556967-2": {
+        "16481817271535dc75-2": {
           "type": "text",
           "settings": {
-            "title": "CNC routing services",
+            "title": "Custom crates",
             "heading_size": "small",
-            "text": "<p>We also offer a professional CNC routing service in a range of materials for other designers, makers and manufacturers. <\/p><p>Don’t be shy asking, we love to learn through interesting one-off projects. If we can’t help we’ll try to refer you to someone with the right machines for the job.<\/p>",
-            "button_label": "More about CNC routing services",
-            "link": "shopify:\/\/pages\/cnc-routing-service",
+            "text": "<p>Our crates, affectionately known as Butter Boxes, have now made their way around the country since their humble beginnings in Melbourne back in 2009.<\/p>",
+            "button_label": "More about custom crates",
+            "link": "shopify:\/\/pages\/custom-crates",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
             "text_color": "rgba(0,0,0,0)",
             "alignment": "left",
             "vertical_position": "center"
           }
+        },
+        "16481817271535dc75-0": {
+          "type": "image",
+          "settings": {
+            "image_crop": "center",
+            "image_link": ""
+          }
+        },
+        "16481817271535dc75-1": {
+          "type": "image",
+          "settings": {
+            "image_crop": "center",
+            "image_link": ""
+          }
         }
       },
       "block_order": [
-        "164818173149556967-0",
-        "164818173149556967-1",
-        "164818173149556967-2"
+        "16481817271535dc75-2",
+        "16481817271535dc75-0",
+        "16481817271535dc75-1"
       ],
       "settings": {
         "width": "standard",
         "show_gutter": false,
         "padding_top": 20,
         "padding_bottom": 20,
-        "animation": "fadeInRight",
+        "animation": "fadeInLeft",
         "css_class": "",
-        "custom_css": ""
+        "custom_css": "{ background: #fede4d}"
       }
     },
     "1648179958c32dfd97": {
@@ -251,63 +251,14 @@
         "css_class": "",
         "custom_css": ""
       }
-    },
-    "16481817274e4caba0": {
-      "type": "index__image-with-text",
-      "blocks": {
-        "16481817271535dc75-2": {
-          "type": "text",
-          "settings": {
-            "title": "Custom crates",
-            "heading_size": "small",
-            "text": "<p>Our crates, affectionately known as Butter Boxes, have now made their way around the country since their humble beginnings in Melbourne back in 2009.<\/p>",
-            "button_label": "More about custom crates",
-            "link": "shopify:\/\/pages\/custom-crates",
-            "button_style": "button--primary",
-            "background": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "center"
-          }
-        },
-        "16481817271535dc75-0": {
-          "type": "image",
-          "settings": {
-            "image_crop": "center",
-            "image_link": ""
-          }
-        },
-        "16481817271535dc75-1": {
-          "type": "image",
-          "settings": {
-            "image_crop": "center",
-            "image_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16481817271535dc75-2",
-        "16481817271535dc75-0",
-        "16481817271535dc75-1"
-      ],
-      "settings": {
-        "width": "standard",
-        "show_gutter": false,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "fadeInLeft",
-        "css_class": "",
-        "custom_css": "{ background: #fede4d}"
-      }
     }
   },
   "order": [
     "main",
     "1648786950cb3d1e8c",
     "164818170900ca9dc6",
-    "16481817310b6f96be",
+    "16481817274e4caba0",
     "1648179958c32dfd97",
-    "164818199096041ef2",
-    "16481817274e4caba0"
+    "164818199096041ef2"
   ]
 }
