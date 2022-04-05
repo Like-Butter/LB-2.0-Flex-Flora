@@ -291,7 +291,7 @@
           "settings": {
             "title": "What's in the box",
             "heading_size": "small",
-            "text": "<p>2x Large T Side with Holes<br\/>2x Large A Side<br\/>1x Large Base<br\/>8x Spring Clips<\/p>",
+            "text": "<p>Example output from<br\/>&lcub;variant.metafields.descriptor.parts&rcub;<\/p><p>2x Large T Side with Holes<br\/>2x Large A Side<br\/>1x Large Base<br\/>8x Spring Clips<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--primary",
