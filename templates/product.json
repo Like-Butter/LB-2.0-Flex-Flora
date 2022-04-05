@@ -227,7 +227,7 @@
           "settings": {
             "title": "Shipping",
             "heading_size": "small",
-            "text": "<p>Order today for dispatch\/collection in approximately &lcub;variant lead-time&rcub; working days from payment confirmation.<\/p><p>Our workshop operates from Monday to Thursday to allow our team to enjoy the benefits of work\/life balance.<\/p>",
+            "text": "<p><em>Example output from<br\/>&lcub;variant.metafields.descriptor.parts&rcub;<\/em><\/p><p><\/p><p>Order today for dispatch\/collection in approximately Example output from<br\/>&lcub;variant.metafields.descriptor.lead&rcub; working days from payment confirmation.<\/p><p>Our workshop operates from Monday to Thursday to allow our team to enjoy the benefits of work\/life balance.<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--link-style",
