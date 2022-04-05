@@ -291,7 +291,7 @@
           "settings": {
             "title": "What's in the box",
             "heading_size": "small",
-            "text": "<p>Example output from<br\/>&lcub;variant.metafields.descriptor.parts&rcub;<\/p><p>2x Large T Side with Holes<br\/>2x Large A Side<br\/>1x Large Base<br\/>8x Spring Clips<\/p>",
+            "text": "<p>Example output from<br\/>&lcub;variant.metafields.descriptor.<strong>parts<\/strong>&rcub;<\/p><p>2x Large T Side with Holes<br\/>2x Large A Side<br\/>1x Large Base<br\/>8x Spring Clips<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--primary",
@@ -306,7 +306,7 @@
           "settings": {
             "title": "Assembly",
             "heading_size": "small",
-            "text": "<p><span style=\"text-decoration:underline\">Clip Crate assembly video <br\/>Clip Crate door assembly video<br\/>Spec sheet (PDF)<\/span><\/p>",
+            "text": "<p>Example output from<br\/>&lcub;variant.metafields.descriptor.<strong>resources<\/strong>&rcub;<\/p><p><span style=\"text-decoration:underline\">Clip Crate assembly video <br\/>Clip Crate door assembly video<br\/>Spec sheet (PDF)<\/span><\/p>",
             "button_label": "",
             "link": "shopify:\/\/pages\/product-assembly",
             "button_style": "button--primary",
