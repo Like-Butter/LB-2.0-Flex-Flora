@@ -8,7 +8,7 @@
           "settings": {
             "link": "shopify:\/\/products\/kittaparts",
             "image": "shopify:\/\/shop_images\/Like_Butter_Kitta_Parts_Shelving.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Like_Butter_Kitta_Parts_Shelving_Mobile.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Like_Butter_Kitta_Parts_Shelving_Mobile_Crop.jpg",
             "pretext": "<p>Award-winning, and truly modular.<\/p>",
             "title": "The KittaParts shelving system",
             "subtitle": "",
@@ -18,7 +18,7 @@
             "text_alignment": "left",
             "text_horizontal_position": "left",
             "background_color": "#ffffff",
-            "background_opacity": 65,
+            "background_opacity": 0,
             "border_color": "#ffffff",
             "border_width": 0,
             "text_width": 40,
@@ -36,8 +36,10 @@
         },
         "16475725555f43ad53-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "link": "",
+            "mobile_image": "shopify:\/\/shop_images\/Like_Butter.jpg",
             "pretext": "<p>Are you a maker with a great idea?<\/p>",
             "title": "Let us make something for you",
             "subtitle": "",
