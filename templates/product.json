@@ -227,7 +227,7 @@
           "settings": {
             "title": "Shipping",
             "heading_size": "small",
-            "text": "<p><em>Example output from<br\/>&lcub;variant.metafields.descriptor.parts&rcub;<\/em><\/p><p><\/p><p>Order today for dispatch\/collection in approximately Example output from<br\/>&lcub;variant.metafields.descriptor.lead&rcub; working days from payment confirmation.<\/p><p>Our workshop operates from Monday to Thursday to allow our team to enjoy the benefits of work\/life balance.<\/p>",
+            "text": "<p><em>Example output from<br\/>&lcub;variant.metafields.descriptor.leadtime&rcub;<\/em><\/p><p><\/p><p>Order today for dispatch\/collection in approximately Example output from<br\/>&lcub;variant.metafields.descriptor.lead&rcub; working days from payment confirmation.<\/p><p>Our workshop operates from Monday to Thursday to allow our team to enjoy the benefits of work\/life balance.<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--link-style",
@@ -306,7 +306,7 @@
           "settings": {
             "title": "Assembly",
             "heading_size": "small",
-            "text": "<p>Example output from<br\/>&lcub;variant.metafields.descriptor.<strong>resources<\/strong>&rcub;<\/p><p><span style=\"text-decoration:underline\">Clip Crate assembly video <br\/>Clip Crate door assembly video<br\/>Spec sheet (PDF)<\/span><\/p>",
+            "text": "<p><em>Example output from<br\/>&lcub;variant.metafields.descriptor.resources&rcub;<\/em><\/p><p><span style=\"text-decoration:underline\">Clip Crate assembly video <br\/>Clip Crate door assembly video<br\/>Spec sheet (PDF)<\/span><\/p>",
             "button_label": "",
             "link": "shopify:\/\/pages\/product-assembly",
             "button_style": "button--primary",
