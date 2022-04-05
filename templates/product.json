@@ -98,12 +98,20 @@
             "title": "Assembly",
             "answer": "<p>{{ product.metafields[\"product-descriptor\"].assembly | metafield_tag }}<\/p>"
           }
+        },
+        "4c690a3a-3ea8-4fc4-a5f2-f6aff12b2cb1": {
+          "type": "content",
+          "settings": {
+            "title": "Designer",
+            "answer": "<p>{{ product.metafields[\"product-descriptor\"].designer | metafield_tag }}<\/p>"
+          }
         }
       },
       "block_order": [
         "16487865623776cbde-1",
         "16487865623776cbde-2",
-        "16487865623776cbde-3"
+        "16487865623776cbde-3",
+        "4c690a3a-3ea8-4fc4-a5f2-f6aff12b2cb1"
       ],
       "settings": {
         "title": "",
