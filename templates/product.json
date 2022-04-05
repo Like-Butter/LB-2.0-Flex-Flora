@@ -21,19 +21,6 @@
         "custom_css": ""
       }
     },
-    "1649052393cbadd5a5": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<div class=\"lead-time\">Order today for dispatch\/collection in approximately {lead-time} days from payment confirmation.<\/div>"
-      }
-    },
-    "16491141788ed981da": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "{% for variant in product.variants %}\n{% if product.selected_or_first_available_variant.id == variant.id %}\n<strong>{{product.title}} in {{variant.title}} will take approximately ...{{variant.metafields.descriptor.lead}} <\/strong>\n{% endif %}\n{% endfor %}"
-      }
-    },
     "main": {
       "type": "product__main",
       "blocks": {
@@ -343,8 +330,6 @@
   "order": [
     "breadcrumbs",
     "sidebar",
-    "1649052393cbadd5a5",
-    "16491141788ed981da",
     "main",
     "1648786562cdc83195",
     "164905638396c88b3d",
