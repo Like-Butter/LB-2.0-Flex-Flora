@@ -5,7 +5,6 @@
       "blocks": {
         "16475725555f43ad53-0": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "link": "shopify:\/\/products\/kittaparts",
             "image": "shopify:\/\/shop_images\/Like_Butter_Kitta_Parts_Shelving.jpg",
@@ -58,7 +57,7 @@
             "button_1_style": "button--primary",
             "button_2": "",
             "button_2_link": "",
-            "button_2_style": "button--primary",
+            "button_2_style": "button--secondary",
             "mobile_image_crop": "none",
             "pretext_color_mobile": "rgba(0,0,0,0)",
             "heading_color_mobile": "rgba(0,0,0,0)",
