@@ -96,7 +96,7 @@
           "type": "content",
           "settings": {
             "title": "Assembly",
-            "answer": "<p>{{ product.metafields[\"product-descriptor\"].assembly | metafield_tag }}<\/p>"
+            "answer": "<p>{{ product.metafields[\"product-descriptor\"].assembly | metafield_tag }}<\/p><p><\/p>"
           }
         },
         "4c690a3a-3ea8-4fc4-a5f2-f6aff12b2cb1": {
@@ -352,6 +352,7 @@
     },
     "1649116019df7754d3": {
       "type": "index__slideshow-classic",
+      "disabled": true,
       "blocks": {
         "1649116019155939db-0": {
           "type": "image",
@@ -432,6 +433,7 @@
     },
     "164913337582c1b3f7": {
       "type": "index__faq",
+      "disabled": true,
       "blocks": {
         "164913337502eefa61-0": {
           "type": "heading",
