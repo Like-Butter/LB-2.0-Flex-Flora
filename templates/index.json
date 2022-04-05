@@ -122,6 +122,7 @@
           "type": "collection",
           "settings": {
             "feature_collection": "storing",
+            "image": "shopify:\/\/shop_images\/Like_Butter-6_95eef662-2385-4013-907d-b2c51b0713d0.jpg",
             "title": "",
             "button_label": "View products"
           }
@@ -129,8 +130,8 @@
         "16475733512df3892c-1": {
           "type": "collection",
           "settings": {
-            "feature_collection": "eating",
-            "image": "shopify:\/\/shop_images\/dummy_600x400_acdcf6_9dd6f4_featured-800x600.png",
+            "feature_collection": "sleeping",
+            "image": "shopify:\/\/shop_images\/Test_2.gif",
             "title": "",
             "button_label": "View products"
           }
@@ -139,7 +140,7 @@
           "type": "collection",
           "settings": {
             "feature_collection": "sitting",
-            "image": "shopify:\/\/shop_images\/dummy_600x400_acdcf6_9dd6f4_featured-800x600.png",
+            "image": "shopify:\/\/shop_images\/Like_Butter-4_f63af0e0-da1d-47be-a400-d7b50e6bfae8.jpg",
             "title": "",
             "button_label": "View products"
           }
