@@ -496,7 +496,7 @@
         ],
         "settings": {
           "copyright_text": "<p>Shipping | Returns | Terms & Conditions | Warranty | Privacy<\/p>",
-          "display_designed_by": true,
+          "display_designed_by": false,
           "display_shopify": false,
           "display_payment_methods": false,
           "show_locale_selector": false,
