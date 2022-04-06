@@ -58,7 +58,7 @@ LB customisation: separate snippet built for footer
 
 
       {% comment %} Email {% endcomment %}
-      <div class="field field1">
+      <div class="field1">
         
         <label class="label newsletter__text {% if settings.use_placeholders %}is-sr-only{% endif %}">
           {{ 'general.newsletter_form.email' | t }}<span class="required">*</span>
@@ -72,7 +72,7 @@ LB customisation: separate snippet built for footer
       </div>
 
       {% comment %} Submit button {% endcomment %}
-      <div class="field field2">
+      <div class="field2">
       
         <div class="control">
           {%- assign button_label = 'general.newsletter_form.submit' | t -%}
