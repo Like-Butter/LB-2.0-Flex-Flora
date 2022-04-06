@@ -149,14 +149,12 @@
 
       <div class="footer__credits {% if section.settings.display_payment_methods %}two-thirds {% else %} one-whole {% endif %} column small-down--one-whole">
         
-		<!-- LB customisation -->
-        <code class="test">Template: {{template}}</code>
-        
+		
         
         <p>&copy; {{ "now" | date: "%Y" }} {{ shop.name | link_to: routes.root_url }}.</p>
         {{ section.settings.copyright_text }}
         {% if section.settings.display_designed_by %}
-          <p>{{ 'layout.general.designer_credits_html' | t }}</p>
+          <p class="fineprint text-slate-300">{{ 'layout.general.designer_credits_html' | t }}</p>
         {% endif %}
         {% if section.settings.display_shopify %}
           <p>{{ powered_by_link }}</p>
@@ -170,6 +168,11 @@
             {% endfor %}
           </div>
         </div>
+      
+      <!-- LB customisation -->
+        <code class="test">Template: {{template}}</code>
+        
+      
       {% endif %}
     </div>
   </section>
