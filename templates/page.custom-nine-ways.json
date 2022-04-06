@@ -1,0 +1,114 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-content__main",
+      "settings": {
+        "show_heading": true,
+        "heading_alignment": "center",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1649218357e51acc14": {
+      "type": "index__gallery",
+      "blocks": {
+        "16492183579f21ee13-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nine_Ways_To_Kitta_9.png",
+            "link": ""
+          }
+        },
+        "16492183579f21ee13-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nine_Ways_To_Kitta_8.png",
+            "link": ""
+          }
+        },
+        "16492183579f21ee13-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nine_Ways_To_Kitta_7.png",
+            "link": ""
+          }
+        },
+        "16492183579f21ee13-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nine_Ways_To_Kitta_6.png",
+            "link": ""
+          }
+        },
+        "5eee9fe2-daee-4763-9366-6aca92aaa64d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nine_Ways_To_Kitta_5.png",
+            "link": ""
+          }
+        },
+        "4190b435-c63e-4fbc-81de-7e2965f711a8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nine_Ways_To_Kitta_4.png",
+            "link": ""
+          }
+        },
+        "43c199c1-39a6-49ff-bd05-f69d61535f6d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nine_Ways_To_Kitta_3.png",
+            "link": ""
+          }
+        },
+        "b61de260-e040-47e9-ba2c-bfe9666c3f9c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nine_Ways_To_Kitta_2.png",
+            "link": ""
+          }
+        },
+        "13c9181f-7356-4f3e-960d-44d729d7ddfe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nine_Ways_To_Kitta_1.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16492183579f21ee13-0",
+        "16492183579f21ee13-1",
+        "16492183579f21ee13-2",
+        "16492183579f21ee13-3",
+        "5eee9fe2-daee-4763-9366-6aca92aaa64d",
+        "4190b435-c63e-4fbc-81de-7e2965f711a8",
+        "43c199c1-39a6-49ff-bd05-f69d61535f6d",
+        "b61de260-e040-47e9-ba2c-bfe9666c3f9c",
+        "13c9181f-7356-4f3e-960d-44d729d7ddfe"
+      ],
+      "settings": {
+        "gallery_type": "classic",
+        "crop_images": false,
+        "images_per_row": 3,
+        "enable_lightbox": true,
+        "overlay_color": "#e6e6e6",
+        "link_color": "#ffffff",
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1649218357e51acc14"
+  ]
+}
