@@ -62,7 +62,7 @@
     "dropdown_style": "vertical",
     "dropdown_position": "below-parent",
     "dropdown_link_spacing": "small",
-    "use_placeholders": false,
+    "use_placeholders": true,
     "form_button_style": "button--primary",
     "display_heading_divider": false,
     "heading_divider_animation": "none",
@@ -71,7 +71,7 @@
     "toggle_sidebar": false,
     "tab_style": "underline",
     "table_styles_enabled": true,
-    "qty_box_style": "box",
+    "qty_box_style": "stacked",
     "qty_border_radius": 0,
     "tag_style": "solid",
     "mega_menu_1": true,
@@ -470,13 +470,6 @@
               "social_icons_footer": false
             }
           },
-          "fdc07dd2-7b39-45ee-904c-cbe18497d7c7": {
-            "type": "link_list",
-            "settings": {
-              "menu": "policies",
-              "social_icons_footer": true
-            }
-          },
           "dff9ef19-b620-4fcb-99a5-27ee7afd63a8": {
             "type": "newsletter",
             "settings": {
@@ -491,7 +484,6 @@
           "1581460333724",
           "bc2d8513-1680-4450-91b3-2b545558168d",
           "7db7181d-742e-4079-ab8c-e15bedbc4fda",
-          "fdc07dd2-7b39-45ee-904c-cbe18497d7c7",
           "dff9ef19-b620-4fcb-99a5-27ee7afd63a8"
         ],
         "settings": {
