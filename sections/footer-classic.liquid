@@ -1,5 +1,6 @@
 {% comment %}
 ** Footer - classic - static **
+LB customisation: separate snippet built for footer - see /snippets/newsletter-form-footer.liquid
 {% endcomment %}
 
 {% assign id = section.id %}
@@ -107,7 +108,7 @@
                 </div>
               {% endif %}
 
-              {% render 'newsletter-form',
+              {% render 'newsletter-form-footer',
                       type: 'block',
                       display_first_name: block.settings.display_first_name,
                       display_last_name: block.settings.display_last_name
