@@ -149,16 +149,11 @@
 
       <div class="footer__credits {% if section.settings.display_payment_methods %}two-thirds {% else %} one-whole {% endif %} column small-down--one-whole">
         
-		
-        
-        <p>&copy; {{ "now" | date: "%Y" }} {{ shop.name | link_to: routes.root_url }}.</p>
-        <span class="fineprint">{{ section.settings.copyright_text }}</span>
-        {% if section.settings.display_designed_by %}
-          <p>{{ 'layout.general.designer_credits_html' | t }}</p>
-        {% endif %}
-        {% if section.settings.display_shopify %}
-          <p>{{ powered_by_link }}</p>
-        {% endif %}
+        <p>
+          <span class="fineprint">{{ section.settings.copyright_text }}</span>
+          <span class="copyright">&copy; {{ "now" | date: "%Y" }} {{ shop.name | link_to: routes.root_url }}.</span>
+        </p>
+
       </div>
       {% if section.settings.display_payment_methods %}
         <div class="footer__payment-methods one-third column small-down--one-whole is-flex is-justify-end is-flex-wrap">
