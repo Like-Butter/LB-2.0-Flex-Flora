@@ -80,7 +80,8 @@ newsletter_class: <string>
       {% endif %}
 
       {% comment %} Email {% endcomment %}
-      <div class="field is-stretched-width">
+      <!-- <div class="field is-stretched-width"> -->
+        <div class="field box1">  
         <label class="label newsletter__text {% if settings.use_placeholders %}is-sr-only{% endif %}">
           {{ 'general.newsletter_form.email' | t }}<span class="required">*</span>
         </label>
@@ -93,7 +94,8 @@ newsletter_class: <string>
       </div>
 
       {% comment %} Submit button {% endcomment %}
-      <div class="field is-default-width is-align-self-end">
+      <!-- <div class="field is-default-width is-align-self-end"> -->
+      <div class="field box2">
         <div class="control">
           {%- assign button_label = 'general.newsletter_form.submit' | t -%}
           {% render 'button',
@@ -104,6 +106,11 @@ newsletter_class: <string>
           %}
         </div>
       </div>
+
+
+
+
+
     </div>
   {% endform %}
 </div>
