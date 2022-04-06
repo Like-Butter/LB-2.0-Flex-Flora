@@ -451,7 +451,7 @@
             "type": "text",
             "settings": {
               "title": "Office",
-              "content": "<p><a href=\"https:\/\/goo.gl\/maps\/xVn7ee1QgHekmdBS9\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/xVn7ee1QgHekmdBS9\">30 Chelmsford Street<br\/>Kensington Victoria 3031<\/a><\/p><p>Monday to Thursday 8am - 4pm for contactless click and collect.<\/p><p><em>On the land of the Wurundjeri people.<\/em><\/p>",
+              "content": "<p>30 Chelmsford Street<br\/>Kensington Victoria 3031<\/p><p>Monday to Thursday 8am - 4pm for contactless click and collect.<\/p><p><em>On the land of the Wurundjeri people.<\/em><\/p>",
               "social_icons_footer": false
             }
           },
@@ -459,7 +459,7 @@
             "type": "text",
             "settings": {
               "title": "Workshop",
-              "content": "<p><a href=\"https:\/\/goo.gl\/maps\/tCkNJwr4EpHRQuvK8\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/tCkNJwr4EpHRQuvK8\">15 Fitzgeralds Close<br\/>Castlemaine Victoria 3450<\/a><\/p><p>Monday to Thursday 8am - 4pm for contactless click and collect.<\/p><p><em>On the land of the Dja Dja Wurrung people.<\/em><\/p>",
+              "content": "<p>15 Fitzgeralds Close<br\/>Castlemaine Victoria 3450<\/p><p>Monday to Thursday 8am - 4pm for contactless click and collect.<\/p><p><em>On the land of the Dja Dja Wurrung people.<\/em><\/p>",
               "social_icons_footer": false
             }
           },
