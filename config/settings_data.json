@@ -473,8 +473,8 @@
           "dff9ef19-b620-4fcb-99a5-27ee7afd63a8": {
             "type": "newsletter",
             "settings": {
-              "newsletter_title": "Subscribe",
-              "newsletter_richtext": "<p>Sign up to get the latest on sales, new releases and more …<\/p>",
+              "newsletter_title": "Butter News",
+              "newsletter_richtext": "",
               "display_first_name": false,
               "display_last_name": false
             }
