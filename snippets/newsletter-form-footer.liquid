@@ -54,31 +54,8 @@ LB customisation: separate snippet built for footer
     <input type="hidden" name="contact[tags]" value="prospect,newsletter"/>
     <input type="hidden" name="challenge" value="false" />
 
-    <div class="newsletter-form form xis-responsive">
+    <div class="newsletter-form form is-responsive">
 
-      {% if display_first_name %}
-        {% comment %} First name {% endcomment %}
-        <div class="field is-stretched-width {% if display_last_name != true %} is-full-width {% endif %}">
-          <label class="label newsletter__text {% if settings.use_placeholders %}is-sr-only{% endif %}">
-            {{ 'general.newsletter_form.subscriber_first_name' | t }}
-          </label>
-          <div class="control">
-            <input class="input is-{{ field_input_style }} is-{{ field_input_size }}" type="text" name="contact[first_name]" placeholder="{% if settings.use_placeholders %}{{ 'general.newsletter_form.subscriber_first_name' | t }}{% endif %}">
-          </div>
-        </div>
-      {% endif %}
-
-      {% if display_last_name %}
-        {% comment %} Last name {% endcomment %}
-        <div class="field is-stretched-width {% if display_first_name != true %} is-full-width {% endif %}">
-          <label class="label newsletter__text {% if settings.use_placeholders %}is-sr-only{% endif %}">
-            {{ 'general.newsletter_form.subscriber_last_name' | t }}
-          </label>
-          <div class="control">
-            <input class="input is-{{ field_input_style }} is-{{ field_input_size }}" type="text" name="contact[last_name]" placeholder="{% if settings.use_placeholders %}{{ 'general.newsletter_form.subscriber_last_name' | t }}{% endif%}">
-          </div>
-        </div>
-      {% endif %}
 
       {% comment %} Email {% endcomment %}
       <div class="field field1">
