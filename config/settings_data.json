@@ -474,7 +474,7 @@
             "type": "newsletter",
             "settings": {
               "newsletter_title": "Butter News",
-              "newsletter_richtext": "",
+              "newsletter_richtext": "<p>Pretty random stuff, stay tuned.<\/p>",
               "display_first_name": false,
               "display_last_name": false
             }
