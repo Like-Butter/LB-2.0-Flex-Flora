@@ -150,7 +150,7 @@
       <div class="footer__credits {% if section.settings.display_payment_methods %}two-thirds {% else %} one-whole {% endif %} column small-down--one-whole">
         
         <p>
-          <span class="fineprint">{{ section.settings.copyright_text }}</span>
+          <span class="fineprint">{{ section.settings.copyright_text }} &vert;</span>
           <span class="copyright">&copy; {{ "now" | date: "%Y" }} {{ shop.name | link_to: routes.root_url }}.</span>
         </p>
 
