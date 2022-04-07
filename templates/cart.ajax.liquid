@@ -148,6 +148,8 @@
                   variant: item.variant
                 %}
               </div>
+                        {{ cart.item_count }} {{ cart.item_count | pluralize: 'item', 'items' }} ({{ cart.total_price | money }})
+
               <p class="ajax-cart__quantity-warning quantity-warning">
             {% endif %}
           </div>
