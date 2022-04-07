@@ -74,62 +74,6 @@
         "custom_css": ""
       }
     },
-    "1648786562cdc83195": {
-      "type": "index__faq",
-      "blocks": {
-        "16487865623776cbde-1": {
-          "type": "content",
-          "disabled": true,
-          "settings": {
-            "title": "Designer",
-            "answer": "<p>{{ product.metafields[\"product-descriptor\"].designer | metafield_tag }}<\/p>"
-          }
-        },
-        "16487865623776cbde-2": {
-          "type": "content",
-          "settings": {
-            "title": "Special features",
-            "answer": "<p>{{ product.metafields[\"product-descriptor\"].features | metafield_tag }}<\/p>"
-          }
-        },
-        "16487865623776cbde-3": {
-          "type": "content",
-          "settings": {
-            "title": "Assembly",
-            "answer": "<p>{{ product.metafields[\"product-descriptor\"].assembly | metafield_tag }}<\/p><p><\/p>"
-          }
-        },
-        "4c690a3a-3ea8-4fc4-a5f2-f6aff12b2cb1": {
-          "type": "content",
-          "settings": {
-            "title": "Designer",
-            "answer": "<p>{{ product.metafields[\"product-descriptor\"].designer | metafield_tag }}<\/p>"
-          }
-        },
-        "630fd4a1-6842-49ed-b86f-cbfef2e05ad7": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16487865623776cbde-1",
-        "16487865623776cbde-2",
-        "16487865623776cbde-3",
-        "4c690a3a-3ea8-4fc4-a5f2-f6aff12b2cb1",
-        "630fd4a1-6842-49ed-b86f-cbfef2e05ad7"
-      ],
-      "settings": {
-        "title": "",
-        "width": "standard",
-        "padding_top": 30,
-        "padding_bottom": 56,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "164905638396c88b3d": {
       "type": "index__image-with-text",
       "blocks": {
@@ -366,9 +310,9 @@
             "subheading_color": "#000000",
             "text_alignment": "center",
             "text_horizontal_position": "center",
-            "background_color": "#FFFFFF",
+            "background_color": "#ffffff",
             "background_opacity": 77,
-            "border_color": "#FFFFFF",
+            "border_color": "#ffffff",
             "border_width": 0,
             "text_width": 40,
             "button_1": "Button 1",
@@ -395,9 +339,9 @@
             "subheading_color": "#000000",
             "text_alignment": "center",
             "text_horizontal_position": "center",
-            "background_color": "#FFFFFF",
+            "background_color": "#ffffff",
             "background_opacity": 77,
-            "border_color": "#FFFFFF",
+            "border_color": "#ffffff",
             "border_width": 0,
             "text_width": 40,
             "button_1": "Button 1",
@@ -521,7 +465,6 @@
     "breadcrumbs",
     "sidebar",
     "main",
-    "1648786562cdc83195",
     "164905638396c88b3d",
     "16490554271c654be6",
     "164906371352a49736",
