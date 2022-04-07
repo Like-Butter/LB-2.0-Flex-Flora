@@ -18,9 +18,9 @@
         "16492958533a051786-2": {
           "type": "text",
           "settings": {
-            "title": "Submitting a quote",
+            "title": "Help is available 😀",
             "heading_size": "regular",
-            "text": "<p>In order for us to quote your custom jobs quickly, please submit the quote form. One of our team members will respond ASAP and help guide you through the process of commissioning your custom piece.<\/p><p>Deciding on a budget is tricky and we completely understand! All we can say is, it's incredibly helpful if you can have at least a rough budget ready to discuss with us. This can save a great deal of time and help us design and specify a result that is more likely to succeed, and fit your purpose.<\/p>",
+            "text": "<p>The Like Butter team are here to help if you run into trouble.<\/p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut adipiscing convallis purus quis pretium. <\/p><p>Care and Maintenance<\/p><p>Product Assembly<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--secondary",
@@ -30,25 +30,18 @@
             "vertical_position": "start"
           }
         },
-        "b3d17621-6ca1-46a6-99df-49d719851f6c": {
-          "type": "text",
+        "7571bdb6-ee8a-4244-8763-d1790b94b952": {
+          "type": "image",
           "settings": {
-            "title": "",
-            "heading_size": "regular",
-            "text": "<p>If you have no experience commissioning custom furniture and really don't know where to start with budget, or design... that's absolutely fine, we can help you determine a starting range.<\/p><p>One thing that can help, is looking through the prices of some of our <a href=\"\/collections\/all\" title=\"All products\">standard products<\/a>, determining a budget base-point. From there, assume that custom stuff will always be a bit more, because of the design time and the simple fact that making one-off pieces is more time-consuming than product we can repeat develop a process for.<\/p>",
-            "button_label": "Submit a quote request",
-            "link": "shopify:\/\/pages\/quote-request-form",
-            "button_style": "button--secondary",
-            "background": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "start"
+            "image": "shopify:\/\/shop_images\/dummy_1800x900_acdcf6_9dd6f4_image-with-text-overlay-1800-900.png",
+            "image_crop": "none",
+            "image_link": ""
           }
         }
       },
       "block_order": [
         "16492958533a051786-2",
-        "b3d17621-6ca1-46a6-99df-49d719851f6c"
+        "7571bdb6-ee8a-4244-8763-d1790b94b952"
       ],
       "settings": {
         "width": "standard",
