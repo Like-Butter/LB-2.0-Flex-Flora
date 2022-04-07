@@ -4,7 +4,7 @@
       "type": "page-content__main",
       "settings": {
         "show_heading": true,
-        "heading_alignment": "center",
+        "heading_alignment": "left",
         "width": "standard",
         "padding_top": 40,
         "padding_bottom": 40,
