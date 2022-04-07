@@ -11,9 +11,58 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "16492958548d32f74f": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "16492958533a051786-0": {
+          "type": "image",
+          "settings": {
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "16492958533a051786-1": {
+          "type": "image",
+          "settings": {
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "16492958533a051786-2": {
+          "type": "text",
+          "settings": {
+            "title": "Heading text here",
+            "heading_size": "regular",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_label": "View all",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16492958533a051786-0",
+        "16492958533a051786-1",
+        "16492958533a051786-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": "{background: #fede4d}"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16492958548d32f74f"
   ]
 }
