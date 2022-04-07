@@ -76,6 +76,8 @@
                 {% endfor %}
               {% endif %}
             </div>
+            
+             {{ cart.item_count }} {{ cart.item_count | pluralize: 'item', 'items' }} ({{ cart.total_price | money }})
 
             {% if item.selling_plan_allocation.selling_plan %}
               <p class="ajax-cart__selling-plan-name">{{ item.selling_plan_allocation.selling_plan.name }}</p>
@@ -148,7 +150,7 @@
                   variant: item.variant
                 %}
               </div>
-                        {{ cart.item_count }} {{ cart.item_count | pluralize: 'item', 'items' }} ({{ cart.total_price | money }})
+                       
 
               <p class="ajax-cart__quantity-warning quantity-warning">
             {% endif %}
