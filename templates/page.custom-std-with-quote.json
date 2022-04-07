@@ -20,10 +20,10 @@
           "settings": {
             "title": "Submitting a quote",
             "heading_size": "regular",
-            "text": "<p>In order for us to quote your custom jobs quickly, please submit the quote form. One of our team members will respond ASAP and help guide you through the process of commissioning your custom piece.<\/p>",
-            "button_label": "View all",
+            "text": "<p>In order for us to quote your custom jobs quickly, please submit the quote form. One of our team members will respond ASAP and help guide you through the process of commissioning your custom piece.<\/p><p>Deciding on a budget is tricky and we completely understand! All we can say is, it's incredibly helpful if you can have at least a rough budget ready to discuss with us. This can save a great deal of time and help us design and specify a result that is more likely to succeed, and fit your purpose.<\/p>",
+            "button_label": "",
             "link": "",
-            "button_style": "button--primary",
+            "button_style": "button--secondary",
             "background": "rgba(0,0,0,0)",
             "text_color": "rgba(0,0,0,0)",
             "alignment": "left",
@@ -35,7 +35,7 @@
           "settings": {
             "title": "",
             "heading_size": "regular",
-            "text": "<p>Deciding on a budget is tricky and we completely understand! All we can say is, it's incredibly helpful if you can have at least a rough budget ready to discuss with us. This can save a great deal of time and help us design and specify a result that is more likely to succeed, and fit your purpose.<\/p><p>If you have no experience commissioning custom furniture and really don't know where to start with budget, or design... that's absolutely fine, we can help you determine a starting range.<\/p><p>One thing that can help, is looking through the prices of some of our standard products, determining a budget base-point. From there, assume that custom stuff will always be a bit more, because of the design time and the simple fact that making one-off pieces is more time-consuming than product we can repeat develop a process for.<\/p>",
+            "text": "<p>If you have no experience commissioning custom furniture and really don't know where to start with budget, or design... that's absolutely fine, we can help you determine a starting range.<\/p><p>One thing that can help, is looking through the prices of some of our standard products, determining a budget base-point. From there, assume that custom stuff will always be a bit more, because of the design time and the simple fact that making one-off pieces is more time-consuming than product we can repeat develop a process for.<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--primary",
