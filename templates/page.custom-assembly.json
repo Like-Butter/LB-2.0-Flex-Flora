@@ -12,6 +12,47 @@
         "custom_css": ""
       }
     },
+    "16493122250b957529": {
+      "type": "index__video",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "autoplay": false,
+        "autoloop": true,
+        "mute_video": false,
+        "controls": true,
+        "iframe_video": "https:\/\/www.youtube.com\/watch?v=7DbukIyqvrI",
+        "html5_video": "",
+        "pretext": "",
+        "title": "Clip Crate Assembly",
+        "subtitle": "Relevant to all clip product range - Clip Crates, Clip Open Stack and Clip Simple Bedside",
+        "pretext_color": "#000000",
+        "heading_color": "#000000",
+        "subheading_color": "#000000",
+        "horizontal_text_position": "center",
+        "vertical_text_position": "center",
+        "text_align": "center",
+        "button_label": "",
+        "button_style": "button--secondary",
+        "overlay_style": "full",
+        "video_overlay_color": "#ffffff",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "background_opacity": 77,
+        "text_width": 70,
+        "mobile_text_below_video": true,
+        "pretext_color_mobile": "rgba(0,0,0,0)",
+        "heading_color_mobile": "rgba(0,0,0,0)",
+        "subheading_color_mobile": "rgba(0,0,0,0)",
+        "width": "half",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "16492958548d32f74f": {
       "type": "index__image-with-text",
       "blocks": {
@@ -52,53 +93,11 @@
         "css_class": "",
         "custom_css": "{background: #fede4d}"
       }
-    },
-    "16493122250b957529": {
-      "type": "index__video",
-      "settings": {
-        "aspect_ratio": "16:9",
-        "autoplay": false,
-        "autoloop": true,
-        "mute_video": false,
-        "controls": true,
-        "iframe_video": "https:\/\/www.youtube.com\/watch?v=8NxS0vrPcsA",
-        "html5_video": "",
-        "image": "shopify:\/\/shop_images\/dummy_1600x900_ffffff_cccccc_video-1600-900.png",
-        "pretext": "",
-        "title": "",
-        "subtitle": "",
-        "pretext_color": "#000000",
-        "heading_color": "#000000",
-        "subheading_color": "#000000",
-        "horizontal_text_position": "center",
-        "vertical_text_position": "center",
-        "text_align": "center",
-        "button_label": "",
-        "button_style": "button--secondary",
-        "overlay_style": "none",
-        "video_overlay_color": "#ffffff",
-        "gradient": "rgba(0,0,0,0)",
-        "gradient_rotation": 180,
-        "background_opacity": 77,
-        "text_width": 70,
-        "mobile_text_below_video": true,
-        "pretext_color_mobile": "rgba(0,0,0,0)",
-        "heading_color_mobile": "rgba(0,0,0,0)",
-        "subheading_color_mobile": "rgba(0,0,0,0)",
-        "width": "wide",
-        "padding_top": 20,
-        "padding_bottom": 0,
-        "padding_left": 0,
-        "padding_right": 0,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
     }
   },
   "order": [
     "main",
-    "16492958548d32f74f",
-    "16493122250b957529"
+    "16493122250b957529",
+    "16492958548d32f74f"
   ]
 }

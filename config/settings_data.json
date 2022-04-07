@@ -487,7 +487,7 @@
           "dff9ef19-b620-4fcb-99a5-27ee7afd63a8"
         ],
         "settings": {
-          "copyright_text": "<p><a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">Shipping<\/a> | <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">Returns<\/a> | <a href=\"\/policies\/terms-of-service\" title=\"Terms of Service\">Terms & Conditions<\/a> | <a href=\"\/pages\/warranty-information\" title=\"Warranty Information\">Warranty<\/a> | <a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">Privacy<\/a><\/p>",
+          "copyright_text": "<p><a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">Shipping<\/a> | <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">Returns<\/a> | <a href=\"\/policies\/terms-of-service\" title=\"Terms of Service\">Terms & Conditions<\/a> | <a href=\"\/pages\/warranty-information\" title=\"Warranty Information\">Warranty<\/a> | <a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">Privacy<\/a> | <a href=\"https:\/\/concretedigital.co\/\" target=\"_blank\" title=\"https:\/\/concretedigital.co\/\">Website by Concrete Digital<\/a><\/p>",
           "display_designed_by": false,
           "display_shopify": false,
           "display_payment_methods": false,
