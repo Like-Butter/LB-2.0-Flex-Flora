@@ -21,7 +21,7 @@
         "read_time": true,
         "blog_comment_count": true,
         "show_tags": true,
-        "show_featured_image": false,
+        "show_featured_image": true,
         "show_sidebar": false,
         "sidebar_position": "left",
         "width": "standard",
