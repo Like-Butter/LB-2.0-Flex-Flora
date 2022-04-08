@@ -92,8 +92,8 @@
           "type": "text",
           "settings": {
             "title": "KittaParts",
-            "heading_size": "regular",
-            "text": "<p><a href=\"https:\/\/like-butter-pty-ltd.myshopify.com\/pages\/how-to-kittaparts\" title=\"How to KittaParts\">How-to Kittaparts<\/a><br\/>An instruction guide to KittaParts together.<\/p><p><a href=\"https:\/\/like-butter-pty-ltd.myshopify.com\/pages\/nine-ways-to-kitta\" title=\"Nine Ways to Kitta\">Nine Ways to Kitta<\/a><br\/>Nine configuration examples for your kit.<\/p><p><a href=\"https:\/\/www.youtube.com\/watch?v=Atr-WxdGspY&feature=youtu.be\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=Atr-WxdGspY&feature=youtu.be\">How to Kitta your KittaParts<br\/><\/a>Assembly video<\/p>",
+            "heading_size": "small",
+            "text": "<p><a href=\"https:\/\/like-butter-pty-ltd.myshopify.com\/pages\/how-to-kittaparts\" title=\"How to KittaParts\">How-to Kittaparts<\/a> -- an instruction guide to putting your KittaParts together.<\/p><p><a href=\"https:\/\/like-butter-pty-ltd.myshopify.com\/pages\/nine-ways-to-kitta\" title=\"Nine Ways to Kitta\">Nine Ways to Kitta<\/a> -- configuration examples for your kit.<\/p><p><a href=\"https:\/\/www.youtube.com\/watch?v=Atr-WxdGspY&feature=youtu.be\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=Atr-WxdGspY&feature=youtu.be\">How to Kitta your KittaParts<\/a> -- assembly video<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--primary",
@@ -105,6 +105,7 @@
         },
         "1649378303b69e8638-2": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "The Shelves",
             "heading_size": "regular",
