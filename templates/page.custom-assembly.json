@@ -44,6 +44,38 @@
         "custom_css": ""
       }
     },
+    "1649382990fa618fbe": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "164938299090b59a33-2": {
+          "type": "text",
+          "settings": {
+            "title": "The Shelves",
+            "heading_size": "small",
+            "text": "<p>The Shelves assembly instructions (PDF)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/2UR.pdf?v=1629695887\" title=\"2UR assembly instructions\">2UR<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR.pdf?v=1629695887\" title=\"3UR assembly instructions\">3UR<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR900.pdf?v=1629695887\" title=\"3UR Short assembly instructions\">3UR Short<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR.pdf?v=1629695887\" title=\"4UR assembly instructions\">4UR<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR900.pdf?v=1629695887\" title=\"4UR Short assembly instructions\">4UR Short<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/5UR.pdf?v=1629695887\" title=\"5UR assembly instructions\">5UR<\/a><\/p>",
+            "button_label": "View The Shelves",
+            "link": "shopify:\/\/products\/the-shelves-3ur",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        }
+      },
+      "block_order": [
+        "164938299090b59a33-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "1649378303a1a58ffd": {
       "type": "index__image-with-text",
       "blocks": {
@@ -414,43 +446,12 @@
         "css_class": "",
         "custom_css": "{background: #fede4d}"
       }
-    },
-    "1649382990fa618fbe": {
-      "type": "index__image-with-text",
-      "blocks": {
-        "164938299090b59a33-2": {
-          "type": "text",
-          "settings": {
-            "title": "The Shelves",
-            "heading_size": "small",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-            "button_label": "View The Shelves",
-            "link": "shopify:\/\/products\/the-shelves-3ur",
-            "button_style": "button--primary",
-            "background": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "center"
-          }
-        }
-      },
-      "block_order": [
-        "164938299090b59a33-2"
-      ],
-      "settings": {
-        "width": "standard",
-        "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
     }
   },
   "order": [
     "main",
     "1649379094187a668e",
+    "1649382990fa618fbe",
     "1649378303a1a58ffd",
     "16493811252c803eba",
     "1649380440df9b5ad6",
@@ -459,7 +460,6 @@
     "1649376699c1a7250f",
     "1649376784ec7d2b6d",
     "164937676683eda18f",
-    "16492958548d32f74f",
-    "1649382990fa618fbe"
+    "16492958548d32f74f"
   ]
 }
