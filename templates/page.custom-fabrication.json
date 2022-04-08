@@ -20,7 +20,7 @@
           "settings": {
             "title": "Get a quote",
             "heading_size": "small",
-            "text": "<p>estimate, please complete the form below. One of our team members will respond to you as soon as possible and help guide your through the process of commissioning your custom piece or project.<\/p>",
+            "text": "<p>To help us provide an accurate estimate, please complete the form below. One of our team members will respond to you as soon as possible and help guide your through the process of commissioning your custom piece or project.<\/p>",
             "button_label": "Complete our quote request",
             "link": "shopify:\/\/pages\/quote-request-form",
             "button_style": "button--primary",
