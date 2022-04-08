@@ -209,7 +209,7 @@
       "settings": {
         "preheading": "",
         "title": "Video Help",
-        "subheading": "<p>Additional text or description of section<\/p>",
+        "subheading": "",
         "preheading_color": "rgba(0,0,0,0)",
         "heading_color": "rgba(0,0,0,0)",
         "subheading_color": "rgba(0,0,0,0)",
