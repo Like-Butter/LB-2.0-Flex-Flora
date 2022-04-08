@@ -224,7 +224,7 @@
     "1649376544179c8b74": {
       "type": "index__rich-text",
       "settings": {
-        "title": "Rich text",
+        "title": "",
         "heading_font": "open_sans_n4",
         "heading_color": "rgba(0,0,0,0)",
         "heading_alignment": "center",
