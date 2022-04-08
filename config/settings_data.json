@@ -259,7 +259,7 @@
           "width": "standard",
           "homepage_only": false,
           "enable_sticky": false,
-          "show_close_icon": true,
+          "show_close_icon": false,
           "css_class": "",
           "custom_css": ""
         }
@@ -319,7 +319,7 @@
           "overlay_background_opacity": 0,
           "overlay_logo_width": 80,
           "enable_sticky": true,
-          "sticky_background_opacity": 70,
+          "sticky_background_opacity": 90,
           "scroll_logo_width": 80,
           "width": "wide",
           "vertical_alignment": "center",
