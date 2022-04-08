@@ -15,20 +15,12 @@
     "1649376788cac4ab82": {
       "type": "index__image-with-text",
       "blocks": {
-        "1649376788a9202c6e-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Clip_Crate_family_f7e5dee2-5fe3-4268-b1a3-7baa5c707491.png",
-            "image_crop": "none",
-            "image_link": ""
-          }
-        },
         "1649376788a9202c6e-2": {
           "type": "text",
           "settings": {
             "title": "KittaParts",
             "heading_size": "regular",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text": "<p><a href=\"\/pages\/how-to-kittaparts\" title=\"How to KittaParts\">How-to Kittaparts<\/a><br\/>An instruction guide to KittaParts together.<\/p><p><a href=\"\/pages\/nine-ways-to-kitta\" title=\"Nine Ways to Kitta\">Nine Ways to Kitta<\/a><br\/>Nine configuration examples for your kit.<\/p><p><a href=\"https:\/\/www.youtube.com\/watch?v=Atr-WxdGspY&feature=youtu.be\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=Atr-WxdGspY&feature=youtu.be\">How to Kitta your KittaParts<br\/><\/a>Assembly video<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--primary",
@@ -40,10 +32,11 @@
         },
         "a9dd317d-0691-46b5-93dc-a789f2336fd8": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "",
             "heading_size": "small",
-            "text": "<p><a href=\"\/pages\/how-to-kittaparts\" title=\"How to KittaParts\">How-to Kittaparts<\/a><br\/>An instruction guide to KittaParts together.<\/p><p><a href=\"\/pages\/nine-ways-to-kitta\" title=\"Nine Ways to Kitta\">Nine Ways to Kitta<\/a><br\/>Nine configuration examples for your kit.<\/p><p><a href=\"https:\/\/www.youtube.com\/watch?v=Atr-WxdGspY&feature=youtu.be\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=Atr-WxdGspY&feature=youtu.be\">How to Kitta your KittaParts<br\/><\/a>Assembly video<\/p>",
+            "text": "",
             "button_label": "",
             "link": "",
             "button_style": "button--primary",
@@ -52,12 +45,20 @@
             "alignment": "left",
             "vertical_position": "center"
           }
+        },
+        "1649376788a9202c6e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Clip_Crate_family_f7e5dee2-5fe3-4268-b1a3-7baa5c707491.png",
+            "image_crop": "none",
+            "image_link": ""
+          }
         }
       },
       "block_order": [
-        "1649376788a9202c6e-0",
         "1649376788a9202c6e-2",
-        "a9dd317d-0691-46b5-93dc-a789f2336fd8"
+        "a9dd317d-0691-46b5-93dc-a789f2336fd8",
+        "1649376788a9202c6e-0"
       ],
       "settings": {
         "width": "standard",
