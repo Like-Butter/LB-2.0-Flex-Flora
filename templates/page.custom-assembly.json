@@ -35,7 +35,7 @@
             "background": "rgba(0,0,0,0)",
             "text_color": "rgba(0,0,0,0)",
             "alignment": "left",
-            "vertical_position": "start"
+            "vertical_position": "center"
           }
         },
         "a9dd317d-0691-46b5-93dc-a789f2336fd8": {
@@ -50,7 +50,7 @@
             "background": "rgba(0,0,0,0)",
             "text_color": "rgba(0,0,0,0)",
             "alignment": "left",
-            "vertical_position": "start"
+            "vertical_position": "center"
           }
         }
       },
@@ -92,7 +92,7 @@
             "background": "rgba(0,0,0,0)",
             "text_color": "rgba(0,0,0,0)",
             "alignment": "left",
-            "vertical_position": "start"
+            "vertical_position": "center"
           }
         },
         "0c9ef697-21c4-4fd3-83ef-0b34149c4311": {
@@ -107,7 +107,7 @@
             "background": "rgba(0,0,0,0)",
             "text_color": "rgba(0,0,0,0)",
             "alignment": "left",
-            "vertical_position": "start"
+            "vertical_position": "center"
           }
         }
       },
