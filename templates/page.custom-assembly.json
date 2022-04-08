@@ -94,8 +94,8 @@
             "title": "KittaParts",
             "heading_size": "small",
             "text": "<p><a href=\"https:\/\/like-butter-pty-ltd.myshopify.com\/pages\/how-to-kittaparts\" title=\"How to KittaParts\">How-to Kittaparts<\/a> -- an instruction guide to putting your KittaParts together.<\/p><p><a href=\"https:\/\/like-butter-pty-ltd.myshopify.com\/pages\/nine-ways-to-kitta\" title=\"Nine Ways to Kitta\">Nine Ways to Kitta<\/a> -- configuration examples for your kit.<\/p><p><a href=\"https:\/\/www.youtube.com\/watch?v=Atr-WxdGspY&feature=youtu.be\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=Atr-WxdGspY&feature=youtu.be\">How to Kitta your KittaParts<\/a> -- assembly video<\/p>",
-            "button_label": "",
-            "link": "",
+            "button_label": "View KittaParts",
+            "link": "shopify:\/\/products\/kittaparts",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
             "text_color": "rgba(0,0,0,0)",
@@ -142,7 +142,7 @@
           "type": "text",
           "settings": {
             "title": "Standing Desk",
-            "heading_size": "regular",
+            "heading_size": "small",
             "text": "<p><a href=\"https:\/\/www.instagram.com\/p\/Bso6f8MH3z-\/\" title=\"Standing Desk assembly video\">Standing Desk assembly video<\/a> (Instagram)<\/p>",
             "button_label": "View the Standing Desk",
             "link": "shopify:\/\/products\/standing-desk",
@@ -150,7 +150,7 @@
             "background": "rgba(0,0,0,0)",
             "text_color": "rgba(0,0,0,0)",
             "alignment": "left",
-            "vertical_position": "center"
+            "vertical_position": "start"
           }
         }
       },
