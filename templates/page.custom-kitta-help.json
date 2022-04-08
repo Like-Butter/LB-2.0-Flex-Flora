@@ -109,9 +109,9 @@
           "settings": {
             "title": "Assembly",
             "heading_size": "regular",
-            "text": "<p>Start from the bottom, keep it playful, try a few simple shapes to get a feel for it. The drawing below is just one of many configurations. If you are feeling stuck, try making this first. Start with a medium shelf and thread the dowels marked in grey onto the shelf.<\/p><p><em>Important<\/em> - be gentle, the timber threads don't like being overtightened, so twist until firm and secure but no need for heroics; you will strip the threads.<\/p>",
-            "button_label": "",
-            "link": "",
+            "text": "<p>Start from the bottom, keep it playful, try a few simple shapes to get a feel for it. The drawing below is just one of many configurations. If you are feeling stuck, try making this first. Start with a medium shelf and thread the dowels marked in grey onto the diagram.<\/p><p><em>Important<\/em> - be gentle, the timber threads don't like being overtightened, so twist until firm and secure but no need for heroics; you will strip the threads.<\/p>",
+            "button_label": "Need inspo? Nine Ways to Kitta",
+            "link": "shopify:\/\/pages\/nine-ways-to-kitta",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
             "text_color": "rgba(0,0,0,0)",
@@ -123,6 +123,54 @@
       "block_order": [
         "1649391654e28b972f-1",
         "1649391654e28b972f-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164939214933201e8a": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "1649392149694875aa-0": {
+          "type": "image",
+          "settings": {
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "1649392149694875aa-1": {
+          "type": "image",
+          "settings": {
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "1649392149694875aa-2": {
+          "type": "text",
+          "settings": {
+            "title": "Thread Balm",
+            "heading_size": "small",
+            "text": "<p>The threads wear in with use and may be tight in the first few builds. Apply a little Kitta Thread Balm beeswax to each male thread the first time you use them. The threads will thank you for it!<\/p>",
+            "button_label": "View all",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1649392149694875aa-0",
+        "1649392149694875aa-1",
+        "1649392149694875aa-2"
       ],
       "settings": {
         "width": "standard",
@@ -139,6 +187,7 @@
     "main",
     "1649391507a0200292",
     "1649391613363da031",
-    "16493916545c5ba30f"
+    "16493916545c5ba30f",
+    "164939214933201e8a"
   ]
 }
