@@ -73,7 +73,7 @@
         "padding_bottom": 0,
         "animation": "none",
         "css_class": "",
-        "custom_css": ""
+        "custom_css": "{background: #e4e9e6}"
       }
     },
     "1649382990fa618fbe": {
@@ -137,7 +137,7 @@
         "padding_bottom": 0,
         "animation": "none",
         "css_class": "",
-        "custom_css": ""
+        "custom_css": "{background: #e4e9e6}"
       }
     },
     "16493811252c803eba": {
@@ -201,7 +201,7 @@
         "padding_bottom": 0,
         "animation": "none",
         "css_class": "",
-        "custom_css": "{background: #e6e6e6}"
+        "custom_css": "{background: #e4e9e6}"
       }
     },
     "1649378295adcbda38": {
