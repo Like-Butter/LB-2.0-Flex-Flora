@@ -30,8 +30,17 @@
             "vertical_position": "start"
           }
         },
+        "2142a2cd-dac6-440c-9349-6904ddd36020": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Custom_stools_0158b171-4f40-4948-817e-a99d000da67c.jpg",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
         "762bfcd6-3d21-4a03-9cb1-66a571ec46cc": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "&nbsp;",
             "heading_size": "small",
@@ -48,6 +57,7 @@
       },
       "block_order": [
         "164878694945b7ed6c-2",
+        "2142a2cd-dac6-440c-9349-6904ddd36020",
         "762bfcd6-3d21-4a03-9cb1-66a571ec46cc"
       ],
       "settings": {
