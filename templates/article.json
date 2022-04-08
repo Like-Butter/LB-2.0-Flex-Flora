@@ -2,6 +2,7 @@
   "sections": {
     "banner": {
       "type": "fallback_image_banner",
+      "disabled": true,
       "settings": {
         "image_darken": true,
         "width": "wide",
