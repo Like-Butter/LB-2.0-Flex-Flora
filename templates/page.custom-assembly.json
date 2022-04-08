@@ -12,32 +12,9 @@
         "custom_css": ""
       }
     },
-    "1649378295adcbda38": {
-      "type": "index__heading",
-      "settings": {
-        "preheading": "",
-        "title": "Video Help",
-        "subheading": "<p>Additional text or description of section<\/p>",
-        "preheading_color": "rgba(0,0,0,0)",
-        "heading_color": "rgba(0,0,0,0)",
-        "subheading_color": "rgba(0,0,0,0)",
-        "background": "rgba(0,0,0,0)",
-        "gradient": "rgba(0,0,0,0)",
-        "gradient_rotation": 0,
-        "heading_alignment": "start",
-        "vertical_spacing": "medium",
-        "width": "standard",
-        "padding_top": 20,
-        "padding_bottom": 10,
-        "padding_left": 0,
-        "padding_right": 0,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "1649379094187a668e": {
       "type": "index__rich-text",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_font": "futura_n4",
@@ -79,21 +56,6 @@
             "image_link": ""
           }
         },
-        "1649378303b69e8638-2": {
-          "type": "text",
-          "settings": {
-            "title": "The Shelves",
-            "heading_size": "regular",
-            "text": "<p>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/2UR.pdf?v=1629695887\" title=\"2UR assembly instructions\">The Shelves 2UR<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR.pdf?v=1629695887\" title=\"3UR assembly instructions\">The Shelves 3UR <\/a>(PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR900.pdf?v=1629695887\" title=\"3UR Short assembly instructions\">The Shelves 3UR Short<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR.pdf?v=1629695887\" title=\"4UR assembly instructions\">The Shelves 4UR<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR900.pdf?v=1629695887\" title=\"4UR Short assembly instructions\">The Shelves 4UR Short<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/5UR.pdf?v=1629695887\" title=\"5UR assembly instructions\">The Shelves 5UR<\/a> (PDF)<\/p>",
-            "button_label": "",
-            "link": "",
-            "button_style": "button--primary",
-            "background": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "start"
-          }
-        },
         "0c9ef697-21c4-4fd3-83ef-0b34149c4311": {
           "type": "text",
           "settings": {
@@ -108,18 +70,105 @@
             "alignment": "left",
             "vertical_position": "start"
           }
+        },
+        "1649378303b69e8638-2": {
+          "type": "text",
+          "settings": {
+            "title": "The Shelves",
+            "heading_size": "regular",
+            "text": "<p>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/2UR.pdf?v=1629695887\" title=\"2UR assembly instructions\">The Shelves 2UR<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR.pdf?v=1629695887\" title=\"3UR assembly instructions\">The Shelves 3UR <\/a>(PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR900.pdf?v=1629695887\" title=\"3UR Short assembly instructions\">The Shelves 3UR Short<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR.pdf?v=1629695887\" title=\"4UR assembly instructions\">The Shelves 4UR<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR900.pdf?v=1629695887\" title=\"4UR Short assembly instructions\">The Shelves 4UR Short<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/5UR.pdf?v=1629695887\" title=\"5UR assembly instructions\">The Shelves 5UR<\/a> (PDF)<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
         }
       },
       "block_order": [
         "1649378303b69e8638-0",
-        "1649378303b69e8638-2",
-        "0c9ef697-21c4-4fd3-83ef-0b34149c4311"
+        "0c9ef697-21c4-4fd3-83ef-0b34149c4311",
+        "1649378303b69e8638-2"
       ],
       "settings": {
         "width": "standard",
         "show_gutter": false,
         "padding_top": 20,
         "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": "{background: #C7D2CC;}"
+      }
+    },
+    "1649380440df9b5ad6": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "164938044077cb863b-2": {
+          "type": "text",
+          "settings": {
+            "title": "Flet Bed",
+            "heading_size": "regular",
+            "text": "<p> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/FletBed_AssemblyInstructions.pdf?v=1625623889\" title=\"Flet bed assembly instructions\">Flet bed assembly instructions<\/a>(PDF) <br\/><\/p><p>Specification sheets (PDF)<br\/><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/Flet_Bed_-_King.pdf?v=1615762584\" title=\"King specification sheet\">King<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/Flet_Bed_-_Queen.pdf?v=1615762584\" title=\"Queen specification sheet\">Queen<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/Flet_Bed_-_Double.pdf?v=1615762584\" title=\"Double specification sheet\">Double<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/Flet_Bed_-_King_Single.pdf?v=1615762584\" title=\"King Single specification sheet\">King Single<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/Flet_Bed_-_Single.pdf?v=1615762584\" title=\"Single specification sheet\">Single<\/a><\/p>",
+            "button_label": "View all",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        },
+        "b639a864-68ef-4efa-94d8-d5a937da4987": {
+          "type": "text",
+          "settings": {
+            "title": "Standing Desk",
+            "heading_size": "regular",
+            "text": "<p><a href=\"https:\/\/www.instagram.com\/p\/Bso6f8MH3z-\/\" title=\"Standing Desk assembly video\">Standing Desk assembly video<\/a><\/p>",
+            "button_label": "View all",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        }
+      },
+      "block_order": [
+        "164938044077cb863b-2",
+        "b639a864-68ef-4efa-94d8-d5a937da4987"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": "{background: #e6e6e6}"
+      }
+    },
+    "1649378295adcbda38": {
+      "type": "index__heading",
+      "settings": {
+        "preheading": "",
+        "title": "Video Help",
+        "subheading": "<p>Additional text or description of section<\/p>",
+        "preheading_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "subheading_color": "rgba(0,0,0,0)",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "heading_alignment": "start",
+        "vertical_spacing": "medium",
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 10,
+        "padding_left": 0,
+        "padding_right": 0,
         "animation": "none",
         "css_class": "",
         "custom_css": ""
@@ -337,9 +386,10 @@
   },
   "order": [
     "main",
-    "1649378295adcbda38",
     "1649379094187a668e",
     "1649378303a1a58ffd",
+    "1649380440df9b5ad6",
+    "1649378295adcbda38",
     "16493122250b957529",
     "1649376699c1a7250f",
     "1649376784ec7d2b6d",
