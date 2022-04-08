@@ -75,6 +75,7 @@
         "1649378303b69e8638-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/The_Shelves_family.png",
             "image_crop": "none",
             "image_link": ""
           }
