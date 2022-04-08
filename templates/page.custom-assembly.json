@@ -94,51 +94,54 @@
         "custom_css": "{background: #fede4d}"
       }
     },
-    "16493761240870c9fb": {
-      "type": "index__slideshow-with-text",
+    "16493762675467e805": {
+      "type": "index__testimonial",
       "blocks": {
-        "1649376124260ff755-0": {
+        "16493762671692cbfd-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/dummy_1600x900_ffffff_cccccc_video-1600-900.png",
-            "pretext": "",
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/Birch-Yellow-Film.jpg",
+            "quote": "",
+            "text": "<p><strong>Customer name<\/strong><\/p><p><em>More info about them could go here.<\/em><\/p><p>customerlink.com<\/p>",
+            "info_text": "rgba(0,0,0,0)",
+            "info_background": "rgba(0,0,0,0)"
           }
         },
-        "1649376124260ff755-1": {
+        "16493762671692cbfd-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/dummy_1600x900_ffffff_cccccc_video-1600-900.png",
-            "pretext": "",
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
+            "quote": "",
+            "text": "<p><strong>Customer name<\/strong><\/p><p><em>More info about them could go here.<\/em><\/p><p>customerlink.com<\/p>",
+            "info_text": "rgba(0,0,0,0)",
+            "info_background": "rgba(0,0,0,0)"
+          }
+        },
+        "16493762671692cbfd-2": {
+          "type": "image",
+          "settings": {
+            "quote": "",
+            "text": "<p><strong>Customer name<\/strong><\/p><p><em>More info about them could go here.<\/em><\/p><p>customerlink.com<\/p>",
+            "info_text": "rgba(0,0,0,0)",
+            "info_background": "rgba(0,0,0,0)"
           }
         }
       },
       "block_order": [
-        "1649376124260ff755-0",
-        "1649376124260ff755-1"
+        "16493762671692cbfd-0",
+        "16493762671692cbfd-1",
+        "16493762671692cbfd-2"
       ],
       "settings": {
-        "background_color": "#EEEEEE",
-        "text_color": "rgba(0,0,0,0)",
-        "text_alignment": "center",
-        "text_transition": "fadeIn",
-        "button_style": "button--primary",
-        "show_nav_buttons": true,
-        "image_position": "right",
-        "image_transition": "slide",
-        "image_slideshow_speed": 8,
-        "show_arrows": true,
+        "show_border": true,
+        "enable_images": true,
+        "crop_shape": "square",
+        "card_alignment": "left",
+        "card_text": "rgba(0,0,0,0)",
+        "card_background": "rgba(0,0,0,0)",
         "width": "standard",
-        "show_gutter": true,
         "padding_top": 20,
         "padding_bottom": 20,
+        "animation": "none",
         "css_class": "",
         "custom_css": ""
       }
@@ -148,6 +151,6 @@
     "main",
     "16493122250b957529",
     "16492958548d32f74f",
-    "16493761240870c9fb"
+    "16493762675467e805"
   ]
 }
