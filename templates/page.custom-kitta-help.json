@@ -15,6 +15,30 @@
     "1649391507a0200292": {
       "type": "index__image-with-text",
       "blocks": {
+        "6c2cc0af-58b1-4f02-9274-bd0d534f8f7c": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "heading_size": "regular",
+            "text": "",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        },
+        "1649391507ee64b0c8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KittaParts_exploded_diagram_a7c97593-7342-4c45-89bd-312cb5940591.png",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
         "1649391507ee64b0c8-2": {
           "type": "text",
           "settings": {
@@ -29,19 +53,12 @@
             "alignment": "left",
             "vertical_position": "start"
           }
-        },
-        "1649391507ee64b0c8-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/KittaParts_exploded_diagram_a7c97593-7342-4c45-89bd-312cb5940591.png",
-            "image_crop": "none",
-            "image_link": ""
-          }
         }
       },
       "block_order": [
-        "1649391507ee64b0c8-2",
-        "1649391507ee64b0c8-0"
+        "6c2cc0af-58b1-4f02-9274-bd0d534f8f7c",
+        "1649391507ee64b0c8-0",
+        "1649391507ee64b0c8-2"
       ],
       "settings": {
         "width": "standard",
@@ -96,14 +113,6 @@
     "16493916545c5ba30f": {
       "type": "index__image-with-text",
       "blocks": {
-        "1649391654e28b972f-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/KittaParts_assembly_starting_point.png",
-            "image_crop": "none",
-            "image_link": ""
-          }
-        },
         "1649391654e28b972f-2": {
           "type": "text",
           "settings": {
@@ -118,17 +127,41 @@
             "alignment": "left",
             "vertical_position": "center"
           }
+        },
+        "bd1fadcf-1665-48a8-aa01-475f729468ea": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "heading_size": "regular",
+            "text": "",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        },
+        "1649391654e28b972f-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KittaParts_assembly_starting_point.png",
+            "image_crop": "none",
+            "image_link": ""
+          }
         }
       },
       "block_order": [
-        "1649391654e28b972f-1",
-        "1649391654e28b972f-2"
+        "1649391654e28b972f-2",
+        "bd1fadcf-1665-48a8-aa01-475f729468ea",
+        "1649391654e28b972f-1"
       ],
       "settings": {
         "width": "standard",
         "show_gutter": true,
         "padding_top": 0,
-        "padding_bottom": 0,
+        "padding_bottom": 20,
         "animation": "none",
         "css_class": "",
         "custom_css": ""
@@ -173,7 +206,7 @@
             "title": "Caring for your KittaParts",
             "heading_size": "small",
             "text": "<p>Visit our <a href=\"https:\/\/likebutter.com.au\/pages\/maintenance-and-care\">Care and Maintenance<\/a> page to learn about how to look after your new furniture.<\/p>",
-            "button_label": "View all",
+            "button_label": "",
             "link": "",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
@@ -201,21 +234,6 @@
     "1649392400738ddf0d": {
       "type": "index__image-with-text",
       "blocks": {
-        "1649392400844adda9-2": {
-          "type": "text",
-          "settings": {
-            "title": "Caring for your KittaParts",
-            "heading_size": "small",
-            "text": "<p>Visit our <a href=\"https:\/\/likebutter.com.au\/pages\/maintenance-and-care\">Care and Maintenance<\/a> page to learn about how to look after your new furniture.<\/p>",
-            "button_label": "",
-            "link": "",
-            "button_style": "button--primary",
-            "background": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "center"
-          }
-        },
         "53a81790-7bf4-4ce8-a06e-706311cafdcb": {
           "type": "text",
           "settings": {
@@ -233,7 +251,6 @@
         }
       },
       "block_order": [
-        "1649392400844adda9-2",
         "53a81790-7bf4-4ce8-a06e-706311cafdcb"
       ],
       "settings": {
