@@ -12,6 +12,37 @@
         "custom_css": ""
       }
     },
+    "1649379094187a668e": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "The Shelves",
+        "heading_font": "futura_n4",
+        "heading_color": "rgba(0,0,0,0)",
+        "heading_alignment": "left",
+        "heading_size": 30,
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut adipiscing convallis purus quis pretium. Nulla rutrum elit ut nunc egestas convallis. Ut non ante sit amet velit egestas blandit. Pellentesque non ligula sed quam ornare fermentum gravida ut urna. Aenean cursus malesuada purus non molestie. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam vitae consectetur urna. Integer sed interdum ligula, eu tempus quam.<\/p><p>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/2UR.pdf?v=1629695887\" title=\"2UR assembly instructions\">The Shelves 2UR<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR.pdf?v=1629695887\" title=\"3UR assembly instructions\">The Shelves 3UR<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR900.pdf?v=1629695887\" title=\"3UR Short assembly instructions\">The Shelves 3UR Short<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR.pdf?v=1629695887\" title=\"4UR assembly instructions\">The Shelves 4UR<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR900.pdf?v=1629695887\" title=\"4UR Short assembly instructions\">The Shelves 4UR Short<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/5UR.pdf?v=1629695887\" title=\"5UR assembly instructions\">The Shelves 5UR<\/a> (PDF)<\/p>",
+        "text_font": "futura_n4",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "left",
+        "text_size": 16,
+        "columns": 1,
+        "button_label": "",
+        "button_link": "",
+        "button_alignment": "left",
+        "button_style": "button--secondary",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "width": "wide",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "1649376788cac4ab82": {
       "type": "index__image-with-text",
       "blocks": {
@@ -361,41 +392,11 @@
         "css_class": "",
         "custom_css": "{background: #fede4d}"
       }
-    },
-    "1649379094187a668e": {
-      "type": "index__rich-text",
-      "settings": {
-        "title": "The Shelves",
-        "heading_font": "futura_n4",
-        "heading_color": "rgba(0,0,0,0)",
-        "heading_alignment": "left",
-        "heading_size": 30,
-        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut adipiscing convallis purus quis pretium. Nulla rutrum elit ut nunc egestas convallis. Ut non ante sit amet velit egestas blandit. Pellentesque non ligula sed quam ornare fermentum gravida ut urna. Aenean cursus malesuada purus non molestie. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam vitae consectetur urna. Integer sed interdum ligula, eu tempus quam.<\/p><p><\/p><p>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/2UR.pdf?v=1629695887\" title=\"2UR assembly instructions\">The Shelves 2UR<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR.pdf?v=1629695887\" title=\"3UR assembly instructions\">The Shelves 3UR<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR900.pdf?v=1629695887\" title=\"3UR Short assembly instructions\">The Shelves 3UR Short<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR.pdf?v=1629695887\" title=\"4UR assembly instructions\">The Shelves 4UR<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR900.pdf?v=1629695887\" title=\"4UR Short assembly instructions\">The Shelves 4UR Short<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/5UR.pdf?v=1629695887\" title=\"5UR assembly instructions\">The Shelves 5UR<\/a> (PDF)<\/p>",
-        "text_font": "futura_n4",
-        "text_color": "rgba(0,0,0,0)",
-        "text_alignment": "left",
-        "text_size": 16,
-        "columns": 1,
-        "button_label": "",
-        "button_link": "",
-        "button_alignment": "left",
-        "button_style": "button--secondary",
-        "background": "rgba(0,0,0,0)",
-        "gradient": "rgba(0,0,0,0)",
-        "gradient_rotation": 180,
-        "width": "wide",
-        "padding_top": 20,
-        "padding_bottom": 0,
-        "padding_left": 0,
-        "padding_right": 0,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
     }
   },
   "order": [
     "main",
+    "1649379094187a668e",
     "1649376788cac4ab82",
     "1649378303a1a58ffd",
     "1649378295adcbda38",
@@ -403,7 +404,6 @@
     "1649376699c1a7250f",
     "1649376784ec7d2b6d",
     "164937676683eda18f",
-    "16492958548d32f74f",
-    "1649379094187a668e"
+    "16492958548d32f74f"
   ]
 }
