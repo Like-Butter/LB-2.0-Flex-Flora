@@ -12,15 +12,39 @@
         "custom_css": ""
       }
     },
+    "1649378295adcbda38": {
+      "type": "index__heading",
+      "settings": {
+        "preheading": "",
+        "title": "Video Help",
+        "subheading": "<p>Additional text or description of section<\/p>",
+        "preheading_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "subheading_color": "rgba(0,0,0,0)",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "heading_alignment": "start",
+        "vertical_spacing": "medium",
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 10,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "1649379094187a668e": {
       "type": "index__rich-text",
       "settings": {
-        "title": "The Shelves",
+        "title": "",
         "heading_font": "futura_n4",
         "heading_color": "rgba(0,0,0,0)",
         "heading_alignment": "left",
-        "heading_size": 30,
-        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut adipiscing convallis purus quis pretium. Nulla rutrum elit ut nunc egestas convallis. Ut non ante sit amet velit egestas blandit. Pellentesque non ligula sed quam ornare fermentum gravida ut urna. Aenean cursus malesuada purus non molestie. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam vitae consectetur urna. Integer sed interdum ligula, eu tempus quam.<\/p><p>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/2UR.pdf?v=1629695887\" title=\"2UR assembly instructions\">The Shelves 2UR<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR.pdf?v=1629695887\" title=\"3UR assembly instructions\">The Shelves 3UR<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR900.pdf?v=1629695887\" title=\"3UR Short assembly instructions\">The Shelves 3UR Short<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR.pdf?v=1629695887\" title=\"4UR assembly instructions\">The Shelves 4UR<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR900.pdf?v=1629695887\" title=\"4UR Short assembly instructions\">The Shelves 4UR Short<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/5UR.pdf?v=1629695887\" title=\"5UR assembly instructions\">The Shelves 5UR<\/a> (PDF)<\/p>",
+        "heading_size": 32,
+        "text": "<p>Original page content currently hidden but will be brought back into production version.<\/p>",
         "text_font": "futura_n4",
         "text_color": "rgba(0,0,0,0)",
         "text_alignment": "left",
@@ -30,7 +54,7 @@
         "button_link": "",
         "button_alignment": "left",
         "button_style": "button--secondary",
-        "background": "rgba(0,0,0,0)",
+        "background": "#f5d6c0",
         "gradient": "rgba(0,0,0,0)",
         "gradient_rotation": 180,
         "width": "wide",
@@ -119,7 +143,7 @@
           "settings": {
             "title": "The Shelves",
             "heading_size": "regular",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>Use this text to share information about your brand with your customers. .<\/p><p>--<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/2UR.pdf?v=1629695887\" title=\"2UR assembly instructions\">The Shelves 2UR<\/a>(PDF)<br\/>--<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR.pdf?v=1629695887\" title=\"3UR assembly instructions\">The Shelves 3UR<\/a>(PDF)<br\/>--<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR900.pdf?v=1629695887\" title=\"3UR Short assembly instructions\">The Shelves 3UR Short<\/a>(PDF)<br\/>--<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR.pdf?v=1629695887\" title=\"4UR assembly instructions\">The Shelves 4UR<\/a>(PDF)<br\/>--<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR900.pdf?v=1629695887\" title=\"4UR Short assembly instructions\">The Shelves 4UR Short<\/a>(PDF)<br\/>--<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/5UR.pdf?v=1629695887\" title=\"5UR assembly instructions\">The Shelves 5UR<\/a>(PDF)<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--primary",
@@ -132,9 +156,9 @@
         "0c9ef697-21c4-4fd3-83ef-0b34149c4311": {
           "type": "text",
           "settings": {
-            "title": "",
+            "title": "KittaParts",
             "heading_size": "regular",
-            "text": "<p>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/2UR.pdf?v=1629695887\" title=\"2UR assembly instructions\">The Shelves 2UR<\/a> (PDF) <br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR.pdf?v=1629695887\" title=\"3UR assembly instructions\">The Shelves 3UR<\/a> (PDF)<br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR900.pdf?v=1629695887\" title=\"3UR Short assembly instructions\">The Shelves 3UR Short<\/a> (PDF) <br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR.pdf?v=1629695887\" title=\"4UR assembly instructions\">The Shelves 4UR<\/a> (PDF) <br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR900.pdf?v=1629695887\" title=\"4UR Short assembly instructions\">The Shelves 4UR Short<\/a> (PDF) <br\/>-- <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/5UR.pdf?v=1629695887\" title=\"5UR assembly instructions\">The Shelves 5UR<\/a> (PDF)<\/p>",
+            "text": "<p><a href=\"https:\/\/like-butter-pty-ltd.myshopify.com\/pages\/how-to-kittaparts\" title=\"How to KittaParts\">How-to Kittaparts<\/a><br\/>An instruction guide to KittaParts together.<\/p><p><a href=\"https:\/\/like-butter-pty-ltd.myshopify.com\/pages\/nine-ways-to-kitta\" title=\"Nine Ways to Kitta\">Nine Ways to Kitta<\/a><br\/>Nine configuration examples for your kit.<\/p><p><a href=\"https:\/\/www.youtube.com\/watch?v=Atr-WxdGspY&feature=youtu.be\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=Atr-WxdGspY&feature=youtu.be\">How to Kitta your KittaParts<br\/><\/a>Assembly video<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--primary",
@@ -152,33 +176,9 @@
       ],
       "settings": {
         "width": "standard",
-        "show_gutter": true,
+        "show_gutter": false,
         "padding_top": 20,
         "padding_bottom": 20,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "1649378295adcbda38": {
-      "type": "index__heading",
-      "settings": {
-        "preheading": "",
-        "title": "Video Help",
-        "subheading": "<p>Additional text or description of section<\/p>",
-        "preheading_color": "rgba(0,0,0,0)",
-        "heading_color": "rgba(0,0,0,0)",
-        "subheading_color": "rgba(0,0,0,0)",
-        "background": "rgba(0,0,0,0)",
-        "gradient": "rgba(0,0,0,0)",
-        "gradient_rotation": 0,
-        "heading_alignment": "start",
-        "vertical_spacing": "medium",
-        "width": "standard",
-        "padding_top": 20,
-        "padding_bottom": 10,
-        "padding_left": 0,
-        "padding_right": 0,
         "animation": "none",
         "css_class": "",
         "custom_css": ""
@@ -396,10 +396,10 @@
   },
   "order": [
     "main",
+    "1649378295adcbda38",
     "1649379094187a668e",
     "1649376788cac4ab82",
     "1649378303a1a58ffd",
-    "1649378295adcbda38",
     "16493122250b957529",
     "1649376699c1a7250f",
     "1649376784ec7d2b6d",
