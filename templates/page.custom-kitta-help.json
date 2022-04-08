@@ -143,7 +143,7 @@
             "title": "Thread Balm",
             "heading_size": "small",
             "text": "<p>The threads wear in with use and may be tight in the first few builds. Apply a little Kitta Thread Balm beeswax to each male thread the first time you use them. The threads will thank you for it!<\/p>",
-            "button_label": "View all",
+            "button_label": "",
             "link": "",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
@@ -181,6 +181,54 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "1649392400738ddf0d": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "1649392400844adda9-2": {
+          "type": "text",
+          "settings": {
+            "title": "Caring for your KittaParts",
+            "heading_size": "small",
+            "text": "<p>Visit our <a href=\"https:\/\/likebutter.com.au\/pages\/maintenance-and-care\">Care and Maintenance<\/a> page to learn about how to look after your new furniture.<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        },
+        "53a81790-7bf4-4ce8-a06e-706311cafdcb": {
+          "type": "text",
+          "settings": {
+            "title": "Heading text here",
+            "heading_size": "regular",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_label": "View all",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1649392400844adda9-2",
+        "53a81790-7bf4-4ce8-a06e-706311cafdcb"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -188,6 +236,7 @@
     "1649391507a0200292",
     "1649391613363da031",
     "16493916545c5ba30f",
-    "164939214933201e8a"
+    "164939214933201e8a",
+    "1649392400738ddf0d"
   ]
 }
