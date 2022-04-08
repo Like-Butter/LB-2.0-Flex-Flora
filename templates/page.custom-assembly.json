@@ -101,20 +101,21 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/dummy_1600x900_ffffff_cccccc_video-1600-900.png",
-            "pretext": "<p>Add a preheader<\/p>",
-            "title": "Slideshow with Text",
-            "text": "<p>Each slide can have its own text and button link. Use it to describe the product, collection, page, etc. that the image depicts.<\/p>",
-            "button_label": "Click here",
+            "pretext": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
             "button_link": ""
           }
         },
         "1649376124260ff755-1": {
           "type": "image",
           "settings": {
-            "pretext": "<p>Add a preheader<\/p>",
-            "title": "Second slide",
-            "text": "<p>Each slide can use different text to accompany the image.<\/p>",
-            "button_label": "Link to product",
+            "image": "shopify:\/\/shop_images\/dummy_1600x900_ffffff_cccccc_video-1600-900.png",
+            "pretext": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
             "button_link": ""
           }
         }
