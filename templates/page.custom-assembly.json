@@ -79,15 +79,6 @@
     "1649378303a1a58ffd": {
       "type": "index__image-with-text",
       "blocks": {
-        "1649378303b69e8638-0": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/The_Shelves_family.png",
-            "image_crop": "none",
-            "image_link": ""
-          }
-        },
         "0c9ef697-21c4-4fd3-83ef-0b34149c4311": {
           "type": "text",
           "settings": {
@@ -102,28 +93,10 @@
             "alignment": "left",
             "vertical_position": "start"
           }
-        },
-        "1649378303b69e8638-2": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "title": "The Shelves",
-            "heading_size": "regular",
-            "text": "<p>The Shelves assembly instructions (PDF)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/2UR.pdf?v=1629695887\" title=\"2UR assembly instructions\">2UR<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR.pdf?v=1629695887\" title=\"3UR assembly instructions\">3UR<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/3UR900.pdf?v=1629695887\" title=\"3UR Short assembly instructions\">3UR Short<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR.pdf?v=1629695887\" title=\"4UR assembly instructions\">4UR<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/4UR900.pdf?v=1629695887\" title=\"4UR Short assembly instructions\">4UR Short<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/5UR.pdf?v=1629695887\" title=\"5UR assembly instructions\">5UR<\/a> <\/p>",
-            "button_label": "",
-            "link": "",
-            "button_style": "button--primary",
-            "background": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "start"
-          }
         }
       },
       "block_order": [
-        "1649378303b69e8638-0",
-        "0c9ef697-21c4-4fd3-83ef-0b34149c4311",
-        "1649378303b69e8638-2"
+        "0c9ef697-21c4-4fd3-83ef-0b34149c4311"
       ],
       "settings": {
         "width": "standard",
@@ -174,25 +147,10 @@
           "type": "text",
           "settings": {
             "title": "Flet Bed",
-            "heading_size": "regular",
+            "heading_size": "small",
             "text": "<p> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/FletBed_AssemblyInstructions.pdf?v=1625623889\" title=\"Flet bed assembly instructions\">Flet bed assembly instructions<\/a> (PDF) <br\/><\/p><p>Specification sheets (PDF)<br\/><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/Flet_Bed_-_King.pdf?v=1615762584\" title=\"King specification sheet\">King<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/Flet_Bed_-_Queen.pdf?v=1615762584\" title=\"Queen specification sheet\">Queen<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/Flet_Bed_-_Double.pdf?v=1615762584\" title=\"Double specification sheet\">Double<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/Flet_Bed_-_King_Single.pdf?v=1615762584\" title=\"King Single specification sheet\">King Single<\/a> | <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0455\/9133\/0981\/files\/Flet_Bed_-_Single.pdf?v=1615762584\" title=\"Single specification sheet\">Single<\/a><\/p>",
-            "button_label": "",
-            "link": "",
-            "button_style": "button--primary",
-            "background": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "start"
-          }
-        },
-        "b639a864-68ef-4efa-94d8-d5a937da4987": {
-          "type": "text",
-          "settings": {
-            "title": "Standing Desk",
-            "heading_size": "regular",
-            "text": "<p><a href=\"https:\/\/www.instagram.com\/p\/Bso6f8MH3z-\/\" title=\"Standing Desk assembly video\">Standing Desk assembly video<\/a><\/p>",
-            "button_label": "View all",
-            "link": "",
+            "button_label": "View Flet Bed",
+            "link": "shopify:\/\/products\/flet-bed",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
             "text_color": "rgba(0,0,0,0)",
@@ -202,8 +160,7 @@
         }
       },
       "block_order": [
-        "164938044077cb863b-2",
-        "b639a864-68ef-4efa-94d8-d5a937da4987"
+        "164938044077cb863b-2"
       ],
       "settings": {
         "width": "standard",
@@ -447,6 +404,38 @@
         "css_class": "",
         "custom_css": "{background: #fede4d}"
       }
+    },
+    "164938313723e4a4fc": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "16493831374a4b8936-2": {
+          "type": "text",
+          "settings": {
+            "title": "Clip products",
+            "heading_size": "small",
+            "text": "<p>Relevant to all clip product range - Clip Crates, Clip Open Stack and Clip Simple Bedside<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16493831374a4b8936-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -461,6 +450,7 @@
     "1649376699c1a7250f",
     "1649376784ec7d2b6d",
     "164937676683eda18f",
-    "16492958548d32f74f"
+    "16492958548d32f74f",
+    "164938313723e4a4fc"
   ]
 }
