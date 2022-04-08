@@ -12,64 +12,6 @@
         "custom_css": ""
       }
     },
-    "1648786950cb3d1e8c": {
-      "type": "index__image-with-text",
-      "blocks": {
-        "164878694945b7ed6c-2": {
-          "type": "text",
-          "settings": {
-            "title": "Get a quote",
-            "heading_size": "small",
-            "text": "<p>To help us provide an accurate estimate, please complete the form below. One of our team members will respond to you as soon as possible and help guide your through the process of commissioning your custom piece or project.<\/p>",
-            "button_label": "Complete our quote request",
-            "link": "shopify:\/\/pages\/quote-request-form",
-            "button_style": "button--primary",
-            "background": "#fede4d",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "start"
-          }
-        },
-        "2142a2cd-dac6-440c-9349-6904ddd36020": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Custom_stools_0158b171-4f40-4948-817e-a99d000da67c.jpg",
-            "image_crop": "none",
-            "image_link": ""
-          }
-        },
-        "762bfcd6-3d21-4a03-9cb1-66a571ec46cc": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "title": "&nbsp;",
-            "heading_size": "small",
-            "text": "",
-            "button_label": "",
-            "link": "shopify:\/\/pages\/quote-request-form",
-            "button_style": "button--primary",
-            "background": "#fede4d",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "start"
-          }
-        }
-      },
-      "block_order": [
-        "164878694945b7ed6c-2",
-        "2142a2cd-dac6-440c-9349-6904ddd36020",
-        "762bfcd6-3d21-4a03-9cb1-66a571ec46cc"
-      ],
-      "settings": {
-        "width": "standard",
-        "show_gutter": false,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "164818170900ca9dc6": {
       "type": "index__image-with-text",
       "blocks": {
@@ -318,7 +260,7 @@
           "settings": {
             "title": "Request a quote",
             "heading_size": "regular",
-            "text": "<p>To help us provide an accurate estimate, please complete the form below. One of our team members will respond to you as soon as possible and help guide your through the process of commissioning your custom piece or project.<\/p>",
+            "text": "<p>In order for us to quote your custom jobs quickly, please submit the quote form. One of our team members will respond ASAP and help guide you through the process of commissioning your custom piece.<\/p><p>Deciding on a budget is tricky and we completely understand! All we can say is, it's incredibly helpful if you can have at least a rough budget ready to discuss with us. This can save a great deal of time and help us design and specify a result that is more likely to succeed, and fit your purpose.<\/p>",
             "button_label": "More about custom crates",
             "link": "shopify:\/\/pages\/custom-crates",
             "button_style": "button--primary",
@@ -328,26 +270,25 @@
             "vertical_position": "center"
           }
         },
-        "16481817271535dc75-0": {
-          "type": "image",
-          "disabled": true,
+        "6de729bc-4d7e-4379-b2b8-e51122a246b9": {
+          "type": "text",
           "settings": {
-            "image_crop": "center",
-            "image_link": ""
-          }
-        },
-        "16481817271535dc75-1": {
-          "type": "image",
-          "settings": {
-            "image_crop": "center",
-            "image_link": ""
+            "title": "Heading text here",
+            "heading_size": "regular",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_label": "View all",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
           }
         }
       },
       "block_order": [
         "16481817271535dc75-2",
-        "16481817271535dc75-0",
-        "16481817271535dc75-1"
+        "6de729bc-4d7e-4379-b2b8-e51122a246b9"
       ],
       "settings": {
         "width": "standard",
@@ -362,7 +303,6 @@
   },
   "order": [
     "main",
-    "1648786950cb3d1e8c",
     "164818170900ca9dc6",
     "16481817310b6f96be",
     "1648179958c32dfd97",
