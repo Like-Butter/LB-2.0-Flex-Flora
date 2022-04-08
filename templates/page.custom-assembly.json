@@ -53,6 +53,47 @@
         "custom_css": ""
       }
     },
+    "1649376699c1a7250f": {
+      "type": "index__video",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "autoplay": false,
+        "autoloop": true,
+        "mute_video": false,
+        "controls": true,
+        "iframe_video": "https:\/\/youtu.be\/1Q6q-cw5ydc",
+        "html5_video": "",
+        "pretext": "",
+        "title": "Featured video",
+        "subtitle": "Embed a Youtube or Vimeo video.",
+        "pretext_color": "#000000",
+        "heading_color": "#000000",
+        "subheading_color": "#000000",
+        "horizontal_text_position": "center",
+        "vertical_text_position": "center",
+        "text_align": "center",
+        "button_label": "Play Video",
+        "button_style": "button--secondary",
+        "overlay_style": "text_only",
+        "video_overlay_color": "#ffffff",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "background_opacity": 77,
+        "text_width": 70,
+        "mobile_text_below_video": true,
+        "pretext_color_mobile": "rgba(0,0,0,0)",
+        "heading_color_mobile": "rgba(0,0,0,0)",
+        "subheading_color_mobile": "rgba(0,0,0,0)",
+        "width": "half",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "16492958548d32f74f": {
       "type": "index__image-with-text",
       "blocks": {
@@ -94,53 +135,73 @@
         "custom_css": "{background: #fede4d}"
       }
     },
-    "16493762675467e805": {
-      "type": "index__testimonial",
-      "blocks": {
-        "16493762671692cbfd-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Birch-Yellow-Film.jpg",
-            "quote": "",
-            "text": "<p>Yellow Birch Ply<\/p>",
-            "info_text": "rgba(0,0,0,0)",
-            "info_background": "rgba(0,0,0,0)"
-          }
-        },
-        "16493762671692cbfd-1": {
-          "type": "image",
-          "settings": {
-            "quote": "",
-            "text": "<p><strong>Customer name<\/strong><\/p><p><em>More info about them could go here.<\/em><\/p><p>customerlink.com<\/p>",
-            "info_text": "rgba(0,0,0,0)",
-            "info_background": "rgba(0,0,0,0)"
-          }
-        },
-        "16493762671692cbfd-2": {
-          "type": "image",
-          "settings": {
-            "quote": "",
-            "text": "<p><strong>Customer name<\/strong><\/p><p><em>More info about them could go here.<\/em><\/p><p>customerlink.com<\/p>",
-            "info_text": "rgba(0,0,0,0)",
-            "info_background": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "16493762671692cbfd-0",
-        "16493762671692cbfd-1",
-        "16493762671692cbfd-2"
-      ],
+    "1649376544179c8b74": {
+      "type": "index__rich-text",
       "settings": {
-        "show_border": true,
-        "enable_images": true,
-        "crop_shape": "square",
-        "card_alignment": "left",
-        "card_text": "rgba(0,0,0,0)",
-        "card_background": "rgba(0,0,0,0)",
-        "width": "standard",
+        "title": "Rich text",
+        "heading_font": "open_sans_n4",
+        "heading_color": "rgba(0,0,0,0)",
+        "heading_alignment": "center",
+        "heading_size": 30,
+        "text": "<p>Use this section to create some callout text on your page, or add more details about your shop, services, promotions, etc. If you have a large amount of text, you can opt to have it display in <strong>two columns<\/strong> instead so that it's much easier to read.<\/p><p><\/p><p>This section also includes the option to add a button in primary or secondary style, and also control the colors, including the option for a gradient background. Since this is rich text, you can also <em>format it as you wish<\/em> and <a href=\"\/collections\/all\" title=\"All Products\">include links<\/a>.<\/p>",
+        "text_font": "open_sans_n4",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "left",
+        "text_size": 14,
+        "columns": 2,
+        "button_label": "",
+        "button_link": "",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "#EEEEEE",
+        "gradient": "#C0C0C0",
+        "gradient_rotation": 180,
+        "width": "wide",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164937676683eda18f": {
+      "type": "index__video",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "autoplay": false,
+        "autoloop": true,
+        "mute_video": false,
+        "controls": true,
+        "iframe_video": "https:\/\/www.youtube.com\/watch?v=8NxS0vrPcsA",
+        "html5_video": "",
+        "pretext": "",
+        "title": "Featured video",
+        "subtitle": "Embed a Youtube or Vimeo video.",
+        "pretext_color": "#000000",
+        "heading_color": "#000000",
+        "subheading_color": "#000000",
+        "horizontal_text_position": "center",
+        "vertical_text_position": "center",
+        "text_align": "center",
+        "button_label": "Play Video",
+        "button_style": "button--secondary",
+        "overlay_style": "text_only",
+        "video_overlay_color": "#ffffff",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "background_opacity": 77,
+        "text_width": 70,
+        "mobile_text_below_video": true,
+        "pretext_color_mobile": "rgba(0,0,0,0)",
+        "heading_color_mobile": "rgba(0,0,0,0)",
+        "subheading_color_mobile": "rgba(0,0,0,0)",
+        "width": "half",
         "padding_top": 20,
         "padding_bottom": 20,
+        "padding_left": 0,
+        "padding_right": 0,
         "animation": "none",
         "css_class": "",
         "custom_css": ""
@@ -150,7 +211,9 @@
   "order": [
     "main",
     "16493122250b957529",
+    "1649376699c1a7250f",
     "16492958548d32f74f",
-    "16493762675467e805"
+    "1649376544179c8b74",
+    "164937676683eda18f"
   ]
 }
