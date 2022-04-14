@@ -40,8 +40,8 @@
             "link": "",
             "image": "shopify:\/\/shop_images\/Like_Butter-4.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Like_Butter-5.jpg",
-            "pretext": "<p>Do you need help bringing a product to market?<\/p>",
-            "title": "Product Development",
+            "pretext": "",
+            "title": "Heirloom flat-packs",
             "subtitle": "<p>15 years of design and manufacturing experience.<\/p>",
             "pretext_color": "#000000",
             "heading_color": "#000000",
@@ -53,9 +53,9 @@
             "border_color": "#ffffff",
             "border_width": 0,
             "text_width": 40,
-            "button_1": "START THE CONVERSATION",
-            "button_1_link": "",
-            "button_1_style": "button--primary",
+            "button_1": "EXPLORE DESIGNS",
+            "button_1_link": "shopify:\/\/collections",
+            "button_1_style": "button--secondary",
             "button_2": "",
             "button_2_link": "",
             "button_2_style": "button--secondary",
@@ -131,7 +131,7 @@
           "type": "collection",
           "settings": {
             "feature_collection": "sleeping",
-            "image": "shopify:\/\/shop_images\/Test_2.gif",
+            "image": "shopify:\/\/shop_images\/Like_Butter_Bed_Bedside_Table.jpg",
             "title": "",
             "button_label": "View products"
           }
@@ -323,7 +323,8 @@
         "164757811975dd97a5-2": {
           "type": "image",
           "settings": {
-            "link": "",
+            "image": "shopify:\/\/shop_images\/Like_Butter_Sawdust_Compost_7911dc40-868a-408b-a119-5f1c0021a763.jpg",
+            "link": "shopify:\/\/pages\/for-the-planet",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
