@@ -247,8 +247,8 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "icon_label": "",
-          "text": "<p>New shelves at your door in under 3 days? We have a set of The Shelves 5UR (Radiata with a clear coat finish) - in stock and ready to dispatch. <\/p>",
+          "icon_label": "Sun",
+          "text": "<p>Made here with solar power.<\/p>",
           "alignment": "center",
           "size": "small",
           "button_label": "",
