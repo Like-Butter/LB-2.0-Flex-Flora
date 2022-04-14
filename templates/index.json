@@ -299,6 +299,7 @@
         "164757811975dd97a5-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Like_Butter_Staff_Jonny.jpg",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
@@ -306,18 +307,6 @@
             "icon_label": "",
             "title": "Designed and made locally",
             "text": "<p>We are designers who make, and makers who design. We interweave design and manufacture in-house, creating an environment for problem-solving that results in great (and often unexpected) outcomes.<\/p>"
-          }
-        },
-        "164757811975dd97a5-1": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "overlay_background": "rgba(0,0,0,0)",
-            "overlay_background_opacity": 70,
-            "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "",
-            "title": "Customise and play with us",
-            "text": "<p>We focus on continuous improvement through iteration and innovation – pushing the limits to make better things towards a better future.<\/p>"
           }
         },
         "164757811975dd97a5-2": {
@@ -332,12 +321,25 @@
             "title": "Low impact, long lasting furniture",
             "text": "<p>From our rooftop solar, to sourcing renewable materials, and waste reduction strategies – including experiments with onsite sawdust composting – we are always looking for ways to minimise our impact.<\/p>"
           }
+        },
+        "164757811975dd97a5-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Like_Butter_CNC_Routing-3.jpg",
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "",
+            "title": "Customise and play with us",
+            "text": "<p>We focus on continuous improvement through iteration and innovation – pushing the limits to make better things towards a better future.<\/p>"
+          }
         }
       },
       "block_order": [
         "164757811975dd97a5-0",
-        "164757811975dd97a5-1",
-        "164757811975dd97a5-2"
+        "164757811975dd97a5-2",
+        "164757811975dd97a5-1"
       ],
       "settings": {
         "border_radius": 0,
