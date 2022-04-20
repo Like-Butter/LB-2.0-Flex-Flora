@@ -251,6 +251,38 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "16504978154daf513c": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "16504978151583dec3-2": {
+          "type": "text",
+          "settings": {
+            "title": "What's in the Box?",
+            "heading_size": "small",
+            "text": "<p>[variant.metafields.lbmf.variant_parts]<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16504978151583dec3-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -260,6 +292,7 @@
     "recommendations",
     "1650496524a16abd39",
     "16504975763deefb5e",
-    "1650496539408b5b17"
+    "1650496539408b5b17",
+    "16504978154daf513c"
   ]
 }
