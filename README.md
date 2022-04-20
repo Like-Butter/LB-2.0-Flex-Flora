@@ -5,7 +5,20 @@ A new 2.0-ready theme for Like Butter, based on Flex 'Flora' (by Out of the Sand
 Customisations
 ======================
 
-File: `Sections/list-collections__main.liquid` 
+File: `snippet/custom__dynamic-product-metafields.liquid`
+File: `sections/product__main.liquid` 
+
+Call the scripts to handle dynamic metafields
+
+    {% comment %}LIke Butter customisation{% endcomment %}
+    {% render 'custom__dynamic-product-metafields', product: product %}
+
+Built by Satish Voddi (satish.voddi@storetasker.com), with thanks. 👏🏼
+
+---
+
+
+File: `sections/list-collections__main.liquid` 
 
 Add collection description to the collections template output
 
@@ -20,7 +33,7 @@ Exclude 'pre-order' collection from main collections output
 
 ---
 
-File: `Section/footer-classic.liquid.liquid`
+File: `section/footer-classic.liquid.liquid`
 
 Output template info
 
