@@ -1,3 +1,5 @@
+
+
 /* == UTILITIES ================= */
 
 /* hide elements */
@@ -5,7 +7,7 @@
 .description table,
 .footer__menu .footer__heading,
 .surface-pick-up {
-    display: none;
+	display: none;
 }
 
 /* force uppercase */
@@ -13,43 +15,32 @@ button *,
 .button,
 a.navbar-link.header__link,
 .rich-text__heading {
-    text-transform: uppercase;
+	text-transform: uppercase;
 }
 
 /* link styles */
+
 .faq-accordion a,
-#template-product .shopify-section:nth-child(3) a,
-#template-product .shopify-section:nth-child(4) a,
-#template-product .shopify-section:nth-child(5) a,
 .product-block .description a {
-    color: #fe7446;
-    border-bottom: 1px solid #fe7446;
+	color: #fe7446;
+ 	border-bottom: 1px solid #fe7446;
 }
+
 
 
 /* == HEADER ================= */
 
 .primary-logo .image-element__wrap img {
-    max-width: 45px;
+	max-width: 45px;
 }
 
 
 .mega-menu__linklist .menu__heading {
-    font-size: 14px;
-    text-transform: uppercase;
-    border-bottom: 1px solid #c7d2cc;
-    padding-bottom: 8px;
-    letter-spacing: 1px;
-}
-
-
-
-/* == APP: Instafeed.js ================= */
-
-/* push wrapper full width */
-.product-app--container .one-whole.column {
-    margin: 0;
-    width: 100%;
+	font-size: 14px;
+  	text-transform: uppercase;
+  	border-bottom: 1px solid #c7d2cc; 
+  	padding-bottom: 8px;
+	letter-spacing: 1px;
 }
 
 
@@ -57,99 +48,89 @@ a.navbar-link.header__link,
 /* == FOOTER ================= */
 
 .footer__block p {
-    margin-bottom: 5px;
+	margin-bottom: 5px;
 }
-
-@media only screen and (max-width: 480px) {
-    .footer__block p {}
-}
-
 
 .footer__heading {
-    color: #fff;
-    text-transform: uppercase;
-    letter-spacing: 1px;
+	color: #fff;
+  	text-transform: uppercase;
 }
 
+span.fineprint {}
+
+
+@media only screen and (max-width: 480px) {
+  span.fineprint {
+
+      display: block;
+  }
+}
 
 /* newsletter form */
+
 .footer__block .newsletter-form.is-responsive {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: nowrap;
-    border-bottom: 1px solid #fff;
+	display: flex;
+    justify-content: space-between;  
+    flex-wrap: nowrap; 
 }
 
 .footer__block .newsletter-form .field1,
 .footer__block .newsletter-form .field2 {
-    border: transparent;
+	border: transparent;
 }
 
 .footer__block .newsletter-form .field1 {
-    flex-grow: 1;
-}
+	flex-grow:1;
+    
+}  
 
-.footer__block .newsletter-form .field2 {}
+.footer__block .newsletter-form .field2 {
+
+} 
 
 .footer__block .newsletter-form {}
-
 .footer__block .newsletter-form .field1 .input {
     border: transparent;
-    background: transparent;
-    color: #ffffff;
-}
-
-.footer__block .newsletter-form .field1 .input:focus {
-    outline: none !important;
-    border: none;
-    box-shadow: none;
+  	border-bottom: 1px solid #ffffff;
+  	background: transparent;
+  	color: #ffffff;
 }
 
 .footer__block .newsletter-form .field1 .input.is-primary-btn-style {
-    padding-left: 0;
+	padding-left: 0;
 }
 
 .footer__block .newsletter-form .field2 .button {
-    background: #000;
-    text-transform: capitalize;
-}
+	background: #000;
+  	text-transform: capitalize;
+} 
 
-.footer__block .newsletter-form .input::-webkit-input-placeholder {
-    color: #fff;
+.footer__block .newsletter-form .input::-webkit-input-placeholder { /* Edge */
+  color: #fff;
 }
-
-.footer__block .newsletter-form .input:-ms-input-placeholder {
-    color: #fff;
+.footer__block .newsletter-form .input:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #fff;
 }
-
 .footer__block .newsletter-form .input::placeholder {
-    color: #fff;
-}
-
-.footer__menu a {
-	color: #fff;
+  color: #fff;
 }
 
 
 
-/* == AJAX CART ================= */
-.pledge-message {
-	margin-top: 30px; 
-  	padding: 10px;
-  	background: #edf1ee;
-  	color: #6b8575;
+/* == HOMEPAGE ================= */
 
+/* push Instafeed app full width */
+.product-app--container .one-whole.column {
+  	margin: 0;
+  	width: 100%;
 }
 
-.pledge-message img {
-  	margin-bottom: -6px;
-  	margin-right: 2px; 
-}
+
 
 
 /* == COLLECTIONS ================= */
 .customisation__collection-description {
-    margin-bottom: 24px;
+  	margin-bottom: 24px; 
 }
 
 
@@ -157,47 +138,47 @@ a.navbar-link.header__link,
 
 /* == PRODUCT ================= */
 
-/* main product */
-#template-product .shopify-section:nth-child(1) {}
 
-/* faq */
-#template-product .shopify-section:nth-child(2) {}
 
-/* designer */
-#template-product .shopify-section:nth-child(3) {
-    background: #C7D2CC;
+
+#template-product .shopify-section:nth-child(even){
+  	background: #C7D2CC;
 }
 
-/* materials */
-#template-product .shopify-section:nth-child(4) {
-    background: #6b8575;
+#template-product .shopify-section:nth-child(odd){
+  	background: #e6e6e6;
 }
 
-/* shipping */
-#template-product .shopify-section:nth-child(5) {
-    background: #e6e6e6;
+#template-product .shopify-section.product-main{
+  	background: #fff;
 }
 
+/* #template-product .shopify-section .image-with-text__text strong {
+    font-weight: normal;
+    font-family: monospace;
+    font-size: 11px; 
+    background: pink;
+}
 
+#template-product .shopify-section .image-with-text__text em {
+    font-weight: normal;
+    font-family: monospace;
+    font-size: 11px; 
+    background: #E0B0FF ;
+} */
 
 .accordion dt a,
 .accordion dt button,
 .faq-accordion dt a,
 .faq-accordion dt button {
-    font-size: 1rem;
+  	font-size: 1rem;
 }
 
 .lead-time {
-    background: #C7D2CC;
-    padding: 10px;
+	background: #C7D2CC;
+  	padding: 10px; 
 }
 
-
-
-/* custom-assembly.json */
-.title.video__title.banner__heading {
-	font-size: 25px; 
-}
 
 
 
@@ -223,15 +204,38 @@ a.navbar-link.header__link,
 .is-hidden-desktop-only 
 */
 
-/* testing */
+
+
+/* .shopify-section.image-with-text.image-with-text-1:first-child {
+	border: 3px solid red;
+}
+ */
+
+/* .shopify-section .image-with-text
+.bg_yellow {
+	background: #fede4d;
+}
+.bg_black {
+	background: #1e1e1e;
+}
+.bg_green {
+	background: #6b8575;
+}
+.bg_grey {
+	background: #716c69;
+}
+ */
+
+/* testing 
 @media only screen and (max-width: 798px) {
-    .test {
-        background: aqua;
-    }
+  .test {
+  	background: aqua;
+  }
 }
 
 @media only screen and (max-width: 480px) {
-    .test {
-        background: pink;
-    }
+  .test {
+  	background: pink;
+  }
 }
+*/
