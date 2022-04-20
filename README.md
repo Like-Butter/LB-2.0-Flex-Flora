@@ -6,6 +6,7 @@ Customisations
 ======================
 
 File: `snippet/custom__dynamic-product-metafields.liquid`
+
 File: `sections/product__main.liquid` 
 
 Call the scripts to handle dynamic metafields
