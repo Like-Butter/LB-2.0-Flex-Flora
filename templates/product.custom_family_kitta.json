@@ -1,0 +1,298 @@
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "product__breadcrumb",
+      "disabled": true,
+      "settings": {
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "sidebar": {
+      "type": "product__sidebar",
+      "disabled": true,
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "product__main",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_payment_button": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "form",
+        "description"
+      ],
+      "settings": {
+        "product_images_position": "left",
+        "set_product_height": false,
+        "product_height": 500,
+        "video_looping": false,
+        "gallery_arrows": true,
+        "enable_zoom": true,
+        "enable_product_lightbox": true,
+        "slideshow_speed": 0,
+        "slideshow_transition": "fade",
+        "display_thumbnails": false,
+        "thumbnail_position": "bottom-thumbnails",
+        "enable_thumbnail_slider": true,
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650496524a16abd39": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "1650496524700edea7-2": {
+          "type": "text",
+          "settings": {
+            "title": "Shipping",
+            "heading_size": "small",
+            "text": "<p>Order today for dispatch\/collection in approximately [variant.metafields.lbmf.variant_leadtime] from payment confirmation.<\/p><p>Our workshop operates from Monday to Thursday to allow our team to enjoy the benefits of work\/life balance.<\/p>",
+            "button_label": "More about shipping",
+            "link": "shopify:\/\/policies\/shipping-policy",
+            "button_style": "button--link-style",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        },
+        "aef647ce-24e9-4064-8616-e076afb070d8": {
+          "type": "text",
+          "settings": {
+            "title": "Delivery",
+            "heading_size": "small",
+            "text": "<p>Local delivery is available for orders over $500. This option will show in the checkout for orders that qualify. We will be in touch in due course to arrange a suitable delivery day and time.<\/p><p>Note that Melbourne deliveries are usually on a Tuesday.<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        },
+        "00f5ae30-f3d1-4bed-a322-53b367a275fa": {
+          "type": "text",
+          "settings": {
+            "title": "Pick-up",
+            "heading_size": "small",
+            "text": "<p>Pick-up is available Monday to Thursday from <a href=\"https:\/\/like-butter-pty-ltd.myshopify.com\/pages\/contact\">Kensington<\/a> or <a href=\"https:\/\/like-butter-pty-ltd.myshopify.com\/pages\/contact\">Castlemaine<\/a> between 8am and 4pm by appointment only.<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1650496524700edea7-2",
+        "aef647ce-24e9-4064-8616-e076afb070d8",
+        "00f5ae30-f3d1-4bed-a322-53b367a275fa"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16504975763deefb5e": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "1650497576f7924158-2": {
+          "type": "text",
+          "settings": {
+            "title": "Materials",
+            "heading_size": "small",
+            "text": "<p>[variant.metafields.lbmf.variant_materials]<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        },
+        "8e54c038-38d8-46cf-a543-e1f265a3454a": {
+          "type": "text",
+          "settings": {
+            "title": "Dimensions",
+            "heading_size": "small",
+            "text": "<p>[variant.metafields.lbmf.variant_dimensions]<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        },
+        "4b0d5722-14fb-4bae-bd7e-a6ebe30b3f8f": {
+          "type": "text",
+          "settings": {
+            "title": "Helpful Links",
+            "heading_size": "small",
+            "text": "<p>[variant.metafields.lbmf.variant_links]<\/p>",
+            "button_label": "Maintenance and Care",
+            "link": "shopify:\/\/pages\/maintenance-and-care",
+            "button_style": "button--link-style",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1650497576f7924158-2",
+        "8e54c038-38d8-46cf-a543-e1f265a3454a",
+        "4b0d5722-14fb-4bae-bd7e-a6ebe30b3f8f"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650496539408b5b17": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "165049653998c9f677-2": {
+          "type": "text",
+          "settings": {
+            "title": "Designer",
+            "heading_size": "small",
+            "text": "<p>[product.metafields.lbmf.product_designer]<\/p>",
+            "button_label": "Meet the team",
+            "link": "shopify:\/\/pages\/about-us",
+            "button_style": "button--link-style",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        }
+      },
+      "block_order": [
+        "165049653998c9f677-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16504978154daf513c": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "16504978151583dec3-2": {
+          "type": "text",
+          "settings": {
+            "title": "What's in the Box?",
+            "heading_size": "small",
+            "text": "<p>[variant.metafields.lbmf.variant_parts]<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16504978151583dec3-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "recommendations": {
+      "type": "product__recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_style": "grid",
+        "product_recommendations_heading": "Similar to {{ product.title }}",
+        "products_per": 4,
+        "recommended_products_limit": 4,
+        "align_height": false,
+        "collection_height": 200,
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "sidebar",
+    "main",
+    "1650496524a16abd39",
+    "16504975763deefb5e",
+    "1650496539408b5b17",
+    "16504978154daf513c",
+    "recommendations"
+  ]
+}
