@@ -1,0 +1,126 @@
+{%- capture product_metafields -%}
+lbmf.product_designer,
+lbmf.product_leadtime,
+lbmf.product_dimensions,
+lbmf.product_links,
+lbmf.product_materials
+{%- endcapture -%}
+
+{%- capture variant_metafields -%}
+lbmf.variant_parts,
+lbmf.variant_leadtime,
+lbmf.variant_dimensions,
+lbmf.variant_links,
+lbmf.variant_materials
+{%- endcapture -%}
+
+<script>
+  (function() {
+    function $el(selector) {
+      return document.querySelectorAll(selector);
+    }
+    
+    function LoadMetafieldContent(metafield_config, metafield_content) {
+      var elements = Array.from($el('p'));
+      
+      const matching_text = 'variant.metafields.' + metafield_content.name;
+      const matching_elems = elements.filter(el => {
+        return el.dataset.metafield == metafield_config || el.innerHTML.indexOf(metafield_config) !== -1;
+      });
+
+      //console.log(item, matching_elems);
+      matching_elems.forEach(el => {
+        let to_replace = `[${metafield_config}]`;
+        if (el.innerHTML == to_replace || el.dataset.metafield == metafield_config) {
+          el.dataset.metafield = metafield_config;
+          el.innerHTML = `${metafield_content.value}`;
+        }
+        else if (el.innerHTML.indexOf(to_replace) !== -1) {
+          el.innerHTML = el.innerHTML.replace(to_replace, `<span data-metafield="${metafield_config}">${metafield_content.value}</span>`);
+        }
+        else {
+          el.querySelectorAll('[data-metafield]').forEach(function(el_mf) {
+            el_mf.innerHTML = `${metafield_content.value}`;
+          });
+        }
+      });      
+    }
+    
+    {% assign product_metafields = product_metafields | strip_newlines | split: ',' %}
+    var product_metafields = [];
+    
+    {% for mf in product_metafields %}
+    {% assign namespace = mf | split: '.' | first %}
+    {% assign key = mf | split: '.' | last %}
+    var p_item = {
+      name: `{{ mf }}`.trim(),
+      namespace: `{{ namespace }}`,
+      key: `{{ key }}`,
+      value: `{{ product.metafields[namespace][key] | newline_to_br }}`
+    };
+    product_metafields.push(p_item);
+    {% endfor %}
+    //console.log(product_metafields);
+    
+    {% assign current_variant = product.selected_or_first_available_variant %}
+    var current_variant = {{ current_variant | json }};
+    
+    {% assign variant_metafields = variant_metafields | strip_newlines | split: ',' %}
+    var variant_metafields = [];
+    
+    {% for variant in product.variants %}
+      var variant = {
+        id: {{ variant.id }},
+        options: {{ variant.options | json }},
+        metafields: []
+      };
+    
+      {% for mf in variant_metafields %}
+      {% assign namespace = mf | split: '.' | first %}
+      {% assign key = mf | split: '.' | last %}
+      var v_item = {
+        name: `{{ mf }}`.trim(),
+        namespace: `{{ namespace }}`,
+        key: `{{ key }}`,
+        value: `{{ variant.metafields[namespace][key] | newline_to_br }}`
+      };
+      variant.metafields.push(v_item);
+      {% endfor %}    
+  	  variant_metafields.push(variant);
+    {% endfor %}
+    //console.log(variant_metafields);
+    
+    
+    function LoadProductMetafields() {
+      var elements = Array.from($el('p'));
+      product_metafields.forEach(function(metafield_content) {
+        const metafield_config = 'product.metafields.' + metafield_content.name;
+        LoadMetafieldContent(metafield_config, metafield_content);
+      });      
+    }
+    
+    function LoadVariantMetafields(current_variant) {
+      //var elements = Array.from($el('p'));
+      var current_variant_metafields = variant_metafields.find(function(v) {
+        return v.id == current_variant.id;
+      });
+      //console.log(current_variant_metafields);
+      
+      current_variant_metafields.metafields.forEach(function(metafield_content) {
+        const metafield_config = 'variant.metafields.' + metafield_content.name;
+        LoadMetafieldContent(metafield_config, metafield_content);
+      });
+    }
+    
+    // on load
+    document.addEventListener('DOMContentLoaded', function() {      
+      LoadProductMetafields();      
+      LoadVariantMetafields(current_variant);
+    });
+    
+    // on variant change
+    document.addEventListener('variant:change', function(e) {
+      LoadVariantMetafields(e.detail.variant);
+    });    
+  })();  
+</script>
