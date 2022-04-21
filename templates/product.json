@@ -22,7 +22,7 @@
       }
     },
     "main": {
-      "type": "product__main-custom",
+      "type": "product__main",
       "blocks": {
         "title": {
           "type": "title",
