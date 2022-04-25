@@ -1182,6 +1182,15 @@ function selectCallback(productEl, product, variant, state) {
   let notifyMessage = '';
   let notifyEmailInput = '';
 
+  
+  
+  
+  /* Like Butter customisation - fucntion to swap metafields on product templates */
+  document.dispatchEvent(new CustomEvent('variant:change', {detail: {productEl, product, variant, state}}));
+  
+  
+  
+  
   if (variant) {
     if (variant.title != null) {
       // Escape variant titles
