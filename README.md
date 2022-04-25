@@ -7,6 +7,12 @@ Customisations
 
 `snippet/custom__dynamic-product-metafields.liquid`
 
+Custom script to handle dynamic metafields
+
+`assets/utilies.js`
+
+New function to handle dynamic metafields
+
 `sections/product__main.liquid` 
 
 Call the scripts to handle dynamic metafields
