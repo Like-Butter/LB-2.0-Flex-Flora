@@ -5,7 +5,7 @@ A new 2.0-ready theme for Like Butter, based on Flex 'Flora' (by Out of the Sand
 # Dynamic metafields on product templates
 Built by Satish Voddi (satish.voddi@storetasker.com), with thanks. 👏🏼
 
-*FILE: assets/utilies.js*
+### FILE: assets/utilies.js
 
     document.dispatchEvent(new CustomEvent('variant:change', {detail: {productEl, product, variant, state}}));
 
