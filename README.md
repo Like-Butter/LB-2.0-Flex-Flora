@@ -1,7 +1,8 @@
 # LB-2.0-Flex-Flora
-
-A new 2.0-ready theme for Like Butter, based on Flex 'Flora' (by Out of the Sandbox)
 ======================
+A new 2.0-ready theme for Like Butter, based on Flex 'Flora' (by Out of the Sandbox)
+
+
 
 # Dynamic metafields on product templates
 Built by Satish Voddi (satish.voddi@storetasker.com), with thanks. 👏🏼
