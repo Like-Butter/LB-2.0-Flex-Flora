@@ -38,13 +38,6 @@ Exclude 'pre-order' collection from main collections output
     {% unless collection.handle == 'pre-order' %}
     {% endunless %}
 
----
-
-File: `section/footer-classic.liquid.liquid`
-
-Output template info
-
-     <code class="test">Template name: {{template}}</code>
 
 ---
 
