@@ -1,26 +1,15 @@
 # LB-2.0-Flex-Flora
 A new 2.0-ready theme for Like Butter, based on Flex 'Flora' (by Out of the Sandbox)
-
-
-Customisations
 ======================
 
 # Dynamic metafields on product templates
 
-snippet/custom__dynamic-product-metafields.liquid
-
-Custom script to handle dynamic metafields
-
-`assets/utilies.js`
+1. assets/utilies.js
 
     document.dispatchEvent(new CustomEvent('variant:change', {detail: {productEl, product, variant, state}}));
 
-
-New function to handle dynamic metafields
-
-`sections/product__main.liquid` 
-
-Call the scripts to handle dynamic metafields
+1. snippet/custom__dynamic-product-metafields.liquid
+1. sections/product__main.liquid
 
     {% comment %}LIke Butter customisation{% endcomment %}
     {% render 'custom__dynamic-product-metafields', product: product %}
