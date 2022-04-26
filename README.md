@@ -9,13 +9,12 @@ Built by Satish Voddi (satish.voddi@storetasker.com), with thanks. 👏🏼
 
     document.dispatchEvent(new CustomEvent('variant:change', {detail: {productEl, product, variant, state}}));
 
-*snippet/custom__dynamic-product-metafields.liquid*
 *sections/product__main.liquid*
 
     {% comment %}LIke Butter customisation{% endcomment %}
     {% render 'custom__dynamic-product-metafields', product: product %}
 
-
+*snippet/custom__dynamic-product-metafields.liquid*
 
 ---
 
