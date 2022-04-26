@@ -11,7 +11,7 @@ Custom script to handle dynamic metafields
 
 `assets/utilies.js`
 
-    `document.dispatchEvent(new CustomEvent('variant:change', {detail: {productEl, product, variant, state}}));`
+    document.dispatchEvent(new CustomEvent('variant:change', {detail: {productEl, product, variant, state}}));
 
 
 New function to handle dynamic metafields
