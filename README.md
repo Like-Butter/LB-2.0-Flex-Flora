@@ -5,7 +5,9 @@ A new 2.0-ready theme for Like Butter, based on Flex 'Flora' (by Out of the Sand
 Customisations
 ======================
 
-`snippet/custom__dynamic-product-metafields.liquid`
+# Dynamic metafields on product templates
+
+snippet/custom__dynamic-product-metafields.liquid
 
 Custom script to handle dynamic metafields
 
