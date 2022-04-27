@@ -46,8 +46,8 @@
             "pretext_color": "#000000",
             "heading_color": "#000000",
             "subheading_color": "#000000",
-            "text_alignment": "right",
-            "text_horizontal_position": "right",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
             "background_color": "#ffffff",
             "background_opacity": 0,
             "border_color": "#ffffff",
@@ -531,7 +531,7 @@
       "type": "apps",
       "blocks": {
         "cbe17975-b26e-414f-a9cc-63e65f4050f3": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_font": "poppins_n4",
             "heading_size": 10,
