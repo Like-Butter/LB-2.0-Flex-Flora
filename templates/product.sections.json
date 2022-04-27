@@ -118,12 +118,45 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "1651099809a9c53b32": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "1651099809795c6f9b-2": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "heading_size": "regular",
+            "text": "<p>Order today for dispatch\/collection in <strong>7-9 days <\/strong>from payment confirmation.<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "#fe7446",
+            "text_color": "#ffffff",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1651099809795c6f9b-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main",
     "recommendations",
-    "165109973106768206"
+    "165109973106768206",
+    "1651099809a9c53b32"
   ]
 }
