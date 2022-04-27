@@ -269,6 +269,7 @@
         "blocks": {
           "header__top-bar-1": {
             "type": "social_media",
+            "disabled": true,
             "settings": {
             }
           },
@@ -285,7 +286,7 @@
           "a43d5edd-6323-4b2e-89a3-63e0659f4bde"
         ],
         "settings": {
-          "show_top_bar": false,
+          "show_top_bar": true,
           "font": "futura_n4",
           "font_style": "none",
           "font_size": 14,
@@ -296,7 +297,7 @@
           "link_color": "#776761",
           "link_hover_color": "rgba(0,0,0,0)",
           "text_color": "rgba(0,0,0,0)",
-          "width": "standard",
+          "width": "wide",
           "css_class": "",
           "custom_css": ""
         }
