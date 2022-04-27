@@ -276,7 +276,7 @@
           "a43d5edd-6323-4b2e-89a3-63e0659f4bde": {
             "type": "menu",
             "settings": {
-              "menu": "footer",
+              "menu": "top-bar",
               "menu_alignment": "end"
             }
           }
