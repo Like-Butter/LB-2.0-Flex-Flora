@@ -10,6 +10,38 @@
         "custom_css": ""
       }
     },
+    "1651099809a9c53b32": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "1651099809795c6f9b-2": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "heading_size": "regular",
+            "text": "<p>Order today for dispatch\/collection in <strong>7-9 days <\/strong>from payment confirmation.<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "#fe7446",
+            "text_color": "#ffffff",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1651099809795c6f9b-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "main": {
       "type": "product__main",
       "blocks": {
@@ -69,24 +101,6 @@
         "custom_css": ""
       }
     },
-    "recommendations": {
-      "type": "product__recommendations",
-      "settings": {
-        "show_product_recommendations": true,
-        "product_recommendations_style": "grid",
-        "product_recommendations_heading": "You may also like",
-        "products_per": 3,
-        "recommended_products_limit": 6,
-        "align_height": false,
-        "collection_height": 200,
-        "width": "standard",
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "165109973106768206": {
       "type": "index__image-with-text",
       "blocks": {
@@ -119,31 +133,18 @@
         "custom_css": ""
       }
     },
-    "1651099809a9c53b32": {
-      "type": "index__image-with-text",
-      "blocks": {
-        "1651099809795c6f9b-2": {
-          "type": "text",
-          "settings": {
-            "title": "",
-            "heading_size": "regular",
-            "text": "<p>Order today for dispatch\/collection in <strong>7-9 days <\/strong>from payment confirmation.<\/p>",
-            "button_label": "",
-            "link": "",
-            "button_style": "button--primary",
-            "background": "#fe7446",
-            "text_color": "#ffffff",
-            "alignment": "left",
-            "vertical_position": "center"
-          }
-        }
-      },
-      "block_order": [
-        "1651099809795c6f9b-2"
-      ],
+    "recommendations": {
+      "type": "product__recommendations",
+      "disabled": true,
       "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_style": "grid",
+        "product_recommendations_heading": "You may also like",
+        "products_per": 3,
+        "recommended_products_limit": 6,
+        "align_height": false,
+        "collection_height": 200,
         "width": "standard",
-        "show_gutter": true,
         "padding_top": 20,
         "padding_bottom": 20,
         "animation": "none",
@@ -154,9 +155,9 @@
   },
   "order": [
     "breadcrumbs",
+    "1651099809a9c53b32",
     "main",
-    "recommendations",
     "165109973106768206",
-    "1651099809a9c53b32"
+    "recommendations"
   ]
 }
