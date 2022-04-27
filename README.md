@@ -39,7 +39,5 @@ Exclude 'pre-order' collection from main collections output
 
 ---
 
-## Contact:
-
-Jay Armstrong, Like Butter
+Contact: Jay Armstrong, Like Butter
 cuts@likebutter.com.au
