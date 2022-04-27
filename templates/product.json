@@ -43,7 +43,6 @@
         },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         }
@@ -477,7 +476,7 @@
         "button_style": "button--primary",
         "icon_color": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
-        "background": "#CCCCCC",
+        "background": "#cccccc",
         "gradient": "rgba(0,0,0,0)",
         "gradient_rotation": 0,
         "width": "standard",
