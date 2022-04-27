@@ -4,6 +4,7 @@ A new 2.0-ready theme for Like Butter, based on Flex 'Flora' (by Out of the Sand
 
 
 
+
 # Dynamic metafields on product templates
 Built by Satish Voddi (satish.voddi@storetasker.com), with thanks. 👏🏼
 
@@ -18,7 +19,8 @@ Built by Satish Voddi (satish.voddi@storetasker.com), with thanks. 👏🏼
 
 ### snippet/custom__dynamic-product-metafields.liquid
 
----
+
+
 
 # Collection template customisations
 
