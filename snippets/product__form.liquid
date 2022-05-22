@@ -257,11 +257,11 @@
     {% endif %}
   {% endform %}
   
-  <div class="image-with-text__wrapper"> 
-    <h3 class="image-with-text__heading text-align-left is-small">Shipping</h3> 
-    <div class="image-with-text__text text-align-left content"> <p>Order today for dispatch/collection in approximately [variant.metafields.lbmf.variant_leadtime] from payment confirmation.</p></div> 
-    <div class="buttons is-left"><a href="/policies/shipping-policy" class="button button--link-style ">More about shipping</a></div>
-</div>
+  {% comment %}Inject custom Like Butter metafield information for lead times{% endcomment %}
+  	<div class="image-with-text__wrapper lead-time"> 
+    	<div class="image-with-text__text text-align-left content"> <p>Order today for dispatch/collection in approximately [variant.metafields.lbmf.variant_leadtime] from payment confirmation.</p></div> 
+    	<div class="buttons is-left"><a href="/policies/shipping-policy" class="button button--link-style ">More about shipping</a></div>
+	</div>
 
   <div class="surface-pick-up surface-pick-up--loading" data-surface-pick-up></div>
   <div class="surface-pick-up__modal" data-surface-pick-up-modal></div>
