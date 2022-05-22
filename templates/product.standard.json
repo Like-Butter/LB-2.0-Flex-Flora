@@ -96,9 +96,9 @@
         "165102480098450a24-2": {
           "type": "text",
           "settings": {
-            "title": "Heading text here",
+            "title": "Squid dinner",
             "heading_size": "regular",
-            "text": "<p>Lorem<\/p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut adipiscing convallis purus quis pretium. Nulla rutrum elit ut nunc egestas convallis. Ut non ante sit amet velit egestas blandit. Pellentesque non ligula sed quam ornare fermentum gravida ut urna. Aenean cursus malesuada purus non molestie. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam vitae consectetur urna. Integer sed interdum ligula, eu tempus quam.<\/p>",
+            "text": "<p>Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.<\/p>",
             "button_label": "View all",
             "link": "",
             "button_style": "button--primary",
