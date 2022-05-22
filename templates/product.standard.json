@@ -96,10 +96,10 @@
         "165102480098450a24-2": {
           "type": "text",
           "settings": {
-            "title": "Squid dinner",
+            "title": "Lead Times Test",
             "heading_size": "regular",
-            "text": "<p>Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.<\/p>",
-            "button_label": "View all",
+            "text": "<p>[variant.metafields.lbmf.variant_leadtime]<\/p>",
+            "button_label": "",
             "link": "",
             "button_style": "button--primary",
             "background": "rgba(0,0,0,0)",
