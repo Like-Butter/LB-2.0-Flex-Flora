@@ -21,6 +21,12 @@ Built by Satish Voddi (satish.voddi@storetasker.com), with thanks. 👏🏼
 
 
 
+# Product template customisations
+
+### snippets/product__form.liquid
+
+Inject the 'lead times' metafield immediately below the product form block
+
 
 # Collection template customisations
 
