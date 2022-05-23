@@ -98,7 +98,7 @@
           "settings": {
             "title": "Heading text here",
             "heading_size": "regular",
-            "text": "<p>Lorem<\/p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut adipiscing convallis purus quis pretium. Nulla rutrum elit ut nunc egestas convallis. Ut non ante sit amet velit egestas blandit. Pellentesque non ligula sed quam ornare fermentum gravida ut urna. Aenean cursus malesuada purus non molestie. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam vitae consectetur urna. Integer sed interdum ligula, eu tempus quam.<\/p>",
+            "text": "<p>&lt;p&gt;Flat pack thanks to our spring-steel clip system (made from heat-treated steel) that pop on to form an unbelievably tough and durable assembly.&lt;\/p&gt;&lt;p&gt;The unit takes around 5 minutes for one person to assemble.&lt;\/p&gt;&lt;ul&gt;&lt;li&gt;&lt;ahref=\"https:\/\/a360.co\/3uMenu9\"target=\"_blank\"&gt;See the design in 3D&lt;\/a&gt;&lt;\/li&gt;&lt;li&gt;&lt;ahref=\"https:\/\/youtu.be\/NYD1CJlu-nM\"target=\"_blank\"&gt;Assembly video&lt;\/a&gt;&lt;\/li&gt;&lt;\/ul&gt;<\/p>",
             "button_label": "View all",
             "link": "",
             "button_style": "button--primary",
