@@ -252,7 +252,7 @@
         "products_limit": 6,
         "align_height": false,
         "collection_height": 200,
-        "collection_style": "grid",
+        "collection_style": "slider",
         "width": "standard",
         "show_gutter": true,
         "padding_top": 20,
@@ -414,7 +414,7 @@
     "164799427170e39003": {
       "type": "index__rich-text",
       "settings": {
-        "title": "Some of our partners",
+        "title": "Some of our besties",
         "heading_font": "poppins_n4",
         "heading_color": "rgba(0,0,0,0)",
         "heading_alignment": "center",
