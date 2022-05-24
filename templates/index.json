@@ -46,8 +46,8 @@
             "pretext_color": "#000000",
             "heading_color": "#000000",
             "subheading_color": "#000000",
-            "text_alignment": "left",
-            "text_horizontal_position": "left",
+            "text_alignment": "right",
+            "text_horizontal_position": "right",
             "background_color": "#ffffff",
             "background_opacity": 0,
             "border_color": "#ffffff",
@@ -118,20 +118,20 @@
     "164757335123d96651": {
       "type": "index__collection-list",
       "blocks": {
-        "16475733512df3892c-0": {
+        "16475733512df3892c-1": {
           "type": "collection",
           "settings": {
-            "feature_collection": "storing",
+            "feature_collection": "crates",
             "image": "shopify:\/\/shop_images\/Like_Butter-6_95eef662-2385-4013-907d-b2c51b0713d0.jpg",
             "title": "",
             "button_label": "View products"
           }
         },
-        "16475733512df3892c-1": {
+        "16475733512df3892c-0": {
           "type": "collection",
           "settings": {
-            "feature_collection": "sleeping",
-            "image": "shopify:\/\/shop_images\/Like_Butter_Bed_Bedside_Table.jpg",
+            "feature_collection": "storing",
+            "image": "shopify:\/\/shop_images\/Like_Butter_Storing_Shelves_66938ddb-bd39-4357-8a43-a310a8bb3650.jpg",
             "title": "",
             "button_label": "View products"
           }
@@ -147,8 +147,8 @@
         }
       },
       "block_order": [
-        "16475733512df3892c-0",
         "16475733512df3892c-1",
+        "16475733512df3892c-0",
         "16475733512df3892c-2"
       ],
       "settings": {
