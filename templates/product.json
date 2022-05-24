@@ -232,7 +232,7 @@
           "settings": {
             "title": "Dimensions",
             "heading_size": "small",
-            "text": "<p>NEW [variant.metafields.lbmf.variant_dimensions]<\/p>",
+            "text": "<p>[variant.metafields.lbmf.variant_dimensions]<\/p>",
             "button_label": "",
             "link": "",
             "button_style": "button--primary",
