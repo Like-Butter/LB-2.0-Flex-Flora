@@ -247,7 +247,7 @@
           "settings": {
             "title": "Helpful Links",
             "heading_size": "small",
-            "text": "<p>[variant.metafields.lbmf.variant_links]<\/p>",
+            "text": "<p>[variant.metafields.lbmf.test1]<\/p>",
             "button_label": "Maintenance and Care",
             "link": "shopify:\/\/pages\/maintenance-and-care",
             "button_style": "button--link-style",
