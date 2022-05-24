@@ -231,13 +231,7 @@
           {% if block.settings.custom_description != blank %}
             <div class="description content has-padding-top">
               {{ block.settings.custom_description }}
-
-        
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut adipiscing convallis purus quis pretium. Nulla rutrum elit ut nunc egestas convallis. Ut non ante sit amet velit egestas blandit. Pellentesque non ligula sed quam ornare fermentum gravida ut urna. Aenean cursus malesuada purus non molestie. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam vitae consectetur urna. Integer sed interdum ligula, eu tempus quam.
-</p>
-    
-              
-        </div>
+            </div>
           {% elsif section_onboarding %}
             <div class="description content has-padding-top">
               <p>
@@ -248,6 +242,9 @@
             {% if product.description != blank %}
               <div class="description content has-padding-top">
                 {{ product.description | split: '<!-- split -->' | first }}
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut adipiscing convallis purus quis pretium. Nulla rutrum elit ut nunc egestas convallis. Ut non ante sit amet velit egestas blandit. Pellentesque non ligula sed quam ornare fermentum gravida ut urna. Aenean cursus malesuada purus non molestie. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam vitae consectetur urna. Integer sed interdum ligula, eu tempus quam.
+</p>
+    
               </div>
             {% endif %}
           {% endif %}
