@@ -41,6 +41,8 @@ Add collection description to the collections template output
 
 ---
 
+# Exclude collections
+
 Exclude 'pre-order' collection from main collections output
 
     {% unless collection.handle == 'pre-order' %}
@@ -48,7 +50,10 @@ Exclude 'pre-order' collection from main collections output
 
 ---
 
-{% render 'snippet-name' %}
+# Inject metafields
+
+{% render 'custom__designer' %} into snippets/products.liquid
+{% render 'custom__lead-time' %} into snippets/products__form.liqiud
 
 ---
 
