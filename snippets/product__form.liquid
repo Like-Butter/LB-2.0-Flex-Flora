@@ -260,15 +260,10 @@
   
   
   {% comment %}Inject custom Like Butter metafield information for lead times{% endcomment %}
+  {% render 'custom__lead-time' %}
+
   
-  <div class="image-with-text__wrapper lead-time"> 
-  	<div class="image-with-text__text text-align-left content">
-    	<div class="item1"></div> 
-      	<div class="item2"><p>Order today for dispatch/collection in approximately <span>[variant.metafields.lbmf.variant_leadtime]</span> from payment confirmation.</p></div> 
-    </div> 
-  </div>
-  
-  
+
 
   <div class="surface-pick-up surface-pick-up--loading" data-surface-pick-up></div>
   <div class="surface-pick-up__modal" data-surface-pick-up-modal></div>
