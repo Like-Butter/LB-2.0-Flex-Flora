@@ -19,6 +19,7 @@ Built by Satish Voddi (satish.voddi@storetasker.com), with thanks. 👏🏼
 
 ### snippets/product-dynamic-metafield-scripts.liquid
 
+---
 
 # Product template customisations
 
@@ -26,6 +27,7 @@ Built by Satish Voddi (satish.voddi@storetasker.com), with thanks. 👏🏼
 
 Inject the 'lead times' metafield immediately below the product form block
 
+---
 
 # Collection template customisations
 
@@ -37,10 +39,16 @@ Add collection description to the collections template output
       {{ collection.description }}
     </span>
 
+---
+
 Exclude 'pre-order' collection from main collections output
 
     {% unless collection.handle == 'pre-order' %}
     {% endunless %}
+
+---
+
+{% render 'snippet-name' %}
 
 ---
 
