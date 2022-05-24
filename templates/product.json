@@ -74,91 +74,6 @@
         "custom_css": ""
       }
     },
-    "1651024794174d6ad6": {
-      "type": "index__faq",
-      "disabled": true,
-      "blocks": {
-        "16510247943a16cedc-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Section heading"
-          }
-        },
-        "16510247943a16cedc-1": {
-          "type": "content",
-          "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
-          }
-        },
-        "16510247943a16cedc-2": {
-          "type": "content",
-          "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
-          }
-        },
-        "16510247943a16cedc-3": {
-          "type": "content",
-          "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
-          }
-        },
-        "16510247943a16cedc-4": {
-          "type": "heading",
-          "settings": {
-            "title": "Section heading"
-          }
-        },
-        "16510247943a16cedc-5": {
-          "type": "content",
-          "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
-          }
-        },
-        "16510247943a16cedc-6": {
-          "type": "content",
-          "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
-          }
-        },
-        "16510247943a16cedc-7": {
-          "type": "content",
-          "settings": {
-            "title": "What is your question?",
-            "answer": "<p>Provide the answer to the question here.<\/p>"
-          }
-        },
-        "16510247943a16cedc-8": {
-          "type": "image",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16510247943a16cedc-0",
-        "16510247943a16cedc-1",
-        "16510247943a16cedc-2",
-        "16510247943a16cedc-3",
-        "16510247943a16cedc-4",
-        "16510247943a16cedc-5",
-        "16510247943a16cedc-6",
-        "16510247943a16cedc-7",
-        "16510247943a16cedc-8"
-      ],
-      "settings": {
-        "title": "FAQ",
-        "width": "standard",
-        "padding_top": 56,
-        "padding_bottom": 56,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "16504975763deefb5e": {
       "type": "index__image-with-text",
       "blocks": {
@@ -223,70 +138,6 @@
         "custom_css": ""
       }
     },
-    "1650496539408b5b17": {
-      "type": "index__image-with-text",
-      "blocks": {
-        "165049653998c9f677-2": {
-          "type": "text",
-          "settings": {
-            "title": "Designer",
-            "heading_size": "small",
-            "text": "<p>[product.metafields.lbmf.product_designer]<\/p>",
-            "button_label": "Meet the team",
-            "link": "shopify:\/\/pages\/about-us",
-            "button_style": "button--link-style",
-            "background": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "start"
-          }
-        }
-      },
-      "block_order": [
-        "165049653998c9f677-2"
-      ],
-      "settings": {
-        "width": "standard",
-        "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "16504978154daf513c": {
-      "type": "index__image-with-text",
-      "blocks": {
-        "16504978151583dec3-2": {
-          "type": "text",
-          "settings": {
-            "title": "What's in the Box?",
-            "heading_size": "small",
-            "text": "<p>[variant.metafields.lbmf.variant_parts]<\/p>",
-            "button_label": "",
-            "link": "",
-            "button_style": "button--primary",
-            "background": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "alignment": "left",
-            "vertical_position": "start"
-          }
-        }
-      },
-      "block_order": [
-        "16504978151583dec3-2"
-      ],
-      "settings": {
-        "width": "standard",
-        "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "1650496524a16abd39": {
       "type": "index__image-with-text",
       "blocks": {
@@ -340,6 +191,38 @@
         "1650496524700edea7-2",
         "aef647ce-24e9-4064-8616-e076afb070d8",
         "00f5ae30-f3d1-4bed-a322-53b367a275fa"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16504978154daf513c": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "16504978151583dec3-2": {
+          "type": "text",
+          "settings": {
+            "title": "What's in the Box?",
+            "heading_size": "small",
+            "text": "<p>[variant.metafields.lbmf.variant_parts]<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16504978151583dec3-2"
       ],
       "settings": {
         "width": "standard",
@@ -445,11 +328,9 @@
     "breadcrumbs",
     "sidebar",
     "main",
-    "1651024794174d6ad6",
     "16504975763deefb5e",
-    "1650496539408b5b17",
-    "16504978154daf513c",
     "1650496524a16abd39",
+    "16504978154daf513c",
     "recommendations",
     "16510250963efb95ab"
   ]
