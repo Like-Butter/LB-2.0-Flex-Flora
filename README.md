@@ -14,11 +14,10 @@ Built by Satish Voddi (satish.voddi@storetasker.com), with thanks. 👏🏼
 
 ### sections/product__main.liquid
 
-    {% comment %}LIke Butter customisation{% endcomment %}
-    {% render 'custom__dynamic-product-metafields', product: product %}
+    {% comment %}Like Butter customisation{% endcomment %}
+    {% render 'product-dynamic-metafield-scripts', product: product %}
 
-### snippet/custom__dynamic-product-metafields.liquid
-
+### snippets/product-dynamic-metafield-scripts.liquid
 
 
 # Product template customisations
