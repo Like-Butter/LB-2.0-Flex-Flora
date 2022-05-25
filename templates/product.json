@@ -237,7 +237,7 @@
     "recommendations": {
       "type": "product__recommendations",
       "settings": {
-        "show_product_recommendations": true,
+        "show_product_recommendations": false,
         "product_recommendations_style": "grid",
         "product_recommendations_heading": "You may also like",
         "products_per": 4,
@@ -254,6 +254,7 @@
     },
     "16510250963efb95ab": {
       "type": "index__icon-with-text-column",
+      "disabled": true,
       "blocks": {
         "16510250969bd13e89-0": {
           "type": "logo_image",
@@ -322,6 +323,68 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "16534549240f6a5564": {
+      "type": "index__collection-list",
+      "disabled": true,
+      "blocks": {
+        "16534549244b821ce3-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "16534549244b821ce3-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "16534549244b821ce3-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "89094435-759d-4a98-b547-c95164c069b0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        }
+      },
+      "block_order": [
+        "16534549244b821ce3-0",
+        "16534549244b821ce3-1",
+        "16534549244b821ce3-2",
+        "89094435-759d-4a98-b547-c95164c069b0"
+      ],
+      "settings": {
+        "collections_per_row": 4,
+        "align_height": false,
+        "collection_height": 400,
+        "enable_zoom": true,
+        "button_style": "button--secondary",
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 70,
+        "overlay_text": "#FFFFFF",
+        "collection_title_below_image": false,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -332,6 +395,7 @@
     "1650496524a16abd39",
     "16504978154daf513c",
     "recommendations",
-    "16510250963efb95ab"
+    "16510250963efb95ab",
+    "16534549240f6a5564"
   ]
 }
