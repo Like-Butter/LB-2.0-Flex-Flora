@@ -1,4 +1,5 @@
 # LB-2.0-Flex-Flora
+(Flex version 3.0.2)
 
 A new 2.0-ready theme for Like Butter, based on Flex 'Flora' (by Out of the Sandbox)
 
