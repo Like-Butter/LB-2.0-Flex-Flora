@@ -53,6 +53,7 @@ Exclude 'pre-order' collection from main collections output
 # Inject metafields
 
 {% render 'custom__designer' %} into snippets/products.liquid
+
 {% render 'custom__lead-time' %} into snippets/products__form.liqiud
 
 ---
