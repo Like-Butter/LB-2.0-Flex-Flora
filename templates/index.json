@@ -392,7 +392,7 @@
       "type": "index__blog-posts",
       "settings": {
         "title": "",
-        "blog_widget_select": "news",
+        "blog_widget_select": "butter-blog",
         "home_page_articles": 4,
         "blog_show_tags": true,
         "blog_author": false,
@@ -533,7 +533,6 @@
         "cbe17975-b26e-414f-a9cc-63e65f4050f3": {
           "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_font": "poppins_n4",
             "heading_size": 10,
             "feed_width": 100,
             "html_area": ""
